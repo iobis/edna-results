@@ -7,6 +7,7 @@ PROJECT_NAME = "eDNAexpeditions_batch1_samples"
 OCCURRENCE_FILE = "Occurrence_table.tsv"
 DNA_FILE = "DNA_extension_table.tsv"
 OUPUT_FOLDER = "output"
+CONTAMINANTS = ["Homo", "Sus", "Gallus", "Canis", "Bos", "Felis", "Ovis", "Mus", "Vulpes", "Rattus"]
 
 
 def download_results() -> None:
@@ -66,6 +67,7 @@ def derive_site_name(input):
         if input_lower.startswith(key):
             return site_dict[key]
     raise Exception(f"Site {input} not recognized")
+
 
 def derive_marker_name(input: str) -> str:
     marker_dict = {
@@ -160,6 +162,13 @@ for site_name in folders_by_site:
     # merge metadata
 
     occurrence_combined = pd.merge(occurrence_combined, metadata_df, on="materialSampleID", how="left")
+
+    # remove contaminants
+
+    contaminants = occurrence_combined[occurrence_combined["genus"].isin(CONTAMINANTS)]
+    contaminant_ids = contaminants["occurrenceID"].tolist()
+    occurrence_combined = occurrence_combined[~occurrence_combined["occurrenceID"].isin(contaminant_ids)]
+    dna_combined = dna_combined[~dna_combined["occurrenceID"].isin(contaminant_ids)]
 
     # output
 
