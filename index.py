@@ -163,5 +163,8 @@ for site_name in folders_by_site:
 
     # output
 
-    occurrence_combined.to_csv(os.path.join("output", f"{site_name}_Occurrence.tsv"), sep = "\t", index = False)
-    occurrence_combined.to_csv(os.path.join("output", f"{site_name}_DNADerivedData.tsv"), sep = "\t", index = False)
+    if not os.path.exists(OUPUT_FOLDER):
+        os.makedirs(OUPUT_FOLDER)
+
+    occurrence_combined.to_csv(os.path.join("output", f"{site_name}_Occurrence.tsv"), sep="\t", index=False)
+    occurrence_combined.to_csv(os.path.join("output", f"{site_name}_DNADerivedData.tsv"), sep="\t", index=False)
