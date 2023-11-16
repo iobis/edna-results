@@ -176,4 +176,4 @@ for site_name in folders_by_site:
         os.makedirs(OUPUT_FOLDER)
 
     occurrence_combined.to_csv(os.path.join("output", f"{site_name}_Occurrence.tsv"), sep="\t", index=False)
-    occurrence_combined.to_csv(os.path.join("output", f"{site_name}_DNADerivedData.tsv"), sep="\t", index=False)
+    dna_combined.to_csv(os.path.join("output", f"{site_name}_DNADerivedData.tsv"), sep="\t", index=False)
