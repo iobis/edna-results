@@ -4,7 +4,7 @@ import pandas as pd
 
 
 PROJECT_NAME = "eDNAexpeditions_batch1_samples"
-OCCURRENCE_FILE = "Occurence_table.tsv"
+OCCURRENCE_FILE = "Occurrence_table.tsv"
 DNA_FILE = "DNA_extension_table.tsv"
 OUPUT_FOLDER = "output"
 
@@ -59,6 +59,7 @@ def derive_site_name(input):
         "philippines": "tubbataha_reefs_natural_park",
         "bangladesh": "the_sundarbans",
         "southafrica": "isimangaliso_wetland_park",
+        "seychel": "aldabra_atoll",
     }
     input_lower = input.lower()
     for key in site_dict:
