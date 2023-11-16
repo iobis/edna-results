@@ -10,16 +10,18 @@ This is a workflow for processing eDNA results from the [eDNA Expeditions projec
 library(purrr)
 library(dplyr)
 
+unlink("edna-results", recursive = TRUE)
 system("git clone -b data --depth=1 https://github.com/iobis/edna-results.git")
 
-occurrence_files <- list.files("edna-results/data", "*Occurrence*", full.names = TRUE)
 dna_files <- list.files("edna-results/data", "*DNADerivedData*", full.names = TRUE)
-
-occurrence <- map(occurrence_files, read.table, sep = "\t", quote = "", header = TRUE) %>%
-  bind_rows() %>%
-  mutate_if(is.character, na_if, "")
+occurrence_files <- list.files("edna-results/data", "*Occurrence*", full.names = TRUE)
 
 dna <- map(dna_files, read.table, sep = "\t", quote = "", header = TRUE) %>%
   bind_rows() %>%
   mutate_if(is.character, na_if, "")
+
+occurrence <- map(occurrence_files, read.table, sep = "\t", quote = "", header = TRUE) %>%
+  bind_rows() %>%
+  mutate_if(is.character, na_if, "") %>%
+  left_join(dna, by = "occurrenceID")
 ```
