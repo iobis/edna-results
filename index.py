@@ -11,7 +11,7 @@ OUPUT_FOLDER = "output"
 
 def download_results() -> None:
     if not os.path.exists("pacman-pipeline-results"):
-        os.system("git clone --depth 1 git@github.com:iobis/pacman-pipeline-results.git")
+        os.system("git clone --depth 1 https://github.com/iobis/pacman-pipeline-results.git")
 
 
 def fetch_metadata() -> dict:
