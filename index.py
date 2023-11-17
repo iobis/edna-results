@@ -159,6 +159,12 @@ for site_name in folders_by_site:
     occurrence_combined = pd.concat(occurrence_tables)
     dna_combined = pd.concat(dna_tables)
 
+    # replace sample ID EE0476 with EE0475
+
+    occurrence_combined["occurrenceID"] = occurrence_combined["occurrenceID"].str.replace("EE0476", "EE0475")
+    occurrence_combined["materialSampleID"] = occurrence_combined["materialSampleID"].str.replace("EE0476", "EE0475")
+    dna_combined["occurrenceID"] = dna_combined["occurrenceID"].str.replace("EE0476", "EE0475")
+
     # merge metadata
 
     occurrence_combined = pd.merge(occurrence_combined, metadata_df, on="materialSampleID", how="left")
