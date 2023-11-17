@@ -61,6 +61,7 @@ def derive_site_name(input):
         "bangladesh": "the_sundarbans",
         "southafrica": "isimangaliso_wetland_park",
         "seychel": "aldabra_atoll",
+        "mexico": "archipielago_de_revillagigedo"
     }
     input_lower = input.lower()
     for key in site_dict:
