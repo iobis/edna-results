@@ -1,6 +1,8 @@
 ---
 title: eDNA reads, AVSs, and species
 output: md_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 # eDNA data exploration
@@ -36,13 +38,53 @@ occurrence <- map(occurrence_files, read.table, sep = "\t", quote = "", header =
 stats <- occurrence %>%
   group_by(materialSampleID, pcr_primer_name_forward) %>%
   summarize(species = n_distinct(species, na.rm = TRUE), asvs = n(), reads = sum(organismQuantity))
-
-ggplot() +
-  geom_point(data = stats, aes(reads, asvs, color = pcr_primer_name_forward))
-
-ggplot() +
-  geom_point(data = stats, aes(reads, species, color = pcr_primer_name_forward))
-
-ggplot() +
-  geom_point(data = stats, aes(asvs, species, color = pcr_primer_name_forward))
 ```
+
+### Linear
+
+```{r message=FALSE, warning=FALSE, fig.width=10, fig.height=5}
+ggplot() +
+  geom_point(data = stats, aes(reads, asvs, color = pcr_primer_name_forward)) +
+  stat_smooth(data = stats, aes(reads, asvs, color = pcr_primer_name_forward), method = "lm", geom = "smooth", formula = (y ~ x)) +
+  theme_minimal() +
+  ggtitle("ASVs by reads")
+
+ggplot() +
+  geom_point(data = stats, aes(reads, species, color = pcr_primer_name_forward)) +
+  stat_smooth(data = stats, aes(reads, species, color = pcr_primer_name_forward), method = "lm", geom = "smooth", formula = (y ~ x)) +
+  theme_minimal() +
+  ggtitle("Species by reads")
+
+ggplot() +
+  geom_point(data = stats, aes(asvs, species, color = pcr_primer_name_forward)) +
+  stat_smooth(data = stats, aes(asvs, species, color = pcr_primer_name_forward), method = "lm", geom = "smooth", formula = (y ~ x)) +
+  theme_minimal() +
+  ggtitle("Species by ASVs")
+```
+
+### Local polynomial
+
+```{r message=FALSE, warning=FALSE, fig.width=10, fig.height=5}
+ggplot() +
+  geom_point(data = stats, aes(reads, asvs, color = pcr_primer_name_forward)) +
+  stat_smooth(data = stats, aes(reads, asvs, color = pcr_primer_name_forward), method = "loess", geom = "smooth", formula = (y ~ x)) +
+  theme_minimal() +
+  ggtitle("ASVs by reads")
+
+ggplot() +
+  geom_point(data = stats, aes(reads, species, color = pcr_primer_name_forward)) +
+  stat_smooth(data = stats, aes(reads, species, color = pcr_primer_name_forward), method = "loess", geom = "smooth", formula = (y ~ x)) +
+  theme_minimal() +
+  ggtitle("Species by reads")
+
+ggplot() +
+  geom_point(data = stats, aes(asvs, species, color = pcr_primer_name_forward)) +
+  stat_smooth(data = stats, aes(asvs, species, color = pcr_primer_name_forward), method = "loess", geom = "smooth", formula = (y ~ x)) +
+  theme_minimal() +
+  ggtitle("Species by ASVs")
+```
+
+
+## Rarefaction curves
+
+To do.
