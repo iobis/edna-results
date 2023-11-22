@@ -23,5 +23,6 @@ dna <- map(dna_files, read.table, sep = "\t", quote = "", header = TRUE) %>%
 occurrence <- map(occurrence_files, read.table, sep = "\t", quote = "", header = TRUE) %>%
   bind_rows() %>%
   mutate_if(is.character, na_if, "") %>%
+  mutate(species = ifelse(taxonRank == "species", scientificName, NA)) %>%
   left_join(dna, by = "occurrenceID")
 ```
