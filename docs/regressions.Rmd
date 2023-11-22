@@ -17,6 +17,7 @@ knitr::opts_chunk$set(dpi=300)
 library(ggplot2)
 library(dplyr)
 library(purrr)
+library(stringr)
 
 dna_files <- list.files("../output", "*DNADerivedData*", full.names = TRUE)
 occurrence_files <- list.files("../output", "*Occurrence*", full.names = TRUE)
@@ -36,7 +37,8 @@ occurrence <- map(occurrence_files, read.table, sep = "\t", quote = "", header =
 
 ```{r message=FALSE, warning=FALSE, fig.width=10, fig.height=5}
 stats <- occurrence %>%
-  group_by(materialSampleID, pcr_primer_name_forward) %>%
+  filter(str_detect(materialSampleID, "EE")) %>%
+  group_by(higherGeography, materialSampleID, pcr_primer_name_forward) %>%
   summarize(species = n_distinct(species, na.rm = TRUE), asvs = n(), reads = sum(organismQuantity))
 ```
 
@@ -62,6 +64,17 @@ ggplot() +
   ggtitle("Species by ASVs")
 ```
 
+### Linear by site and marker
+
+```{r}
+ggplot() +
+  geom_point(data = stats, aes(reads, species, shape = higherGeography, color = pcr_primer_name_forward)) +
+  stat_smooth(data = stats, aes(reads, species, shape = higherGeography, color = pcr_primer_name_forward), method = "lm", geom = "smooth", formula = (y ~ x), se = FALSE) +
+  theme_minimal() +
+  ggtitle("Species by reads") +
+  scale_shape_manual(values = 0:15)
+```
+
 ### Local polynomial
 
 ```{r message=FALSE, warning=FALSE, fig.width=10, fig.height=5}
@@ -83,7 +96,6 @@ ggplot() +
   theme_minimal() +
   ggtitle("Species by ASVs")
 ```
-
 
 ## Rarefaction curves
 
