@@ -5,6 +5,10 @@ output: md_document
 
 # eDNA data exploration
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(dpi=300)
+```
+
 ## Read dataset
 
 ```{r message=FALSE, warning=FALSE}
@@ -28,7 +32,7 @@ occurrence <- map(occurrence_files, read.table, sep = "\t", quote = "", header =
 
 ## Reads, AVSs, and species by marker
 
-```{r message=FALSE, warning=FALSE}
+```{r message=FALSE, warning=FALSE, fig.width=10, fig.height=5}
 stats <- occurrence %>%
   group_by(materialSampleID, pcr_primer_name_forward) %>%
   summarize(species = n_distinct(species, na.rm = TRUE), asvs = n(), reads = sum(organismQuantity))
