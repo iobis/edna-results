@@ -66,13 +66,14 @@ ggplot() +
 
 ### Linear by site and marker
 
-```{r}
+```{r message=FALSE, warning=FALSE, fig.width=15, fig.height=7}
 ggplot() +
   geom_point(data = stats, aes(reads, species, shape = higherGeography, color = pcr_primer_name_forward)) +
   stat_smooth(data = stats, aes(reads, species, shape = higherGeography, color = pcr_primer_name_forward), method = "lm", geom = "smooth", formula = (y ~ x), se = FALSE) +
   theme_minimal() +
   ggtitle("Species by reads") +
-  scale_shape_manual(values = 0:15)
+  scale_shape_manual(values = 0:15) +
+  theme(legend.position = "right")
 ```
 
 ### Local polynomial

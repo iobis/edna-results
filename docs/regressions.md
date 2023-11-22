@@ -60,10 +60,8 @@
       stat_smooth(data = stats, aes(reads, species, shape = higherGeography, color = pcr_primer_name_forward), method = "lm", geom = "smooth", formula = (y ~ x), se = FALSE) +
       theme_minimal() +
       ggtitle("Species by reads") +
-      scale_shape_manual(values = 0:15)
-
-    ## Warning in stat_smooth(data = stats, aes(reads, species, shape =
-    ## higherGeography, : Ignoring unknown aesthetics: shape
+      scale_shape_manual(values = 0:15) +
+      theme(legend.position = "right")
 
 ![](regressions_files/figure-markdown_strict/unnamed-chunk-4-1.png)
 
