@@ -1,0 +1,74 @@
+---
+title: Reading the eDNA dataset
+output: md_document
+editor_options: 
+  chunk_output_type: console
+---
+
+# Reading the eDNA dataset
+
+```{r message=FALSE, warning=FALSE}
+library(dplyr)
+library(stringr)
+library(purrr)
+
+dna_files <- list.files("../output", "*DNADerivedData*", full.names = TRUE)
+occurrence_files <- list.files("../output", "*Occurrence*", full.names = TRUE)
+
+dna <- map(dna_files, read.table, sep = "\t", quote = "", header = TRUE) %>%
+  bind_rows() %>%
+  mutate_if(is.character, na_if, "")
+
+occurrence <- map(occurrence_files, read.table, sep = "\t", quote = "", header = TRUE) %>%
+  bind_rows() %>%
+  mutate_if(is.character, na_if, "") %>%
+  mutate(
+    species = ifelse(taxonRank == "species", scientificName, NA),
+    aphiaid = as.numeric(str_replace(scientificNameID, "urn:lsid:marinespecies.org:taxname:", ""))
+  ) %>%
+  left_join(dna, by = "occurrenceID")
+```
+
+## Resolving to accepted species
+
+```{r message=FALSE, warning=FALSE}
+library(worrms)
+library(furrr)
+
+aphiaids <- unique(occurrence$aphiaid)
+aphiaid_batches <- split(aphiaids, as.integer((seq_along(aphiaids) - 1) / 50))
+plan(multisession, workers = 3)
+aphiaid_mapping <- future_map(aphiaid_batches, wm_record) %>%
+  bind_rows() %>%
+  select(aphiaid = AphiaID, valid_aphiaid = valid_AphiaID) %>%
+  distinct() %>%
+  filter(aphiaid != valid_aphiaid)
+
+valid_aphiaids <- unique(aphiaid_mapping$valid_aphiaid)
+valid_aphiaid_batches <- split(valid_aphiaids, as.integer((seq_along(valid_aphiaids) - 1) / 50))
+valid_taxa <- map(valid_aphiaid_batches, wm_record) %>%
+  bind_rows() %>%
+  select(valid_aphiaid = AphiaID, scientificName = scientificname, scientificNameID = lsid, taxonRank = rank, kingdom, phylum, class, order, family, genus) %>%
+  mutate(taxonRank = tolower(taxonRank))
+
+occurrence <- occurrence %>%
+  mutate(verbatimScientificName = scientificName) %>%
+  left_join(aphiaid_mapping, by = "aphiaid") %>%
+  rows_update(valid_taxa, by = "valid_aphiaid") %>%
+  mutate(
+    species = ifelse(taxonRank == "species", scientificName, NA),
+    aphiaid = as.numeric(str_replace(scientificNameID, "urn:lsid:marinespecies.org:taxname:", ""))
+  ) %>%
+  select(-valid_aphiaid)
+```
+
+Inspect updated names:
+
+```{r message=FALSE, warning=FALSE}
+occurrence %>%
+  filter(scientificName != verbatimScientificName) %>%
+  group_by(scientificName, verbatimScientificName) %>%
+  summarize(n = n()) %>%
+  arrange(desc(n)) %>%
+  knitr::kable()
+```
