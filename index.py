@@ -7,7 +7,7 @@ PROJECT_NAME = "eDNAexpeditions_batch1_samples"
 OCCURRENCE_FILE = "Occurrence_table.tsv"
 DNA_FILE = "DNA_extension_table.tsv"
 OUPUT_FOLDER = "output"
-CONTAMINANTS = ["Homo", "Sus", "Gallus", "Canis", "Bos", "Felis", "Ovis", "Mus", "Vulpes", "Rattus"]
+CONTAMINANTS = ["Homo", "Sus", "Gallus", "Canis", "Bos", "Felis", "Ovis", "Mus", "Vulpes", "Rattus", "Capra", "Rangifer"]
 
 
 def download_results() -> None:
@@ -79,7 +79,8 @@ def derive_marker_name(input: str) -> str:
         "co1": "coi",
         "16s": "16s",
     }
-    input_lower = input.lower()
+    input_marker = input.split("_")[1]
+    input_lower = input_marker.lower()
     for key in marker_dict:
         if key in input_lower:
             return marker_dict[key]
