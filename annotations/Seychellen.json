@@ -1,0 +1,559 @@
+[
+    {
+        "site": "Aldabra Atoll",
+        "species": "Aetobatus flagellum",
+        "AphiaID": 278241,
+        "new_AphiaID": 217426,
+        "remove": "false",
+        "comment": "change to Aetobatus narinari"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Albula glossodonta",
+        "AphiaID": 212255,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Anas poecilorhyncha",
+        "AphiaID": 1034710,
+        "remove": "true",
+        "comment": "anas platyrhynchos"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Apataxia cerithiiformis",
+        "AphiaID": 871015,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Apogonichthys perdix",
+        "AphiaID": 209383,
+        "remove": "false",
+        "comment": "lower confidence hit"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Arothron manilensis",
+        "AphiaID": 275384,
+        "remove": "true",
+        "comment": "good confidence but the distribution is off"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Aseraggodes cheni",
+        "AphiaID": 398688,
+        "remove": "true",
+        "comment": "good confidence, bad distribution"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Balanoglossus carnosus",
+        "AphiaID": 266572,
+        "remove": "true",
+        "comment": "low confidence"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Bohadschia cousteaui",
+        "AphiaID": 210766,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Bohadschia vitiensis",
+        "AphiaID": 210759,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Callyspongia fallax",
+        "AphiaID": 190264,
+        "remove": "true",
+        "comment": "based on known distriburtion"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Callyspongia vaginalis",
+        "AphiaID": 247858,
+        "remove": "true",
+        "comment": "based on known distriburtion"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Cantherhines pullus",
+        "AphiaID": 159493,
+        "remove": "true",
+        "comment": "based on known distriburtion"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Canthigaster jactator",
+        "AphiaID": 275256,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Carinoma tremaphoros",
+        "AphiaID": 146924,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Chaetodon austriacus",
+        "AphiaID": 218732,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Chaetodon ephippium",
+        "AphiaID": 273335,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Cheilopogon cyanopterus",
+        "AphiaID": 217862,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Cheilopogon spilonotopterus",
+        "AphiaID": 272163,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Chromis margaritifer",
+        "AphiaID": 273739,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Chromis vanderbilti",
+        "AphiaID": 273758,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Chromis viridis",
+        "AphiaID": 212811,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Chromis xanthochira",
+        "AphiaID": 273761,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Cinachyrella kuekenthali",
+        "AphiaID": 171308,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Cirrhitichthys aprinus",
+        "AphiaID": 218855,
+        "new_AphiaID": 218853,
+        "remove": "false",
+        "comment": "change to Cirrhitichtys oxycephalus"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Craterium leucocephalum",
+        "AphiaID": 1501261,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Crenimugil seheli",
+        "AphiaID": 1043477,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Ctenochaetus cyanocheilus",
+        "AphiaID": 277559,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Ctenogobiops feroculus",
+        "AphiaID": 219437,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Cyclothone pseudopallida",
+        "AphiaID": 127289,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Cyclothone signata",
+        "AphiaID": 154831,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Cymolutes torquatus",
+        "AphiaID": 218966,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Dicentrarchus punctatus",
+        "AphiaID": 126976,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Diodon liturosus",
+        "AphiaID": 219970,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Diplodus kotschyi",
+        "AphiaID": 998229,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Dysalotus alcocki",
+        "AphiaID": 159665,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Ecsenius yaeyamaensis",
+        "AphiaID": 277692,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Eleotris fusca",
+        "AphiaID": 219356,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Eleotris melanosoma",
+        "AphiaID": 219353,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Epigonichthys maldivensis",
+        "AphiaID": 212958,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Epinephelus coeruleopunctatus",
+        "AphiaID": 218247,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Epinephelus corallicola",
+        "AphiaID": 218247,
+        "new_AphiaID": 218247,
+        "remove": "false",
+        "comment": "change to Epinephelus coeruleopunctatus"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Ethmalosa fimbriata",
+        "AphiaID": 280725,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Eucinostomus gula",
+        "AphiaID": 159733,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Fibramia amboinensis",
+        "AphiaID": 1043448,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Fregata aquila",
+        "AphiaID": 343998,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Gerres cinereus",
+        "AphiaID": 276954,
+        "new_AphiaID": 367242,
+        "remove": "false",
+        "comment": "change to Gerres longirostris"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Gnatholepis thompsoni",
+        "AphiaID": 277493,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Gymnothorax kidako",
+        "AphiaID": 271843,
+        "new_AphiaID": 217490,
+        "remove": "false",
+        "comment": "change ot Gymnothorax_chilospilus"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Gymnothorax miliaris",
+        "AphiaID": 217479,
+        "new_AphiaID": 217479,
+        "remove": "false",
+        "comment": "change to Gymnothorax buroensis"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Hemiramphus far",
+        "AphiaID": 126389,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Himantura uarnak",
+        "AphiaID": 105854,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Hipposcarus longiceps",
+        "AphiaID": 278899,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Hypoatherina tsurugae",
+        "AphiaID": 277725,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Kraemeria cunicularia",
+        "AphiaID": 276653,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Loxosomella aloxiata",
+        "AphiaID": 397268,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Lutjanus quinquelineatus",
+        "AphiaID": 218497,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Melichthys vidua",
+        "AphiaID": 219879,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Mirounga leonina",
+        "AphiaID": 231413,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Moringua edwardsi",
+        "AphiaID": 158578,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Mugil liza",
+        "AphiaID": 273655,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Myripristis amaena",
+        "AphiaID": 276190,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Naso lopezi",
+        "AphiaID": 278006,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Navicula minima",
+        "AphiaID": 172829,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Ophiocomella ophiactoides",
+        "AphiaID": 243584,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Ostichthys japonicus",
+        "AphiaID": 276207,
+        "new_AphiaID": 217941,
+        "remove": "false",
+        "comment": "change to Sargocentron punctatissimum"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Ostorhinchus cookii",
+        "AphiaID": 712654,
+        "new_AphiaID": 209364,
+        "remove": "false",
+        "comment": "change to Apogon semiornatus"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Pagothenia borchgrevinki",
+        "AphiaID": 234801,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Parioglossus raoi",
+        "AphiaID": 278758,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Parupeneus ciliatus",
+        "AphiaID": 218661,
+        "new_AphiaID": 218660,
+        "remove": "false",
+        "comment": "change to Parupeneus barberinus"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Parupeneus insularis",
+        "AphiaID": 277815,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Parupeneus multifasciatus",
+        "AphiaID": 277820,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Pateobatis uarnacoides",
+        "AphiaID": 1043412,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Pempheris schwenkii",
+        "AphiaID": 218699,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Pempheris xanthoptera",
+        "AphiaID": 277070,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Pherallodichthys meshimaensis",
+        "AphiaID": 282236,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Poecillastra laminaris",
+        "AphiaID": 170263,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Pomacentrus agassizii",
+        "AphiaID": 277128,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Pseudanthias dispar",
+        "AphiaID": 277448,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Psilogobius mainlandi",
+        "AphiaID": 282485,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Sebastapistes coniorta",
+        "AphiaID": 274759,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Sphyraena helleri",
+        "AphiaID": 212055,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Sphyraena jello",
+        "AphiaID": 212045,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Stegastes altus",
+        "AphiaID": 276660,
+        "remove": "true"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Torquigener hypselogeneion",
+        "AphiaID": 219961,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Trachinotus carolinus",
+        "AphiaID": 218440,
+        "new_AphiaID": 218440,
+        "remove": "false",
+        "comment": "change to Trachinotus baillonii"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Urogymnus asperrimus",
+        "AphiaID": 217424,
+        "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Uropterygius macularius",
+        "AphiaID": 277951,
+        "remove": "true"
+    }
+]
+
