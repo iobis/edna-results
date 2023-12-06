@@ -3,72 +3,72 @@
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Abudefduf bengalensis",
         "AphiaID": 212885,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Abudefduf vaigiensis",
         "AphiaID": 212879,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Aidanosagitta neglecta",
         "AphiaID": 266708,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Amphidinium massartii",
         "AphiaID": 109743,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Anas poecilorhyncha",
         "AphiaID": 1034710,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Antennatus tuberosus",
         "AphiaID": 217855,
         "new_AphiaID": 206763,
-        "remove": "false",
+        "remove": false,
         "comment": "change to genus"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Arbacia lixula",
         "AphiaID": 124249,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Arothron nigropunctatus",
         "AphiaID": 219921,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Ascidia ahodori",
         "AphiaID": 249965,
         "new_AphiaID": 103483,
-        "remove": "false",
+        "remove": false,
         "comment": "change to genus"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Aspergillus versicolor",
         "AphiaID": 100498,
-        "remove": "true",
+        "remove": true,
         "comment": "fungi"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Balanodytes taiwanus",
         "AphiaID": 445300,
-        "remove": "true",
+        "remove": true,
         "comment": "no information"
     },
     {
@@ -76,105 +76,105 @@
         "species": "Batzella aurantiaca",
         "AphiaID": 168733,
         "new_AphiaID": 168732,
-        "remove": "false",
+        "remove": false,
         "comment": "change to genus"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Bestiolina similis",
         "AphiaID": 346152,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Boasia chierchiae",
         "AphiaID": 1419961,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Calanopia minor",
         "AphiaID": 220919,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Callyspongia diffusa",
         "AphiaID": 190269,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Callyspongia fallax",
         "AphiaID": 190264,
         "new_AphiaID": 131825,
-        "remove": "false",
+        "remove": false,
         "comment": "caribbean species, change to genus"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Callyspongia plicifera",
         "AphiaID": 247856,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Calocalanus plumulosus",
         "AphiaID": 211848,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Campanularia hincksii",
         "AphiaID": 117364,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Canthigaster jactator",
         "AphiaID": 275256,
-        "remove": "true",
+        "remove": true,
         "comment": "should be canthigaster janthinoptera"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Caranx ignobilis",
         "AphiaID": 218414,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Carcharhinus amblyrhynchoides",
         "AphiaID": 217350,
         "new_AphiaID": 105792,
-        "remove": "false",
+        "remove": false,
         "comment": "change to Carcharinus leucas"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Cheilopogon spilonotopterus",
         "AphiaID": 272163,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Chlorarachnion reptans",
         "AphiaID": 376147,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Cirrhitichthys aprinus",
         "AphiaID": 218855,
         "new_AphiaID": 218853,
-        "remove": "false",
+        "remove": false,
         "comment": "change to Cirrhitichthys oxycephalus"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Citharichthys macrops",
         "AphiaID": 159165,
-        "remove": "true",
+        "remove": true,
         "comment": "caribbean species"
     },
     {
@@ -182,101 +182,101 @@
         "species": "Clathria rugosa",
         "AphiaID": 190629,
         "new_AphiaID": 131868,
-        "remove": "false",
+        "remove": false,
         "comment": "change to genus"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Clathria unica",
         "AphiaID": 190549,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Clausocalanus furcatus",
         "AphiaID": 104503,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Cliona celata",
         "AphiaID": 134121,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Cliona mariae",
         "AphiaID": 1450699,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Cliona vermifera",
         "AphiaID": 134145,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Clytia hummelincki",
         "AphiaID": 225740,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Corolla spectabilis",
         "AphiaID": 139492,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Crambe crambe",
         "AphiaID": 133445,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Creseis conica",
         "AphiaID": 390545,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Cunina fowleri",
         "AphiaID": 117493,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Dictyocha octonaria",
         "AphiaID": 341584,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Diodon liturosus",
         "AphiaID": 219970,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Diplodus kotschyi",
         "AphiaID": 998229,
         "new_AphiaID": 126076,
-        "remove": "false",
+        "remove": false,
         "comment": "change to genus"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Doliolum nationalis",
         "AphiaID": 137247,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Edwardsia longicornis",
         "AphiaID": 100889,
         "new_AphiaID": 100730,
-        "remove": "false",
+        "remove": false,
         "comment": "change to genus"
     },
     {
@@ -284,45 +284,45 @@
         "species": "Engraulis encrasicolus",
         "AphiaID": 126426,
         "new_AphiaID": 125724,
-        "remove": "false",
+        "remove": false,
         "comment": "change to genus"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Euthynnus affinis",
         "AphiaID": 219708,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Flaccisagitta enflata",
         "AphiaID": 105434,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Forskalia edwardsii",
         "AphiaID": 135501,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Forskalia tholoides",
         "AphiaID": 196539,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Gelliodes wilsoni",
         "AphiaID": 820772,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Gymnothorax kolpos",
         "AphiaID": 271844,
         "new_AphiaID": 125636,
-        "remove": "false",
+        "remove": false,
         "comment": "change to genus"
     },
     {
@@ -330,133 +330,133 @@
         "species": "Gymnothorax saxicola",
         "AphiaID": 158585,
         "new_AphiaID": 125636,
-        "remove": "false",
+        "remove": false,
         "comment": "change to genus"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Haliclona pigmentifera",
         "AphiaID": 166430,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Helgicirrha malayensis",
         "AphiaID": 221225,
         "new_AphiaID": 117085,
-        "remove": "false",
+        "remove": false,
         "comment": "change to genus"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Heterocapsa rotundata",
         "AphiaID": 110152,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Heterocapsa triquetra",
         "AphiaID": 110153,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Heterocyathus sulcatus",
         "AphiaID": 288865,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Hyalocylis striata",
         "AphiaID": 139047,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Hypoatherina celebesensis",
         "AphiaID": 834912,
         "new_AphiaID": 204813,
-        "remove": "true",
+        "remove": true,
         "comment": "change to genus"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Iphione henshawi",
         "AphiaID": 327163,
-        "remove": "false",
+        "remove": false,
         "comment": "no information"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Karenia brevis",
         "AphiaID": 233015,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Krohnitta subtilis",
         "AphiaID": 105429,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Kyphosus cinerascens",
         "AphiaID": 218708,
         "new_AphiaID": 273521,
-        "remove": "false",
+        "remove": false,
         "comment": "change to Kyphosus elegans"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Labidocera acuta",
         "AphiaID": 104726,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Leiosolenus hanleyanus",
         "AphiaID": 397091,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Lensia conoidea",
         "AphiaID": 135426,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Lutjanus argentimaculatus",
         "AphiaID": 218498,
         "new_AphiaID": 159797,
-        "remove": "false",
+        "remove": false,
         "comment": "change to Lutjanus griseus"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Macrosetella gracilis",
         "AphiaID": 116382,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Macrosteles quadrilineatus",
         "AphiaID": 1489180,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Membras martinica",
         "AphiaID": 159220,
         "new_AphiaID": 159216,
-        "remove": "false",
+        "remove": false,
         "comment": "change to genus"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Microzoanthus occultus",
         "AphiaID": 581496,
-        "remove": "true",
+        "remove": true,
         "comment": "no information"
     },
     {
@@ -464,7 +464,7 @@
         "species": "Mugil liza",
         "AphiaID": 273655,
         "new_AphiaID": 126032,
-        "remove": "false",
+        "remove": false,
         "comment": "change to genus"
     },
     {
@@ -472,110 +472,110 @@
         "species": "Myripristis pralinia",
         "AphiaID": 217919,
         "new_AphiaID": 159383,
-        "remove": "false",
+        "remove": false,
         "comment": "change to genus"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Nanomia bijuga",
         "AphiaID": 135495,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Navicula minima",
         "AphiaID": 172829,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Ocyropsis maculata",
         "AphiaID": 106402,
-        "remove": "false",
+        "remove": false,
         "comment": "caribbean species?"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Oithona attenuata",
         "AphiaID": 220944,
-        "remove": "false",
+        "remove": false,
         "comment": "no information"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Oulastrea crispata",
         "AphiaID": 290548,
-        "remove": "false",
+        "remove": false,
         "comment": "no information"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Pagothenia borchgrevinki",
         "AphiaID": 234801,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Paracalanus aculeatus",
         "AphiaID": 104681,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Paracalanus indicus",
         "AphiaID": 104683,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Penilia avirostris",
         "AphiaID": 106272,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Phaeocystis pouchetii",
         "AphiaID": 115106,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Phestilla sibogae",
         "AphiaID": 536544,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Phoronopsis californica",
         "AphiaID": 128554,
-        "remove": "false",
+        "remove": false,
         "comment": "no information"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Phyllochaetopterus verrilli",
         "AphiaID": 330566,
-        "remove": "false",
+        "remove": false,
         "comment": "no information"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Plagusia squamosa",
         "AphiaID": 395028,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Pocillopora verrucosa",
         "AphiaID": 206954,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Pomacentrus coelestis",
         "AphiaID": 277145,
         "new_AphiaID": 204256,
-        "remove": "false",
+        "remove": false,
         "comment": "change to genus"
     },
     {
@@ -583,46 +583,46 @@
         "species": "Prionurus scalprum",
         "AphiaID": 282350,
         "new_AphiaID": 282346,
-        "remove": "false",
+        "remove": false,
         "comment": "change to Priorunus laticlavius"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Pseudevadne tergestina",
         "AphiaID": 106278,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Pseudochattonella farcimen",
         "AphiaID": 531467,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Pterocladiella caerulescens",
         "AphiaID": 374576,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Rhizophysa eysenhardtii",
         "AphiaID": 135481,
-        "remove": "true",
+        "remove": true,
         "comment": "no information"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Rhizophysa filiformis",
         "AphiaID": 135482,
-        "remove": "false",
+        "remove": false,
         "comment": "no information"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Rosacea flaccida",
         "AphiaID": 292482,
-        "remove": "false",
+        "remove": false,
         "comment": "no information"
     },
     {
@@ -630,113 +630,113 @@
         "species": "Sarconema filiforme",
         "AphiaID": 214010,
         "new_AphiaID": 206689,
-        "remove": "false",
+        "remove": false,
         "comment": "change to genus"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Scinaia hormoides",
         "AphiaID": 374105,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Skeletonema menzelii",
         "AphiaID": 376361,
-        "remove": "false",
+        "remove": false,
         "comment": "no information"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Sphaeronectes koellikeri",
         "AphiaID": 152189,
-        "remove": "false",
+        "remove": false,
         "comment": "no information"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Sphyraena jello",
         "AphiaID": 212045,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Spratelloides delicatulus",
         "AphiaID": 126424,
-        "remove": "false",
+        "remove": false,
         "comment": "to review"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Stegastes lividus",
         "AphiaID": 218848,
-        "remove": "true",
+        "remove": true,
         "comment": "only one good ref."
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Sufflamen fraenatum",
         "AphiaID": 276852,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Temora discaudata",
         "AphiaID": 220898,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Terpios gelatinosus",
         "AphiaID": 1041930,
         "new_AphiaID": 132073,
-        "remove": "false",
+        "remove": false,
         "comment": "change to genus"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Tetrapturus angustirostris",
         "AphiaID": 219734,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Thalassionema nitzschioides",
         "AphiaID": 149093,
-        "remove": "false"
+        "remove": false
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Thalassoma robertsoni",
         "AphiaID": 273589,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Titanoderma prototypum",
         "AphiaID": 374748,
-        "remove": "false",
+        "remove": false,
         "comment": "no information"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Tomicodon reitzae",
         "AphiaID": 283000,
-        "remove": "true"
+        "remove": true
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Woodsia nonsuchae",
         "AphiaID": 283166,
         "new_AphiaID": 274961,
-        "remove": "false",
+        "remove": false,
         "comment": "change to Vinciguerria lucetia"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Zancleopsis dichotoma",
         "AphiaID": 288110,
-        "remove": "false",
+        "remove": false,
         "comment": "no information"
     }
 ]
