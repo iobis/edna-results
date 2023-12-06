@@ -1,0 +1,856 @@
+[
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Abudefduf bengalensis",
+        "AphiaID": 212885,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Abylopsis eschscholtzii",
+        "AphiaID": 196656,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Albula glossodonta",
+        "AphiaID": 212255,
+        "new_AphiaID": 212256,
+        "remove": "false",
+        "comment": "change to Albula vulpes"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Amathia evelinae",
+        "AphiaID": 851587,
+        "remove": "false",
+        "comment": "no information"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Amorphinopsis fenestrata",
+        "AphiaID": 165722,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Amphidinium massartii",
+        "AphiaID": 109743,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Anas poecilorhyncha",
+        "AphiaID": 1034710,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Andvakia discipulorum",
+        "AphiaID": 446803,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Ascidia ahodori",
+        "AphiaID": 249965,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Aspergillus versicolor",
+        "AphiaID": 100498,
+        "remove": "true",
+        "comment": "fungi"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Aspidosiphon gosnoldi",
+        "AphiaID": 425017,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Bathygobius fuscus",
+        "AphiaID": 209215,
+        "new_AphiaID": 277624,
+        "remove": "false",
+        "comment": "change to Bathygobius curacao"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Batzella aurantiaca",
+        "AphiaID": 168733,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Bolinopsis vitrea",
+        "AphiaID": 106396,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Boloceroides mcmurrichi",
+        "AphiaID": 288925,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Bulla arabica",
+        "AphiaID": 457832,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Callyspongia diffusa",
+        "AphiaID": 190269,
+        "new_AphiaID": 131825,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Calocalanus styliremis",
+        "AphiaID": 104673,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Campanularia hincksii",
+        "AphiaID": 117364,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Capitella nonatoi",
+        "AphiaID": 1253304,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Caranx tille",
+        "AphiaID": 218418,
+        "new_AphiaID": 125936,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Champia hasselbringii",
+        "AphiaID": 1327613,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Chlorurus sordidus",
+        "AphiaID": 219082,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Cliona delitrix",
+        "AphiaID": 170437,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Convolutriloba longifissura",
+        "AphiaID": 380083,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Corallophila huysmansii",
+        "AphiaID": 214097,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Coryphopterus urospilus",
+        "AphiaID": 276435,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Ctenochaetus striatus",
+        "AphiaID": 219659,
+        "new_AphiaID": 159581,
+        "remove": "false",
+        "comment": "change to Acanthurus coeruleus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Ctenodrilus pacificus",
+        "AphiaID": 873617,
+        "new_AphiaID": 129253,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Cyclothone pseudopallida",
+        "AphiaID": 127289,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Cylindrotheca closterium",
+        "AphiaID": 149004,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Delibus nudus",
+        "AphiaID": 363905,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Desmoxya pelagiae",
+        "AphiaID": 195926,
+        "remove": "false",
+        "comment": "no information"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Dictyocha octonaria",
+        "AphiaID": 341584,
+        "remove": "false",
+        "comment": "no information"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Dictyota ceylanica",
+        "AphiaID": 220786,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Digenea arenahauriens",
+        "AphiaID": 1306263,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Diplodus kotschyi",
+        "AphiaID": 998229,
+        "new_AphiaID": 126076,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Dolichomastix tenuilepis",
+        "AphiaID": 345463,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Edwardsia longicornis",
+        "AphiaID": 100889,
+        "new_AphiaID": 100730,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Elysia buonoi",
+        "AphiaID": 883356,
+        "remove": "false",
+        "comment": "no information"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Entomacrodus caudofasciatus",
+        "AphiaID": 277241,
+        "new_AphiaID": 204365,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Ethmalosa fimbriata",
+        "AphiaID": 280725,
+        "new_AphiaID": 269117,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Eucinostomus currani",
+        "AphiaID": 276416,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Fasciospongia cavernosa",
+        "AphiaID": 132444,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Flaccisagitta enflata",
+        "AphiaID": 105434,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Forskalia edwardsii",
+        "AphiaID": 135501,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Gambusia affinis",
+        "AphiaID": 159325,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Gelliodes wilsoni",
+        "AphiaID": 820772,
+        "remove": "false",
+        "comment": "no information"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Gnatholepis anjerensis",
+        "AphiaID": 219475,
+        "new_AphiaID": 204522,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Halichondria bowerbanki",
+        "AphiaID": 132588,
+        "new_AphiaID": 131807,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Haslea crucigera",
+        "AphiaID": 172588,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Hemimycale arabica",
+        "AphiaID": 169133,
+        "new_AphiaID": 131948,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Hemiramphus far",
+        "AphiaID": 126389,
+        "new_AphiaID": 125695,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Herposiphonia pecten-veneris",
+        "AphiaID": 373128,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Heterocapsa triquetra",
+        "AphiaID": 110153,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Hooperia anfractuosa",
+        "AphiaID": 1346050,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Hydroclathrus tenuis",
+        "AphiaID": 214334,
+        "new_AphiaID": 144255,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Hymeniacidon chloris",
+        "AphiaID": 165886,
+        "new_AphiaID": 131808,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Hymeniacidon flavia",
+        "AphiaID": 345601,
+        "new_AphiaID": 131808,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Hyporthodus niveatus",
+        "AphiaID": 475101,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Igernella notabilis",
+        "AphiaID": 164900,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Koehleraster abnormalis",
+        "AphiaID": 513357,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Leptosynapta tenuis",
+        "AphiaID": 158485,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Liagora nesophila",
+        "AphiaID": 1369788,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Lilyopsis fluoracantha",
+        "AphiaID": 387268,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Lithadia brasiliensis",
+        "AphiaID": 441187,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Lobophora littlerorum",
+        "AphiaID": 1369767,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Lutjanus argentimaculatus",
+        "AphiaID": 218498,
+        "new_AphiaID": 159797,
+        "remove": "false",
+        "comment": "change to Lutjanus griseus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Macrosteles quadrilineatus",
+        "AphiaID": 1489180,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Mantoniella squamata",
+        "AphiaID": 134563,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Megadrilus hochbergi",
+        "AphiaID": 998037,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Metapenaeopsis gerardoi",
+        "AphiaID": 246342,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Micromonas pusilla",
+        "AphiaID": 134564,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Mycale cecilia",
+        "AphiaID": 192516,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Myrophis vafer",
+        "AphiaID": 275496,
+        "new_AphiaID": 158643,
+        "remove": "false",
+        "comment": "change to Myrophis punctatus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Nanomia bijuga",
+        "AphiaID": 135495,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Navicula minima",
+        "AphiaID": 172829,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Neogoniolithon rhizophorae",
+        "AphiaID": 372900,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Octopus taganga",
+        "AphiaID": 894273,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Ocyropsis crystallina",
+        "AphiaID": 265211,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Odontosyllis guillermoi",
+        "AphiaID": 389893,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Olpidiopsis feldmanni",
+        "AphiaID": 172204,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Oncaea waldemari",
+        "AphiaID": 360846,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Pachychalina tenera",
+        "AphiaID": 178479,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Pagothenia borchgrevinki",
+        "AphiaID": 234801,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Parablennius yatabei",
+        "AphiaID": 273141,
+        "new_AphiaID": 159602,
+        "remove": "false",
+        "comment": "change to Hypleurochilus geminatus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Paracalanus quasimodo",
+        "AphiaID": 354162,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Paracornulum dubium",
+        "AphiaID": 167444,
+        "new_AphiaID": 166946,
+        "remove": "false",
+        "comment": "change to Oceanapia bartchsi"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Paramoeba aestuarina",
+        "AphiaID": 120622,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Paramoeba pemaquidensis",
+        "AphiaID": 120624,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Philinopsis pusa",
+        "AphiaID": 533288,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Phorbas bihamiger",
+        "AphiaID": 169314,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Phorbas clathratus",
+        "AphiaID": 169317,
+        "new_AphiaID": 133688,
+        "remove": "false",
+        "comment": "change to Phorbas plumosus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Phyllochaetopterus verrilli",
+        "AphiaID": 330566,
+        "new_AphiaID": 129232,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Pinguiococcus pyrenoidosus",
+        "AphiaID": 376356,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Pione vastifica",
+        "AphiaID": 157411,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Pione velans",
+        "AphiaID": 170520,
+        "new_AphiaID": 157409,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Plakina muricyae",
+        "AphiaID": 762525,
+        "new_AphiaID": 131981,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Plakortis halichondrioides",
+        "AphiaID": 169763,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Poecillastra laminaris",
+        "AphiaID": 170263,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Polysiphonia anomala",
+        "AphiaID": 373142,
+        "new_AphiaID": 143853,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Porites lutea",
+        "AphiaID": 207246,
+        "new_AphiaID": 206485,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Porroecia spinirostris",
+        "AphiaID": 127856,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Prasinoderma coloniale",
+        "AphiaID": 375881,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Proceraea rubroproventriculata",
+        "AphiaID": 331157,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Pseudevadne tergestina",
+        "AphiaID": 106278,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Ptychodera flava",
+        "AphiaID": 210065,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Rhabderemia sorokinae",
+        "AphiaID": 168186,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Rhizophysa filiformis",
+        "AphiaID": 135482,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Rhodachlya hawaiiana",
+        "AphiaID": 708100,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Saccostrea malabonensis",
+        "AphiaID": 506731,
+        "new_AphiaID": 138300,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Sagitta helenae",
+        "AphiaID": 266262,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Salmo salar",
+        "AphiaID": 127186,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Scomberomorus sierra",
+        "AphiaID": 273821,
+        "new_AphiaID": 159342,
+        "remove": "false",
+        "comment": "change to Scomberomomus maculatus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Sigmaxinella hipposiderus",
+        "AphiaID": 577142,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Solmundella bitentaculata",
+        "AphiaID": 117267,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Sparisoma axillare",
+        "AphiaID": 273773,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Sphaeronectes koellikeri",
+        "AphiaID": 152189,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Sphyraena jello",
+        "AphiaID": 212045,
+        "new_AphiaID": 159812,
+        "remove": "false",
+        "comment": "change to Sphyraena barracuda"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Stauridiosarsia nipponica",
+        "AphiaID": 565163,
+        "remove": "false",
+        "comment": "no information"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Stomopneustes variolaris",
+        "AphiaID": 212440,
+        "new_AphiaID": 206173,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Syllis ypsiloides",
+        "AphiaID": 762353,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Terpios gelatinosus",
+        "AphiaID": 1041930,
+        "new_AphiaID": 132073,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Tetrastemma herthae",
+        "AphiaID": 148205,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Thoosa purpurea",
+        "AphiaID": 579402,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Thraustochytrium aureum",
+        "AphiaID": 162961,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Tomicodon reitzae",
+        "AphiaID": 283000,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Tyrophagus putrescentiae",
+        "AphiaID": 999912,
+        "remove": "true"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Vallicula multiformis",
+        "AphiaID": 106403,
+        "remove": "false"
+    },
+    {
+        "site": "Belize Barrier Reef Reserve System",
+        "species": "Yihiella yeosuensis",
+        "AphiaID": 1306108,
+        "remove": "true"
+    }
+]
+
