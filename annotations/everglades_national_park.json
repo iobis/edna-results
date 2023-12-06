@@ -8,10 +8,274 @@
     },
     {
         "site": "everglades_national_park",
+        "species": "Rhopalosiphum padi",
+        "AphiaID": 990742,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Macrosteles quadrilineatus",
+        "AphiaID": 1489180,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Elasmopus nkjaf",
+        "AphiaID": 1364147,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Portunus sanguinolentus",
+        "AphiaID": 1061758,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Cladosporium herbarum",
+        "AphiaID": 100511,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Aspergillus versicolor",
+        "AphiaID": 100498,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Bugula rochae",
+        "AphiaID": 605623,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Dolichomastix tenuilepis",
+        "AphiaID": 345463,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Botrylloides simodensis",
+        "AphiaID": 250085,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Anas poecilorhyncha",
+        "AphiaID": 1034710,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Ardea cinerea",
+        "AphiaID": 212668,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Mirounga leonina",
+        "AphiaID": 231413,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Neophocaena phocaenoides",
+        "AphiaID": 254985,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Caranx ignobilis",
+        "AphiaID": 218414,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Carassius auratus",
+        "AphiaID": 154298,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
         "species": "Albula glossodonta",
         "AphiaID": 212255,
         "new_AphiaID": 212256,
         "remove": false,
         "comment": "change to: Albula vulpes (vsearch match)"
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Hypanus rudis",
+        "AphiaID": 1042863,
+        "new_AphiaID": 1042856,
+        "remove": false,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Myrophis vafer",
+        "AphiaID": 275496,
+        "new_AphiaID": 158643,
+        "remove": false,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Sphyraena jello",
+        "AphiaID": 212045,
+        "new_AphiaID": 345843,
+        "remove": false,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Brevoortia tyrannus",
+        "AphiaID": 158691,
+        "new_AphiaID": 275500,
+        "remove": false,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": null,
+        "AphiaID": null,
+        "new_AphiaID": null,
+        "remove": null,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": null,
+        "AphiaID": null,
+        "new_AphiaID": null,
+        "remove": null,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Lutjanus argentimaculatus",
+        "AphiaID": 218498,
+        "new_AphiaID": 159797,
+        "remove": false,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Diplodus kotschyi",
+        "AphiaID": 998229,
+        "new_AphiaID": 273972,
+        "remove": false,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Gobiosoma ginsburgi",
+        "AphiaID": 159771,
+        "new_AphiaID": 276514,
+        "remove": false,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Epinephelus lanceolatus",
+        "AphiaID": 218224,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Syngnathus schlegeli",
+        "AphiaID": 275231,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Stephanolepis cirrhifer",
+        "AphiaID": 275247,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Edwardsia longicornis",
+        "AphiaID": 100889,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Callyspongia (Cladochalina) diffusa",
+        "AphiaID": 190269,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Cladocroce burapha",
+        "AphiaID": 166302,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Gelliodes wilsoni",
+        "AphiaID": 820772,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Amorphinopsis fenestrata",
+        "AphiaID": 165722,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Poecillastra_laminaris",
+        "AphiaID": 170263,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
     }
 ]
