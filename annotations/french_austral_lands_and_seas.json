@@ -1,0 +1,491 @@
+[
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Amathia gracilis",
+        "AphiaID": 851589,
+        "new_AphiaID": 11022,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Anas platyrhynchos",
+        "AphiaID": 148791,
+        "remove": "true"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Anas poecilorhyncha",
+        "AphiaID": 1034710,
+        "remove": "true"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Anasterias antarctica",
+        "AphiaID": 178786,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Anasterias suteri",
+        "AphiaID": 234880,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Antarctothoa dictyota",
+        "AphiaID": 467476,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Artacama crassa",
+        "AphiaID": 174921,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Aspergillus niger",
+        "AphiaID": 100495,
+        "remove": "true",
+        "comment": "fungi"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Aspergillus versicolor",
+        "AphiaID": 100498,
+        "remove": "true",
+        "comment": "fungi"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Austrothoa yagana",
+        "AphiaID": 467483,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Campanularia lennoxensis",
+        "AphiaID": 292462,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Cirratulus balaenophilus",
+        "AphiaID": 606245,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Cladosporium herbarum",
+        "AphiaID": 100511,
+        "remove": "true",
+        "comment": "fungi"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Clionaopsis platei",
+        "AphiaID": 170489,
+        "remove": "true"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Clytia gregaria",
+        "AphiaID": 284361,
+        "new_AphiaID": 117367,
+        "remove": "false",
+        "comment": "change to Clytia Gracilis"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Cognettia varisetosa",
+        "AphiaID": 1320683,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Columba livia",
+        "AphiaID": 1464527,
+        "remove": "true",
+        "comment": "pigeon"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Coryne eximia",
+        "AphiaID": 151860,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Ctenocalanus citer",
+        "AphiaID": 342449,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Cylindrotheca closterium",
+        "AphiaID": 149004,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Dicentrarchus punctatus",
+        "AphiaID": 126976,
+        "new_AphiaID": 126029,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Diplodus kotschyi",
+        "AphiaID": 998229,
+        "new_AphiaID": 126076,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Echiichthys vipera",
+        "AphiaID": 150630,
+        "remove": "true",
+        "comment": "very good match but wrong range, possible cross contamination?"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Edwardsia longicornis",
+        "AphiaID": 100889,
+        "new_AphiaID": 100730,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Eucinostomus gula",
+        "AphiaID": 159733,
+        "remove": "true",
+        "comment": "very good match but wrong range, possible cross contamination?"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Eurychasma dicksonii",
+        "AphiaID": 172155,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Fridericia striata",
+        "AphiaID": 154892,
+        "remove": "true"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Gadus morhua",
+        "AphiaID": 126436,
+        "remove": "true",
+        "comment": "very good match but wrong range, possible cross contamination?"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Gobionotothen gibberifrons",
+        "AphiaID": 234704,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Grammonema striatula",
+        "AphiaID": 968692,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Harpagifer antarcticus",
+        "AphiaID": 234825,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Hecatonema terminale",
+        "AphiaID": 145341,
+        "remove": "true"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Hemigellius fimbriatus",
+        "AphiaID": 166758,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Heterocapsa rotundata",
+        "AphiaID": 110152,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Igernella notabilis",
+        "AphiaID": 164900,
+        "remove": "true"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Kurtiella bidentata",
+        "AphiaID": 345281,
+        "remove": "true"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Laminariocolax aecidioides",
+        "AphiaID": 162814,
+        "new_AphiaID": 144105,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Larus argentatus",
+        "AphiaID": 137138,
+        "new_AphiaID": 137043,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Larus fuscus",
+        "AphiaID": 137142,
+        "new_AphiaID": 137043,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Larus glaucoides",
+        "AphiaID": 137144,
+        "new_AphiaID": 212624,
+        "remove": "false",
+        "comment": "change to Larus dominicanus"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Larus occidentalis",
+        "AphiaID": 343916,
+        "new_AphiaID": 137043,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Limnodrilus hoffmeisteri",
+        "AphiaID": 137556,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Lindbergichthys nudifrons",
+        "AphiaID": 318861,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Lumbricillus antarcticus",
+        "AphiaID": 475841,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Macrosteles quadrilineatus",
+        "AphiaID": 1489180,
+        "remove": "true"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Margarella antarctica",
+        "AphiaID": 197257,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Micromonas pusilla",
+        "AphiaID": 134564,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Mugil bananensis",
+        "AphiaID": 273647,
+        "new_AphiaID": 126032,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Myrionema strangulans",
+        "AphiaID": 144985,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Nacella macquariensis",
+        "AphiaID": 197298,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Navicula glaciei",
+        "AphiaID": 341548,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Neoporphyra haitanensis",
+        "AphiaID": 1537062,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Neuroglossum multilobum",
+        "AphiaID": 375362,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Pachychalina tenera",
+        "AphiaID": 178479,
+        "new_AphiaID": 131834,
+        "remove": "false",
+        "comment": "change to Haliclona"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Pagothenia borchgrevinki",
+        "AphiaID": 234801,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Parvamoeba rugata",
+        "AphiaID": 120633,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Patagonotothen ramsayi",
+        "AphiaID": 234633,
+        "new_AphiaID": 234527,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Penicillium expansum",
+        "AphiaID": 1469771,
+        "remove": "true",
+        "comment": "fungi"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Prasinoderma coloniale",
+        "AphiaID": 375881,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Pseudochattonella farcimen",
+        "AphiaID": 531467,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Pteraster militaris",
+        "AphiaID": 124147,
+        "new_AphiaID": 123335,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Pylaiella washingtoniensis",
+        "AphiaID": 373984,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Pyropia pulchra",
+        "AphiaID": 1372967,
+        "new_AphiaID": 603075,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Rhizosolenia setigera",
+        "AphiaID": 149115,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Rhodothamniella floridula",
+        "AphiaID": 145777,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Salvelinus leucomaenis",
+        "AphiaID": 293725,
+        "new_AphiaID": 154241,
+        "remove": "false",
+        "comment": "change to Salvelinus fontinalis"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Siphonaria fuegiensis",
+        "AphiaID": 853196,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Skeletonema dohrnii",
+        "AphiaID": 489112,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Stauridiosarsia producta",
+        "AphiaID": 254368,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Stercorarius lonnbergi",
+        "AphiaID": 1348512,
+        "new_AphiaID": 137051,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Stylocordyla chupachups",
+        "AphiaID": 529750,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Tubifex tubifex",
+        "AphiaID": 137569,
+        "remove": "false"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Tursiops truncatus",
+        "AphiaID": 137111,
+        "new_AphiaID": 136980,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Wildemania amplissima",
+        "AphiaID": 501881,
+        "remove": "false"
+    }
+]
+
