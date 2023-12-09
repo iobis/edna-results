@@ -1,0 +1,1576 @@
+[
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Acartia negligens",
+        "AphiaID": 104259,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Acrocalanus gracilis",
+        "AphiaID": 220838,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Aidanosagitta neglecta",
+        "AphiaID": 266708,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Aidanosagitta regularis",
+        "AphiaID": 266712,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Aliculastrum parallelum",
+        "AphiaID": 740295,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Amphidinium massartii",
+        "AphiaID": 109743,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Amphidinium operculatum",
+        "AphiaID": 109744,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Anas poecilorhyncha",
+        "AphiaID": 1034710,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Andvakia discipulorum",
+        "AphiaID": 446803,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Antennella ansini",
+        "AphiaID": 231663,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Anthopleura elegantissima",
+        "AphiaID": 283347,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Ascidia ahodori",
+        "AphiaID": 249965,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Aspasma minima",
+        "AphiaID": 279747,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Aspergillus niger",
+        "AphiaID": 100495,
+        "remove": "true",
+        "comment": "fungi"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Aspergillus versicolor",
+        "AphiaID": 100498,
+        "remove": "true",
+        "comment": "fungi"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Asterionellopsis thurstonii",
+        "AphiaID": 1669590,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Balanoglossus carnosus",
+        "AphiaID": 266572,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Batzella aurantiaca",
+        "AphiaID": 168733,
+        "new_AphiaID": 131599,
+        "remove": "false",
+        "comment": "change to Poeciloscerida order"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Botrylloides conchyliatus",
+        "AphiaID": 1606085,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Botrylloides simodensis",
+        "AphiaID": 250085,
+        "new_AphiaID": 103528,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Caesio varilineata",
+        "AphiaID": 219988,
+        "new_AphiaID": 205824,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Callogobius nigromarginatus",
+        "AphiaID": 278882,
+        "remove": "false",
+        "comment": "only seen in taiwan"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Callyspongia diffusa",
+        "AphiaID": 190269,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Callyspongia fallax",
+        "AphiaID": 190264,
+        "new_AphiaID": 131825,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Callyspongia vaginalis",
+        "AphiaID": 247858,
+        "new_AphiaID": 131825,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Cantellius secundus",
+        "AphiaID": 535082,
+        "new_AphiaID": 472921,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Canthigaster jactator",
+        "AphiaID": 275256,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Carminodoris grandiflora",
+        "AphiaID": 872612,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Centroceras clavulatum",
+        "AphiaID": 144531,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Ceratoporella nicholsoni",
+        "AphiaID": 164851,
+        "new_AphiaID": 164850,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Chelonaplysilla erecta",
+        "AphiaID": 409617,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Chlorarachnion reptans",
+        "AphiaID": 376147,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Chlorurus capistratoides",
+        "AphiaID": 219080,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Chlorurus gibbus",
+        "AphiaID": 219088,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Chondrophycus dotyi",
+        "AphiaID": 375747,
+        "new_AphiaID": 143907,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Chondrophycus succisus",
+        "AphiaID": 375752,
+        "new_AphiaID": 143907,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Chondrosia collectrix",
+        "AphiaID": 850657,
+        "new_AphiaID": 132022,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Chromis notata",
+        "AphiaID": 273745,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Chromis yamakawai",
+        "AphiaID": 1043620,
+        "new_AphiaID": 126045,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Chrysochromulina tobinii",
+        "AphiaID": 1358375,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Cirripectes obscurus",
+        "AphiaID": 276723,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Cirripectes quagga",
+        "AphiaID": 219263,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Cladocroce burapha",
+        "AphiaID": 166302,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Cladosporium herbarum",
+        "AphiaID": 100511,
+        "remove": "true",
+        "comment": "fungi"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Clathria curacaoensis",
+        "AphiaID": 988206,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Clathria unica",
+        "AphiaID": 190549,
+        "new_AphiaID": 131868,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Clausocalanus parapergens",
+        "AphiaID": 104507,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Clavularia crassa",
+        "AphiaID": 125338,
+        "new_AphiaID": 125286,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Cliona delitrix",
+        "AphiaID": 170437,
+        "new_AphiaID": 132026,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Cliona vermifera",
+        "AphiaID": 134145,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Cliona yorkin",
+        "AphiaID": 1450708,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Clytia gracilis",
+        "AphiaID": 117367,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Clytia noliformis",
+        "AphiaID": 117372,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Coelothrix irregularis",
+        "AphiaID": 145846,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Colpomenia claytoniae",
+        "AphiaID": 624476,
+        "new_AphiaID": 144253,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Coronalpheus natator",
+        "AphiaID": 515054,
+        "remove": "false",
+        "comment": "to review, galapagos islands"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Cosmocalanus darwinii",
+        "AphiaID": 361259,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Craterium leucocephalum",
+        "AphiaID": 1501261,
+        "remove": "true",
+        "comment": "terrestrial"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Crella cyathophora",
+        "AphiaID": 190746,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Crouania minutissima",
+        "AphiaID": 214100,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Ctenodrilus pacificus",
+        "AphiaID": 873617,
+        "new_AphiaID": 129253,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Cupolaconcha meroclista",
+        "AphiaID": 766314,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Cylindrotheca closterium",
+        "AphiaID": 149004,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Dendropoma gregarium",
+        "AphiaID": 594489,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Dendropoma platypus",
+        "AphiaID": 732986,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Dicentrarchus punctatus",
+        "AphiaID": 126976,
+        "remove": "false",
+        "comment": "to review, 100% match"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Dictyocha octonaria",
+        "AphiaID": 341584,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Dictyodendrilla cavernosa",
+        "AphiaID": 164892,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Diodora octagona",
+        "AphiaID": 571921,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Diphyes chamissonis",
+        "AphiaID": 287246,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Diphyes dispar",
+        "AphiaID": 135420,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Diplodus kotschyi",
+        "AphiaID": 998229,
+        "new_AphiaID": 126076,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Dolabrifera edmundsi",
+        "AphiaID": 1053449,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Dolichomastix tenuilepis",
+        "AphiaID": 345463,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Dragmacidon reticulatum",
+        "AphiaID": 165558,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Edwardsia longicornis",
+        "AphiaID": 100889,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Enneapterygius fuscoventer",
+        "AphiaID": 277308,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Eunice notata",
+        "AphiaID": 333331,
+        "new_AphiaID": 335340,
+        "remove": "false",
+        "comment": "change to Palola viridis"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Euphausia tenera",
+        "AphiaID": 221052,
+        "new_AphiaID": 110673,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Euphysilla pyramidata",
+        "AphiaID": 221089,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Fasciospongia cavernosa",
+        "AphiaID": 132444,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Feldmannia mitchelliae",
+        "AphiaID": 699648,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Flaccisagitta enflata",
+        "AphiaID": 105434,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Forskalia edwardsii",
+        "AphiaID": 135501,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Gaillardiellus superciliaris",
+        "AphiaID": 444036,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Ganonema pinnatum",
+        "AphiaID": 376815,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Gelidiella fanii",
+        "AphiaID": 623233,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Gelidiella ligulata",
+        "AphiaID": 374760,
+        "new_AphiaID": 144134,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Gelliodes wilsoni",
+        "AphiaID": 820772,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Geodia californica",
+        "AphiaID": 597600,
+        "new_AphiaID": 132005,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Gobiodon ater",
+        "AphiaID": 835066,
+        "new_AphiaID": 204038,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Gobiodon irregularis",
+        "AphiaID": 835068,
+        "new_AphiaID": 204038,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Gobiodon oculolineatus",
+        "AphiaID": 276930,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Gymnapogon africanus",
+        "AphiaID": 209302,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Gymnothorax miliaris",
+        "AphiaID": 271852,
+        "new_AphiaID": 217479,
+        "remove": "false",
+        "comment": "change to Gymnothorax buroensis"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Halgerda guahan",
+        "AphiaID": 599503,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Haliclona amboinensis",
+        "AphiaID": 1547179,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Haliclona tubifera",
+        "AphiaID": 345569,
+        "new_AphiaID": 131598,
+        "remove": "false",
+        "comment": "change to order"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Haliclona vansoesti",
+        "AphiaID": 191489,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Halisarca dujardinii",
+        "AphiaID": 132736,
+        "new_AphiaID": 131822,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Halopteris alternata",
+        "AphiaID": 117630,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Haplosyllis tenhovei",
+        "AphiaID": 598845,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Haslea crucigera",
+        "AphiaID": 172588,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Haslea pseudostrearia",
+        "AphiaID": 495535,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Helgicirrha malayensis",
+        "AphiaID": 221225,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Hemigellius pilosus",
+        "AphiaID": 175046,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Hemimycale arabica",
+        "AphiaID": 169133,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Herposiphonia pecten-veneris",
+        "AphiaID": 373128,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Herposiphonia secunda",
+        "AphiaID": 214222,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Heterocapsa rotundata",
+        "AphiaID": 110152,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Hydroclathrus stephanosorus",
+        "AphiaID": 376550,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Hydroclathrus tenuis",
+        "AphiaID": 214334,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Hymeniacidon chloris",
+        "AphiaID": 165886,
+        "new_AphiaID": 131808,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Hypoatherina tsurugae",
+        "AphiaID": 277725,
+        "new_AphiaID": 310978,
+        "remove": "false",
+        "comment": "change to Hypoatherina gobio"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Hypomyzostoma jonathoni",
+        "AphiaID": 992723,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Idioplana australiensis",
+        "AphiaID": 487243,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Igernella notabilis",
+        "AphiaID": 164900,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Iphione henshawi",
+        "AphiaID": 327163,
+        "new_AphiaID": 206125,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Isarachnanthus nocturnus",
+        "AphiaID": 411138,
+        "new_AphiaID": 100684,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Lampadena atlantica",
+        "AphiaID": 713102,
+        "new_AphiaID": 158896,
+        "remove": "false",
+        "comment": "change to Lampadena luminosa"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Laurencia pacifica",
+        "AphiaID": 372840,
+        "new_AphiaID": 143914,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Lensia campanella",
+        "AphiaID": 196555,
+        "new_AphiaID": 117568,
+        "remove": "false",
+        "comment": "change to Liriope tetraphylla"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Lepadichthys lineatus",
+        "AphiaID": 219759,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Liocarpilodes armiger",
+        "AphiaID": 209145,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Liosina blastifera",
+        "AphiaID": 255140,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Lithophyllum kaiseri",
+        "AphiaID": 239312,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Lobophora obscura",
+        "AphiaID": 1372763,
+        "new_AphiaID": 144087,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Lobophora rickeri",
+        "AphiaID": 495788,
+        "new_AphiaID": 144087,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Lysmata ternatensis",
+        "AphiaID": 515381,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Macrophiothrix megapoma",
+        "AphiaID": 243300,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Macrophiothrix rhabdota",
+        "AphiaID": 243307,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Macrosetella gracilis",
+        "AphiaID": 116382,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Macrosteles quadrilineatus",
+        "AphiaID": 1489180,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Mantoniella squamata",
+        "AphiaID": 134563,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Mecynocera clausi",
+        "AphiaID": 104616,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Mesophyllum erubescens",
+        "AphiaID": 213904,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Micromonas pusilla",
+        "AphiaID": 134564,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Mulloidichthys martinicus",
+        "AphiaID": 277991,
+        "new_AphiaID": 218648,
+        "remove": "false",
+        "comment": "change to Mulloidictythys vanicolensis"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Mycale cecilia",
+        "AphiaID": 192516,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Nanomia bijuga",
+        "AphiaID": 135495,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Naso elegans",
+        "AphiaID": 278005,
+        "new_AphiaID": 219665,
+        "remove": "false",
+        "comment": "change to Naso lituratus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Navicula minima",
+        "AphiaID": 172829,
+        "remove": "true",
+        "comment": "freshwater"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Neogoniolithon megalocystum",
+        "AphiaID": 371295,
+        "new_AphiaID": 144021,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Neogoniolithon rhizophorae",
+        "AphiaID": 372900,
+        "new_AphiaID": 144021,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Neogoniolithon trichotomum",
+        "AphiaID": 213914,
+        "new_AphiaID": 144021,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Neophocaena phocaenoides",
+        "AphiaID": 254985,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Nicidion cariboea",
+        "AphiaID": 742186,
+        "new_AphiaID": 129278,
+        "remove": "false",
+        "comment": "change to Eunice"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Octopus bocki",
+        "AphiaID": 341953,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Oithona simplex",
+        "AphiaID": 106657,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Ophiactis picteti",
+        "AphiaID": 212328,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Ophlitaspongia papilla",
+        "AphiaID": 184428,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Orthopyxis integra",
+        "AphiaID": 117393,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Oulastrea crispata",
+        "AphiaID": 290548,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Pachychalina tenera",
+        "AphiaID": 178479,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Palisada parvipapillata",
+        "AphiaID": 495579,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Paracalanus indicus",
+        "AphiaID": 104683,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Paracornulum dubium",
+        "AphiaID": 167444,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Paramoeba aestuarina",
+        "AphiaID": 120622,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Paramoeba pemaquidensis",
+        "AphiaID": 120624,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Parougia albomaculata",
+        "AphiaID": 758275,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Parupeneus margaritatus",
+        "AphiaID": 277818,
+        "new_AphiaID": 204915,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Pempheris adusta",
+        "AphiaID": 218704,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Penicillium commune",
+        "AphiaID": 1487050,
+        "remove": "true",
+        "comment": "fungi"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Petaloconchus keenae",
+        "AphiaID": 549433,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Phaeocystis globosa",
+        "AphiaID": 160538,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Phaeocystis pouchetii",
+        "AphiaID": 115106,
+        "remove": "false",
+        "comment": "change to Phaecosystis globosa"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Phanerophthalmus cerverai",
+        "AphiaID": 1313726,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Phanerophthalmus paulayi",
+        "AphiaID": 1313720,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Phanerophthalmus perpallidus",
+        "AphiaID": 715651,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Pharyngocirrus alanhongi",
+        "AphiaID": 1345990,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Phestilla minor",
+        "AphiaID": 536541,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Phorbas bihamiger",
+        "AphiaID": 169314,
+        "new_AphiaID": 131953,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Phorbas clathratus",
+        "AphiaID": 169317,
+        "new_AphiaID": 131953,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Phyrella mookiei",
+        "AphiaID": 760198,
+        "new_AphiaID": 241385,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Pinguiococcus pyrenoidosus",
+        "AphiaID": 376356,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Pinufius rebus",
+        "AphiaID": 536548,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Pione vastifica",
+        "AphiaID": 157411,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Pione velans",
+        "AphiaID": 170520,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Plakina coerulea",
+        "AphiaID": 736977,
+        "new_AphiaID": 131981,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Plakina muricyae",
+        "AphiaID": 762525,
+        "new_AphiaID": 131981,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Plakinastrella onkodes",
+        "AphiaID": 169757,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Plakortis deweerdtaephila",
+        "AphiaID": 888604,
+        "new_AphiaID": 131983,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Plakortis halichondrioides",
+        "AphiaID": 169763,
+        "new_AphiaID": 131983,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Plesiops nakaharae",
+        "AphiaID": 276818,
+        "new_AphiaID": 218342,
+        "remove": "false",
+        "comment": "change to Plesiops coeruleolineatus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Pleurehdera haraldi",
+        "AphiaID": 534373,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Plicatellopsis fragilis",
+        "AphiaID": 170771,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Plumularia mooreana",
+        "AphiaID": 742577,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Plumularia strictocarpa",
+        "AphiaID": 285299,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Pomacentrus albicaudatus",
+        "AphiaID": 212991,
+        "remove": "false",
+        "comment": "change to Pomatocentrus adelus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Pomatoschistus microps",
+        "AphiaID": 126927,
+        "new_AphiaID": 125999,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Pontomyia natans",
+        "AphiaID": 504071,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Pseudevadne tergestina",
+        "AphiaID": 106278,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Pseudo-nitzschia abrensis",
+        "AphiaID": 832130,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Pseudo-nitzschia caciantha",
+        "AphiaID": 531450,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Pseudo-nitzschia circumpora",
+        "AphiaID": 837690,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Pseudo-nitzschia kodamae",
+        "AphiaID": 863362,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Rhizophysa eysenhardtii",
+        "AphiaID": 135481,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Rhodactis indosinensis",
+        "AphiaID": 290981,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Sagartiogeton laceratus",
+        "AphiaID": 100999,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Sarconema filiforme",
+        "AphiaID": 214010,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Savignium crenatum",
+        "AphiaID": 535339,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Scarus festivus",
+        "AphiaID": 219105,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Scarus prasiognathos",
+        "AphiaID": 219093,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Scorpaenopsis cirrosa",
+        "AphiaID": 277520,
+        "new_AphiaID": 218110,
+        "remove": "false",
+        "comment": "change to Scorpaenopsis diabolus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Sigmaxinella hipposiderus",
+        "AphiaID": 577142,
+        "new_AphiaID": 168324,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Sinularia grandilobata",
+        "AphiaID": 288528,
+        "new_AphiaID": 205854,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Sinularia penghuensis",
+        "AphiaID": 1341919,
+        "new_AphiaID": 205855,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Skeletonema menzelii",
+        "AphiaID": 376361,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Sphaerocoryne bedoti",
+        "AphiaID": 117952,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Sphaeronectes koellikeri",
+        "AphiaID": 152189,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Spirastrella hartmani",
+        "AphiaID": 170709,
+        "new_AphiaID": 132060,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Stauridiosarsia nipponica",
+        "AphiaID": 565163,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Stegastes altus",
+        "AphiaID": 276660,
+        "new_AphiaID": 203822,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Stelletta mediterranea",
+        "AphiaID": 133978,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Stryphnus mucronatus",
+        "AphiaID": 133989,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Svenzea zeai",
+        "AphiaID": 165717,
+        "new_AphiaID": 165713,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Syllis ypsiloides",
+        "AphiaID": 762353,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Tedania ignis",
+        "AphiaID": 404078,
+        "new_AphiaID": 131974,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Tedania tubulifera",
+        "AphiaID": 194299,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Terpios gelatinosus",
+        "AphiaID": 1041930,
+        "new_AphiaID": 131676,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Thalassoma duperrey",
+        "AphiaID": 273579,
+        "new_AphiaID": 126024,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Thalassoma genivittatum",
+        "AphiaID": 212215,
+        "new_AphiaID": 126025,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Thoosa purpurea",
+        "AphiaID": 579402,
+        "new_AphiaID": 132031,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Thuridilla livida",
+        "AphiaID": 494499,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Topsentia ophiraphidites",
+        "AphiaID": 165956,
+        "new_AphiaID": 131633,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Treptopale homalos",
+        "AphiaID": 587816,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Trevathana taiwanus",
+        "AphiaID": 1600259,
+        "new_AphiaID": 391133,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Turbinaria conoides",
+        "AphiaID": 221476,
+        "new_AphiaID": 221490,
+        "remove": "false",
+        "comment": "change to Turbinaria ornata"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Turbo cepoides",
+        "AphiaID": 413429,
+        "new_AphiaID": 216371,
+        "remove": "false",
+        "comment": "change to Turbo argyrostomus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Tyrophagus putrescentiae",
+        "AphiaID": 999912,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Uropterygius macularius",
+        "AphiaID": 277951,
+        "remove": "true"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Vanderhorstia ornatissima",
+        "AphiaID": 219600,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Vicicitus globosus",
+        "AphiaID": 707927,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Xenisthmus clarus",
+        "AphiaID": 277959,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Zanclea gallii",
+        "AphiaID": 1326619,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Zanclea sango",
+        "AphiaID": 590115,
+        "remove": "false"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Zancleopsis dichotoma",
+        "AphiaID": 288110,
+        "remove": "false"
+    }
+]
+
