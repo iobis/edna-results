@@ -42,6 +42,9 @@
         "kingdom": "Bacteria"
     },
     {
+        "phylum": "Proteobacteria"
+    },
+    {
         "kingdom": "undef_Bacteria_bacteria"
     }
 ]
