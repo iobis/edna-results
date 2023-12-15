@@ -277,5 +277,13 @@
         "new_AphiaID": null,
         "remove": true,
         "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Cynoscion regalis",
+        "AphiaID": 159313,
+        "new_AphiaID": 159312,
+        "remove": false,
+        "comment": "Better match on NCBI BLAST"
     }
 ]
