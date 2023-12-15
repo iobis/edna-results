@@ -7,6 +7,7 @@ PROJECT_NAME = "eDNAexpeditions_batch1_samples"
 OCCURRENCE_FILE = "Occurrence_table.tsv"
 DNA_FILE = "DNA_extension_table.tsv"
 OUPUT_FOLDER = "output"
+# TODO: read contaminants from JSON
 CONTAMINANTS = ["Homo", "Sus", "Gallus", "Canis", "Bos", "Felis", "Ovis", "Mus", "Vulpes", "Rattus", "Capra", "Rangifer"]
 REMOVE_CONTAMINANTS = False
 
