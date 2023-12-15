@@ -285,5 +285,45 @@
         "new_AphiaID": 159312,
         "remove": false,
         "comment": "Better match on NCBI BLAST"
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Hypanus longus",
+        "AphiaID": 1042860,
+        "new_AphiaID": 1042856,
+        "remove": false,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Ariopsis seemannii",
+        "AphiaID": 293653,
+        "new_AphiaID": 158709,
+        "remove": false,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Sparus aurata",
+        "AphiaID": 151523,
+        "new_AphiaID": 159249,
+        "remove": false,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Strubellia wawrai",
+        "AphiaID": 737200,
+        "new_AphiaID": null,
+        "remove": true,
+        "comment": null
+    },
+    {
+        "site": "everglades_national_park",
+        "species": "Pachychalina tenera",
+        "AphiaID": 178479,
+        "new_AphiaID": 131834,
+        "remove": false,
+        "comment": null
     }
 ]
