@@ -8,6 +8,7 @@ OCCURRENCE_FILE = "Occurrence_table.tsv"
 DNA_FILE = "DNA_extension_table.tsv"
 OUPUT_FOLDER = "output"
 CONTAMINANTS = ["Homo", "Sus", "Gallus", "Canis", "Bos", "Felis", "Ovis", "Mus", "Vulpes", "Rattus", "Capra", "Rangifer"]
+REMOVE_CONTAMINANTS = False
 
 
 def download_results() -> None:
@@ -173,10 +174,11 @@ for site_name in folders_by_site:
 
     # remove contaminants
 
-    contaminants = occurrence_combined[occurrence_combined["genus"].isin(CONTAMINANTS)]
-    contaminant_ids = contaminants["occurrenceID"].tolist()
-    occurrence_combined = occurrence_combined[~occurrence_combined["occurrenceID"].isin(contaminant_ids)]
-    dna_combined = dna_combined[~dna_combined["occurrenceID"].isin(contaminant_ids)]
+    if REMOVE_CONTAMINANTS:
+        contaminants = occurrence_combined[occurrence_combined["genus"].isin(CONTAMINANTS)]
+        contaminant_ids = contaminants["occurrenceID"].tolist()
+        occurrence_combined = occurrence_combined[~occurrence_combined["occurrenceID"].isin(contaminant_ids)]
+        dna_combined = dna_combined[~dna_combined["occurrenceID"].isin(contaminant_ids)]
 
     # output
 
