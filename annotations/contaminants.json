@@ -34,5 +34,14 @@
     },
     {
         "genus": "Rangifer"
+    },
+    {
+        "kingdom": "Archaea"
+    },
+    {
+        "kingdom": "Bacteria"
+    },
+    {
+        "kingdom": "undef_Bacteria_bacteria"
     }
 ]
