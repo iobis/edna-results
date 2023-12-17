@@ -3,7 +3,16 @@
         "genus": "Homo"
     },
     {
+        "genus": "Equus"
+    },
+    {
         "genus": "Sus"
+    },
+    {
+        "genus": "Bubalus"
+    },
+    {
+        "genus": "Oryctolagus"
     },
     {
         "genus": "Gallus"
