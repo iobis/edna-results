@@ -3,7 +3,16 @@
         "genus": "Homo"
     },
     {
+        "genus": "Equus"
+    },
+    {
         "genus": "Sus"
+    },
+    {
+        "genus": "Bubalus"
+    },
+    {
+        "genus": "Oryctolagus"
     },
     {
         "genus": "Gallus"
@@ -40,6 +49,9 @@
     },
     {
         "kingdom": "Bacteria"
+    },
+    {
+        "phylum": "Proteobacteria"
     },
     {
         "kingdom": "undef_Bacteria_bacteria"
