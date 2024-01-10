@@ -4,6 +4,15 @@ This is a workflow for processing eDNA results from the [eDNA Expeditions projec
 
 ## How to read this dataset
 
+### Download the dataset
+
+Download the `data` branch either using git or from <https://github.com/iobis/edna-results/archive/refs/heads/data.zip
+>.
+
+```bash
+git clone --depth 1 --branch data git@github.com:iobis/edna-results.git
+```
+
 ### Read the dataset using R
 
 See https://github.com/iobis/edna-results/blob/master/docs/read.md.
