@@ -1,0 +1,1078 @@
+[
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Acinetospora filamentosa",
+        "AphiaID": 1369205,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Actinocyclus curvatulus",
+        "AphiaID": 966920,
+        "remove": "true"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Amathia gracilis",
+        "AphiaID": 851589,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Amphidinium massartii",
+        "AphiaID": 109743,
+        "new_AphiaID": 109473,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Anas poecilorhyncha",
+        "AphiaID": 1034710,
+        "new_AphiaID": 148791,
+        "remove": "true",
+        "comment": "change to Anas platyrhynchos"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Aplysia cervina",
+        "AphiaID": 420562,
+        "new_AphiaID": 137654,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Ascidia ahodori",
+        "AphiaID": 249965,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Aspasma minima",
+        "AphiaID": 279747,
+        "new_AphiaID": 280569,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Aspergillus niger",
+        "AphiaID": 100495,
+        "remove": "true",
+        "comment": "fungi"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Aurelia insularia",
+        "AphiaID": 1539735,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Aureococcus anophagefferens",
+        "AphiaID": 375699,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Balanoglossus carnosus",
+        "AphiaID": 266572,
+        "new_AphiaID": 2019,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Bathycoccus prasinos",
+        "AphiaID": 345459,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Biecheleria cincta",
+        "AphiaID": 840029,
+        "new_AphiaID": 19542,
+        "remove": "false",
+        "comment": "change to class"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Biemna fistulosa",
+        "AphiaID": 168257,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Bigelowiella natans",
+        "AphiaID": 376277,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Bispira serrata",
+        "AphiaID": 475485,
+        "new_AphiaID": 129523,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Boccardia polybranchia",
+        "AphiaID": 131111,
+        "new_AphiaID": 913,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Bolinopsis mikado",
+        "AphiaID": 265201,
+        "new_AphiaID": 106350,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Bossiella exarticulata",
+        "AphiaID": 1345663,
+        "new_AphiaID": 369418,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Bougainvillia muscus",
+        "AphiaID": 117328,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Bugula neritina",
+        "AphiaID": 111158,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Callyspongia diffusa",
+        "AphiaID": 190269,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Cassiopea andromeda",
+        "AphiaID": 135295,
+        "new_AphiaID": 135253,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Cephalothrix suni",
+        "AphiaID": 876608,
+        "new_AphiaID": 122379,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Chaetodontoplus poliourus",
+        "AphiaID": 712746,
+        "new_AphiaID": 268706,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Chattonella marina",
+        "AphiaID": 233780,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Chelonaplysilla erecta",
+        "AphiaID": 132300,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Chlorarachnion reptans",
+        "AphiaID": 376147,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Chloropicon laureae",
+        "AphiaID": 1361155,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Chloropicon primus",
+        "AphiaID": 1361151,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Chloropicon roscoffensis",
+        "AphiaID": 1361153,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Chloropicon sieburthii",
+        "AphiaID": 1541871,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Chondria arcuata",
+        "AphiaID": 144793,
+        "new_AphiaID": 143906,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Chrysochromulina tobinii",
+        "AphiaID": 1358375,
+        "new_AphiaID": 115090,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Cladosiphon okamuranus",
+        "AphiaID": 371901,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Cladosporium herbarum",
+        "AphiaID": 100511,
+        "remove": "true",
+        "comment": "fungi"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Clathria unica",
+        "AphiaID": 190549,
+        "new_AphiaID": 131868,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Clytia gracilis",
+        "AphiaID": 117367,
+        "new_AphiaID": 117030,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Colpomenia claytoniae",
+        "AphiaID": 624476,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Coris picta",
+        "AphiaID": 273560,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Craterium leucocephalum",
+        "AphiaID": 1501261,
+        "remove": "true",
+        "comment": "Homo sapiens"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Cymbacephalus beauforti",
+        "AphiaID": 280462,
+        "new_AphiaID": 268921,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Cynoglossus nanhaiensis",
+        "AphiaID": 1526484,
+        "new_AphiaID": 126112,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Diplodus kotschyi",
+        "AphiaID": 998229,
+        "new_AphiaID": 126076,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Ditrichocorycaeus anglicus",
+        "AphiaID": 128805,
+        "new_AphiaID": 128635,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Dolichomastix tenuilepis",
+        "AphiaID": 345463,
+        "new_AphiaID": 134530,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Drombus triangularis",
+        "AphiaID": 219447,
+        "new_AphiaID": 205425,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Edwardsia longicornis",
+        "AphiaID": 100889,
+        "new_AphiaID": 100730,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Encrasicholina heteroloba",
+        "AphiaID": 219980,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Encrasicholina pseudoheteroloba",
+        "AphiaID": 1529163,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Eucinostomus gula",
+        "AphiaID": 159733,
+        "remove": "false",
+        "comment": "to review, possible cross-contamination?"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Favonigobius gymnauchen",
+        "AphiaID": 280772,
+        "new_AphiaID": 269154,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Fibrocapsa japonica",
+        "AphiaID": 233761,
+        "new_AphiaID": 233759,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Gelliodes wilsoni",
+        "AphiaID": 820772,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Gerres decacanthus",
+        "AphiaID": 276955,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Gerres equulus",
+        "AphiaID": 276956,
+        "new_AphiaID": 204064,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Gerres japonicus",
+        "AphiaID": 276958,
+        "new_AphiaID": 204064,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Gerres shima",
+        "AphiaID": 398541,
+        "new_AphiaID": 204064,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Glaucostegus cemiculus",
+        "AphiaID": 1016062,
+        "new_AphiaID": 269225,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Glaucostegus granulatus",
+        "AphiaID": 280873,
+        "new_AphiaID": 269225,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Halichondria coerulea",
+        "AphiaID": 191418,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Haliclona pigmentifera",
+        "AphiaID": 166430,
+        "new_AphiaID": 131834,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Halisarca dujardinii",
+        "AphiaID": 132736,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Halophytophthora vesicula",
+        "AphiaID": 865878,
+        "new_AphiaID": 865877,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Haramonas dimorpha",
+        "AphiaID": 608356,
+        "new_AphiaID": 391868,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Haslea crucigera",
+        "AphiaID": 172588,
+        "new_AphiaID": 149210,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Hemipristis elongata",
+        "AphiaID": 277427,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Hemiramphus far",
+        "AphiaID": 126389,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Herposiphonia pectinata",
+        "AphiaID": 239292,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Heterocapsa triquetra",
+        "AphiaID": 110153,
+        "new_AphiaID": 233610,
+        "remove": "false",
+        "comment": "change to Heterocapsa circularisquama"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Hippocampus comes",
+        "AphiaID": 275191,
+        "new_AphiaID": 275211,
+        "remove": "false",
+        "comment": "change to Hippocampus subelongatus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Hydroclathrus tenuis",
+        "AphiaID": 214334,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Hymeniacidon flavia",
+        "AphiaID": 345601,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Hypnea nigrescens",
+        "AphiaID": 220814,
+        "new_AphiaID": 144157,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Hypoatherina tsurugae",
+        "AphiaID": 277725,
+        "new_AphiaID": 204813,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Hypophthalmichthys molitrix",
+        "AphiaID": 154319,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Hyporhamphus limbatus",
+        "AphiaID": 272185,
+        "new_AphiaID": 272192,
+        "remove": "false",
+        "comment": "change to Hyporhamphus quoyi"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Hyporhamphus yuri",
+        "AphiaID": 272201,
+        "new_AphiaID": 125696,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Igernella notabilis",
+        "AphiaID": 164900,
+        "new_AphiaID": 164898,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Jujubinus geographicus",
+        "AphiaID": 389954,
+        "new_AphiaID": 138591,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Kapraunia schneideri",
+        "AphiaID": 1346787,
+        "new_AphiaID": 1346777,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Lobophora sonderi",
+        "AphiaID": 1372764,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Macrosteles quadrilineatus",
+        "AphiaID": 1489180,
+        "remove": "true"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Micromonas commoda",
+        "AphiaID": 1361174,
+        "new_AphiaID": 134533,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Micromonas pusilla",
+        "AphiaID": 134564,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Minutocellus polymorphus",
+        "AphiaID": 464449,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Mirounga leonina",
+        "AphiaID": 231413,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Monilea lentiginosa",
+        "AphiaID": 718867,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Moolgarda pedaraki",
+        "AphiaID": 218891,
+        "new_AphiaID": 309766,
+        "remove": "false",
+        "comment": "change to Moolgarda seheli"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Mugil liza",
+        "AphiaID": 273655,
+        "new_AphiaID": 126983,
+        "remove": "false",
+        "comment": "change to Mugil cephalus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Mugilogobius mertoni",
+        "AphiaID": 277356,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Murphydoris maracabranchia",
+        "AphiaID": 1568878,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Murphydoris puncticulata",
+        "AphiaID": 1568880,
+        "new_AphiaID": 723629,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Mycale fibrexilis",
+        "AphiaID": 184424,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Navicula minima",
+        "AphiaID": 172829,
+        "remove": "true",
+        "comment": "chloroplast/bacteria"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Nematalosa erebi",
+        "AphiaID": 278454,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Nematalosa japonica",
+        "AphiaID": 278456,
+        "new_AphiaID": 278454,
+        "remove": "false",
+        "comment": "change to Nematalosa erebi"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Neophocaena phocaenoides",
+        "AphiaID": 254985,
+        "remove": "true",
+        "comment": "wrong annotation fungi"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Neopomacentrus bankieri",
+        "AphiaID": 278911,
+        "new_AphiaID": 1376217,
+        "remove": "false",
+        "comment": "change to Neopomacentrus aktites"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Neopomacentrus taeniurus",
+        "AphiaID": 218838,
+        "new_AphiaID": 1376217,
+        "remove": "false",
+        "comment": "change to Neopomacentrus aktites"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Notograptus guttatus",
+        "AphiaID": 281783,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Omobranchus loxozonus",
+        "AphiaID": 278018,
+        "new_AphiaID": 205243,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pachychalina tenera",
+        "AphiaID": 178479,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pagothenia borchgrevinki",
+        "AphiaID": 234801,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Palisada parvipapillata",
+        "AphiaID": 495579,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Palisada tenerrima",
+        "AphiaID": 834118,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Paracentropogon rubripinnis",
+        "AphiaID": 277237,
+        "new_AphiaID": 277236,
+        "remove": "false",
+        "comment": "change to Paracentropogon longispinis"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Paramoeba aestuarina",
+        "AphiaID": 120622,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Parvamoeba rugata",
+        "AphiaID": 120633,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pateobatis uarnacoides",
+        "AphiaID": 1043412,
+        "new_AphiaID": 271459,
+        "remove": "false",
+        "comment": "change to Himantura hortlei"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pelagomonas calceolata",
+        "AphiaID": 345504,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pentapodus setosus",
+        "AphiaID": 282210,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Phaeocystis globosa",
+        "AphiaID": 160538,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Phaeocystis pouchetii",
+        "AphiaID": 115106,
+        "new_AphiaID": 160538,
+        "remove": "false",
+        "comment": "change to Phaeocystis globosa"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pheidole megacephala",
+        "AphiaID": 1490377,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Phorbas clathratus",
+        "AphiaID": 169317,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Phyllorhiza punctata",
+        "AphiaID": 135298,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pinguiococcus pyrenoidosus",
+        "AphiaID": 376356,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Planiliza macrolepis",
+        "AphiaID": 1043424,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Platycephalus indicus",
+        "AphiaID": 127234,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Plectorhinchus chrysotaenia",
+        "AphiaID": 273484,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Plectroglyphidodon apicalis",
+        "AphiaID": 1605251,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Plumularia filicaulis",
+        "AphiaID": 212494,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Polysiphonia echinata",
+        "AphiaID": 373148,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pomacentrus wardi",
+        "AphiaID": 277177,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pomatoschistus microps",
+        "AphiaID": 126927,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Prasinoderma coloniale",
+        "AphiaID": 375881,
+        "new_AphiaID": 370098,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Protoreaster nodosus",
+        "AphiaID": 213285,
+        "new_AphiaID": 206421,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pseudo-nitzschia abrensis",
+        "AphiaID": 832130,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pseudo-nitzschia caciantha",
+        "AphiaID": 531450,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pseudo-nitzschia circumpora",
+        "AphiaID": 837690,
+        "new_AphiaID": 531450,
+        "remove": "false",
+        "comment": "change to Pseudo-nitzschia caciantha"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pseudo-nitzschia cuspidata",
+        "AphiaID": 370512,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pseudo-nitzschia kodamae",
+        "AphiaID": 863362,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pseudo-nitzschia lundholmiae",
+        "AphiaID": 839797,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pseudo-nitzschia pseudodelicatissima",
+        "AphiaID": 156548,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pseudo-nitzschia sabit",
+        "AphiaID": 1307191,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pseudo-nitzschia subpacifica",
+        "AphiaID": 418222,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pseudochattonella farcimen",
+        "AphiaID": 531467,
+        "new_AphiaID": 531446,
+        "remove": "false",
+        "comment": "change to Pseudochattonella verruculosa"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Rhabdosargus haffara",
+        "AphiaID": 218620,
+        "new_AphiaID": 218621,
+        "remove": "false",
+        "comment": "change to Rhabdosargus sarba"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Salinator rosaceus",
+        "AphiaID": 591282,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Sardinella fijiensis",
+        "AphiaID": 400058,
+        "new_AphiaID": 125721,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Sillago aeolus",
+        "AphiaID": 218370,
+        "new_AphiaID": 273947,
+        "remove": "false",
+        "comment": "change to Sillago maculata"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Skeletonema grevillei",
+        "AphiaID": 619264,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Terpios gelatinosus",
+        "AphiaID": 1041930,
+        "new_AphiaID": 132073,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Terpios hoshinota",
+        "AphiaID": 170894,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Thalamita savignyi",
+        "AphiaID": 208842,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Thalassiosira punctigera",
+        "AphiaID": 148936,
+        "new_AphiaID": 148912,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Tursiops truncatus",
+        "AphiaID": 137111,
+        "new_AphiaID": 137109,
+        "remove": "false",
+        "comment": "change to Stenella longirostris"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Valenciennea sexguttata",
+        "AphiaID": 219598,
+        "new_AphiaID": 204096,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Vicicitus globosus",
+        "AphiaID": 707927,
+        "remove": "true"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Watersipora edmondsoni",
+        "AphiaID": 396736,
+        "remove": "false"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Yongeichthys criniger",
+        "AphiaID": 278114,
+        "remove": "false",
+        "comment": "to review"
+    }
+]
+
