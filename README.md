@@ -4,6 +4,18 @@ This is a workflow for processing eDNA results from the [eDNA Expeditions projec
 
 ## How to read this dataset
 
+### Download the dataset
+
+Download the `data` branch either using git or from <https://github.com/iobis/edna-results/archive/refs/heads/data.zip>.
+
+```bash
+git clone --depth 1 --branch data git@github.com:iobis/edna-results.git
+```
+
 ### Read the dataset using R
 
 See https://github.com/iobis/edna-results/blob/master/docs/read.md.
+
+## For maintainers
+
+To update the integrated dataset based on new data in [pacman-pipeline-results](https://github.com/iobis/pacman-pipeline-results) or new annotations in this repository, run the workflow in [Actions](https://github.com/iobis/edna-results/actions/workflows/run.yml).
