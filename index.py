@@ -3,7 +3,7 @@ import urllib.request, json
 import pandas as pd
 
 
-PROJECT_NAME = "eDNAexpeditions_batch1_samples"
+PROJECT_NAMES = [ "eDNAexpeditions_batch1_samples", "eDNAexpeditions_batch2_samples" ]
 OCCURRENCE_FILE = "Occurrence_table.tsv"
 DNA_FILE = "DNA_extension_table.tsv"
 OUPUT_FOLDER = "output"
@@ -25,10 +25,11 @@ def fetch_metadata() -> dict:
 
 def list_datasets() -> list:
     datasets = []
-    root_folder = os.path.join("pacman-pipeline-results", PROJECT_NAME, "runs")
-    for dataset in os.listdir(root_folder):
-        if os.path.isdir(os.path.join(root_folder, dataset)):
-            datasets.append(dataset)
+    for project_name in PROJECT_NAMES:
+        root_folder = os.path.join("pacman-pipeline-results", project_name, "runs")
+        for dataset in os.listdir(root_folder):
+            if os.path.isdir(os.path.join(root_folder, dataset)):
+                datasets.append(os.path.join(root_folder, dataset))
     return datasets
 
 
@@ -63,9 +64,11 @@ def derive_site_name(input):
         "bangladesh": "the_sundarbans",
         "southafrica": "isimangaliso_wetland_park",
         "seychel": "aldabra_atoll",
-        "mexico": "archipielago_de_revillagigedo"
+        "mexico": "archipielago_de_revillagigedo",
+        "yemen": "socotra_archipelago",
+        "argentina": "peninsula_valdes"
     }
-    input_lower = input.lower()
+    input_lower = input.split("/")[-1].lower()
     for key in site_dict:
         if input_lower.startswith(key):
             return site_dict[key]
@@ -81,7 +84,7 @@ def derive_marker_name(input: str) -> str:
         "co1": "coi",
         "16s": "16s",
     }
-    input_marker = input.split("_")[1]
+    input_marker = input.split("/")[-1].split("_")[1]
     input_lower = input_marker.lower()
     for key in marker_dict:
         if key in input_lower:
@@ -127,7 +130,7 @@ for site_name in folders_by_site:
 
     for dataset in datasets:
         marker = derive_marker_name(dataset)
-        dataset_path = os.path.join("pacman-pipeline-results", PROJECT_NAME, "runs", dataset, "05-dwca")
+        dataset_path = os.path.join(dataset, "05-dwca")
 
         occurrence_path = os.path.join(dataset_path, OCCURRENCE_FILE)
         dna_path = os.path.join(dataset_path, DNA_FILE)
