@@ -1,0 +1,541 @@
+[
+    {
+        "site": "The Sundarbans",
+        "species": "Acentrogobius chlorostigmatoides",
+        "AphiaID": 278776,
+        "new_AphiaID": 206293,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Acentrogobius moloanus",
+        "AphiaID": 312541,
+        "new_AphiaID": 206293,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Acetes sibogae",
+        "AphiaID": 210650,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Amphinema dinema",
+        "AphiaID": 117778,
+        "new_AphiaID": 117178,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Andvakia discipulorum",
+        "AphiaID": 446803,
+        "new_AphiaID": 100766,
+        "remove": "false",
+        "comment": "change to Telmatactis genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Arius oetik",
+        "AphiaID": 275582,
+        "new_AphiaID": 158710,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Ascidia ahodori",
+        "AphiaID": 249965,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Aspergillus versicolor",
+        "AphiaID": 100498,
+        "remove": "true",
+        "comment": "fungi"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Aulactinia verrucosa",
+        "AphiaID": 100815,
+        "new_AphiaID": 290630,
+        "remove": "false",
+        "comment": "change to Paracondylactis sinensis"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Bestiolina similis",
+        "AphiaID": 346152,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Boreogadus saida",
+        "AphiaID": 126433,
+        "remove": "true",
+        "comment": "food or cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Centropages tenuiremis",
+        "AphiaID": 346261,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Chattonella marina",
+        "AphiaID": 233780,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Chloroparvula pacifica",
+        "AphiaID": 1361158,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Chloropicon roscoffensis",
+        "AphiaID": 1361153,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Cladorhiza corticocancellata",
+        "AphiaID": 133191,
+        "remove": "true"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Clytia folleata",
+        "AphiaID": 284355,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Clytia gracilis",
+        "AphiaID": 117367,
+        "new_AphiaID": 117030,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Craterium leucocephalum",
+        "AphiaID": 1501261,
+        "remove": "true",
+        "comment": "Homo sapiens"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Diplodus kotschyi",
+        "AphiaID": 998229,
+        "new_AphiaID": 126076,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Eleutheronema rhadinum",
+        "AphiaID": 280638,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Emiliania huxleyi",
+        "AphiaID": 115104,
+        "new_AphiaID": 235955,
+        "remove": "false",
+        "comment": "change to Geophyrocapsa oceanica"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Equus caballus",
+        "AphiaID": 1603282,
+        "remove": "true",
+        "comment": "horse"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Erythrinus erythrinus",
+        "AphiaID": 1020987,
+        "remove": "true"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Eucinostomus gula",
+        "AphiaID": 159733,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Fibrocapsa japonica",
+        "AphiaID": 233761,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Fistulifera pelliculosa",
+        "AphiaID": 577521,
+        "new_AphiaID": 577520,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Floridichthys carpio",
+        "AphiaID": 280790,
+        "new_AphiaID": 269160,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Gerres cinereus",
+        "AphiaID": 276954,
+        "new_AphiaID": 367242,
+        "remove": "false",
+        "comment": "change to Gerres longirostris"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Gymnodoris pattani",
+        "AphiaID": 567617,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Haslea tsukamotoi",
+        "AphiaID": 1288229,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Hemiaulus sinensis",
+        "AphiaID": 163250,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Heterocapsa rotundata",
+        "AphiaID": 110152,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Labidocera pectinata",
+        "AphiaID": 220923,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Labidocera rotunda",
+        "AphiaID": 358900,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Lagenorhynchus obliquidens",
+        "AphiaID": 254981,
+        "new_AphiaID": 137107,
+        "remove": "false",
+        "comment": "change to Stenella coeruleoalba"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Leucocryptos marina",
+        "AphiaID": 119077,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Lithodesmioides polymorpha",
+        "AphiaID": 573483,
+        "new_AphiaID": 450624,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Macrosteles quadrilineatus",
+        "AphiaID": 1489180,
+        "remove": "true"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Mactra glauca",
+        "AphiaID": 140297,
+        "remove": "true"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Mediomastus capensis",
+        "AphiaID": 129890,
+        "new_AphiaID": 129218,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Micromonas commoda",
+        "AphiaID": 1361174,
+        "new_AphiaID": 134564,
+        "remove": "false",
+        "comment": "change to Micromonas pusilla"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Minutocellus polymorphus",
+        "AphiaID": 464449,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Nanomia bijuga",
+        "AphiaID": 135495,
+        "new_AphiaID": 135344,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Nanozoanthus harenaceus",
+        "AphiaID": 743536,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Navicula minima",
+        "AphiaID": 172829,
+        "remove": "true",
+        "comment": "chloroplast"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Neophocaena phocaenoides",
+        "AphiaID": 254985,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Oithona attenuata",
+        "AphiaID": 220944,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Omobranchus fasciolatoceps",
+        "AphiaID": 278015,
+        "new_AphiaID": 278026,
+        "remove": "false",
+        "comment": "change to Omobranchus zebra"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Oxyurichthys saru",
+        "AphiaID": 273464,
+        "new_AphiaID": 125998,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Pagothenia borchgrevinki",
+        "AphiaID": 234801,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Paracalanus gracilis",
+        "AphiaID": 354158,
+        "new_AphiaID": 104196,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Paracalanus indicus",
+        "AphiaID": 104683,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Paraplotosus albilabris",
+        "AphiaID": 282097,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Parengyodontium album",
+        "AphiaID": 1415549,
+        "remove": "true",
+        "comment": "fungi"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Parvocalanus crassirostris",
+        "AphiaID": 360051,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Pastinachus solocirostris",
+        "AphiaID": 278252,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Pelagomonas calceolata",
+        "AphiaID": 345504,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Phaeocystis globosa",
+        "AphiaID": 160538,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Platycephalus cultellatus",
+        "AphiaID": 274656,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Plicofollis nella",
+        "AphiaID": 282298,
+        "new_AphiaID": 270460,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Prototheca ciferrii",
+        "AphiaID": 619801,
+        "new_AphiaID": 616635,
+        "remove": "false",
+        "comment": "change to Prototheca zopfii"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Pseudo-nitzschia circumpora",
+        "AphiaID": 837690,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Pseudo-nitzschia cuspidata",
+        "AphiaID": 370512,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Pseudo-nitzschia subpacifica",
+        "AphiaID": 418222,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Pseudomphala latericea",
+        "AphiaID": 765249,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Scoliodon macrorhynchos",
+        "AphiaID": 1021742,
+        "new_AphiaID": 217364,
+        "remove": "false",
+        "comment": "change to Scoliodon laticaudus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Skeletonema ardens",
+        "AphiaID": 623005,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Skeletonema menzelii",
+        "AphiaID": 376361,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Stenella coeruleoalba",
+        "AphiaID": 137107,
+        "new_AphiaID": 148732,
+        "remove": "false",
+        "comment": "change to Orcaella brevisrostris"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Synchaeta vorax",
+        "AphiaID": 135067,
+        "new_AphiaID": 134958,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Terpios gelatinosus",
+        "AphiaID": 1041930,
+        "new_AphiaID": 132073,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Tetraodon nigroviridis",
+        "AphiaID": 275367,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Thalassiosira rotula",
+        "AphiaID": 148942,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Thryssa kammalensoides",
+        "AphiaID": 275557,
+        "new_AphiaID": 158703,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Tursiops truncatus",
+        "AphiaID": 137111,
+        "new_AphiaID": 137026,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Zenarchopterus dunckeri",
+        "AphiaID": 277913,
+        "new_AphiaID": 205060,
+        "remove": "false",
+        "comment": "change to genus"
+    }
+]
+
