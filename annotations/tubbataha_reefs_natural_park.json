@@ -1,0 +1,1198 @@
+[
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Acanthurus leucosternon",
+        "AphiaID": 219628,
+        "new_AphiaID": 125515,
+        "remove": "false",
+        "comment": "change to Family"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Acartia negligens",
+        "AphiaID": 104259,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Amphibalanus zhujiangensis",
+        "AphiaID": 534950,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Amphidinium massartii",
+        "AphiaID": 109743,
+        "new_AphiaID": 109473,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Amphimedon compressa",
+        "AphiaID": 166666,
+        "remove": "true"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Amphipholis squamata",
+        "AphiaID": 125064,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Andvakia discipulorum",
+        "AphiaID": 446803,
+        "new_AphiaID": 100659,
+        "remove": "false",
+        "comment": "change to Family"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Aphanta ligulata",
+        "AphiaID": 1534768,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Apogon campbelli",
+        "AphiaID": 209307,
+        "new_AphiaID": 125913,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Ascidia ahodori",
+        "AphiaID": 249965,
+        "remove": "false",
+        "comment": "to review   possible cross-contamination"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Aspergillus niger",
+        "AphiaID": 100495,
+        "remove": "true",
+        "comment": "fungi"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Aspergillus versicolor",
+        "AphiaID": 100498,
+        "remove": "true",
+        "comment": "fungi"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Atherinomorus aetholepis",
+        "AphiaID": 272031,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Balanodytes taiwanus",
+        "AphiaID": 445300,
+        "new_AphiaID": 438989,
+        "remove": "false",
+        "comment": "change to Armatoglyptes habei"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Balanoglossus carnosus",
+        "AphiaID": 266572,
+        "remove": "true",
+        "comment": "possible contamination Emberiza schoeniclus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Bigelowiella natans",
+        "AphiaID": 376277,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Boasia chierchiae",
+        "AphiaID": 1419961,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Calliblepharis jubata",
+        "AphiaID": 145614,
+        "remove": "true"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Callyspongia fallax",
+        "AphiaID": 190264,
+        "new_AphiaID": 131825,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Callyspongia plicifera",
+        "AphiaID": 247856,
+        "remove": "false",
+        "comment": "to  review"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Callyspongia vaginalis",
+        "AphiaID": 247858,
+        "new_AphiaID": 131825,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Calocalanus minutus",
+        "AphiaID": 346221,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Candacia curta",
+        "AphiaID": 104476,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Cantellius septimus",
+        "AphiaID": 535083,
+        "new_AphiaID": 472921,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Ceratoporella nicholsoni",
+        "AphiaID": 164851,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Cerithium koperbergi",
+        "AphiaID": 473102,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Chalinula molitba",
+        "AphiaID": 166293,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Chelon dumerili",
+        "AphiaID": 1042829,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Chlorarachnion reptans",
+        "AphiaID": 376147,
+        "remove": "true"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Chloroparvula pacifica",
+        "AphiaID": 1361158,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Chloropicon laureae",
+        "AphiaID": 1361155,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Chloropicon mariensis",
+        "AphiaID": 1361154,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Chloropicon primus",
+        "AphiaID": 1361151,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Chloropicon roscoffensis",
+        "AphiaID": 1361153,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Chloropicon sieburthii",
+        "AphiaID": 1541871,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Chondrophycus dotyi",
+        "AphiaID": 375747,
+        "new_AphiaID": 143907,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Chondrophycus succisus",
+        "AphiaID": 375752,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Chrysochromulina tobinii",
+        "AphiaID": 1358375,
+        "new_AphiaID": 115090,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Cladiella pachyclados",
+        "AphiaID": 209609,
+        "new_AphiaID": 205863,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Cladocroce burapha",
+        "AphiaID": 166302,
+        "new_AphiaID": 131832,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Clathria curacaoensis",
+        "AphiaID": 988206,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Clathria unica",
+        "AphiaID": 190549,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Clavularia crassa",
+        "AphiaID": 125338,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Clavularia inflata",
+        "AphiaID": 517670,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Cliona celata",
+        "AphiaID": 134121,
+        "new_AphiaID": 132026,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Cliona chilensis",
+        "AphiaID": 170434,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Cliona delitrix",
+        "AphiaID": 170437,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Cliona vermifera",
+        "AphiaID": 134145,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Cliona yorkin",
+        "AphiaID": 1450708,
+        "new_AphiaID": 132027,
+        "remove": "false",
+        "comment": "change to genus Cliothosa"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Cliothosa aurivillii",
+        "AphiaID": 170491,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Clytia gracilis",
+        "AphiaID": 117367,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Coelothrix irregularis",
+        "AphiaID": 145846,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Convolutriloba longifissura",
+        "AphiaID": 380083,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Copilia hendorffi",
+        "AphiaID": 346293,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Crassitegula imitans",
+        "AphiaID": 626087,
+        "new_AphiaID": 369530,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Ctenodrilus pacificus",
+        "AphiaID": 873617,
+        "new_AphiaID": 129253,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Cunina fowleri",
+        "AphiaID": 117493,
+        "new_AphiaID": 117072,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Dictyocha octonaria",
+        "AphiaID": 341584,
+        "remove": "true"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Dictyota mayae",
+        "AphiaID": 1369837,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Diplodus kotschyi",
+        "AphiaID": 998229,
+        "new_AphiaID": 126076,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Dolichomastix tenuilepis",
+        "AphiaID": 345463,
+        "new_AphiaID": 134530,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Edwardsia longicornis",
+        "AphiaID": 100889,
+        "new_AphiaID": 100730,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Elysia obtusa",
+        "AphiaID": 494464,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Epigonichthys maldivensis",
+        "AphiaID": 212958,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Etisus bifrontalis",
+        "AphiaID": 209116,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Eucampia zodiacus",
+        "AphiaID": 149131,
+        "remove": "true",
+        "comment": "Bacteria"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Eucinostomus gula",
+        "AphiaID": 159733,
+        "remove": "false",
+        "comment": "to review, possible cross-contamination"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Euphysilla pyramidata",
+        "AphiaID": 221089,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Fibularia coffea",
+        "AphiaID": 1327289,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Forskalia edwardsii",
+        "AphiaID": 135501,
+        "new_AphiaID": 135396,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Ganonema pinnatiramosa",
+        "AphiaID": 495626,
+        "new_AphiaID": 144208,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Gelliodes wilsoni",
+        "AphiaID": 820772,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Halichondria bowerbanki",
+        "AphiaID": 132588,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Haliclona pigmentifera",
+        "AphiaID": 166430,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Haliclona tubifera",
+        "AphiaID": 345569,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Haliclona vansoesti",
+        "AphiaID": 191489,
+        "new_AphiaID": 131834,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Halopteris alternata",
+        "AphiaID": 117630,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Harveylithon munitum",
+        "AphiaID": 1041645,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Haslea pseudostrearia",
+        "AphiaID": 495535,
+        "new_AphiaID": 149210,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Hemiarma marina",
+        "AphiaID": 1361130,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Hemigellius pilosus",
+        "AphiaID": 175046,
+        "new_AphiaID": 131843,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Heterocapsa rotundata",
+        "AphiaID": 110152,
+        "new_AphiaID": 109540,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Hydrolithon reinboldii",
+        "AphiaID": 213884,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Hymeniacidon chloris",
+        "AphiaID": 165886,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Hymeniacidon flavia",
+        "AphiaID": 345601,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Hypnea caespitosa",
+        "AphiaID": 623819,
+        "new_AphiaID": 144157,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Hypoatherina celebesensis",
+        "AphiaID": 834912,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Hypoatherina tsurugae",
+        "AphiaID": 277725,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Igernella notabilis",
+        "AphiaID": 164900,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Labidodemas pertinax",
+        "AphiaID": 210773,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Laodicea undulata",
+        "AphiaID": 117725,
+        "remove": "true"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Leptoseris foliosa",
+        "AphiaID": 207286,
+        "new_AphiaID": 196096,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Lithodesmioides polymorpha",
+        "AphiaID": 573483,
+        "new_AphiaID": 450624,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Lophocladia kuetzingii",
+        "AphiaID": 214231,
+        "new_AphiaID": 143916,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Macaca mulatta",
+        "AphiaID": 1506701,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Macrosteles quadrilineatus",
+        "AphiaID": 1489180,
+        "remove": "true"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Mantoniella squamata",
+        "AphiaID": 134563,
+        "new_AphiaID": 134532,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Meredithia norfolkensis",
+        "AphiaID": 840023,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Metalia nobilis",
+        "AphiaID": 513389,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Micromonas commoda",
+        "AphiaID": 1361174,
+        "new_AphiaID": 134564,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Micromonas pusilla",
+        "AphiaID": 134564,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Microspio granulata",
+        "AphiaID": 329019,
+        "remove": "true"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Minutocellus polymorphus",
+        "AphiaID": 464449,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Mycale cecilia",
+        "AphiaID": 192516,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Naso elegans",
+        "AphiaID": 278005,
+        "new_AphiaID": 219665,
+        "remove": "false",
+        "comment": "change to Naso lituratus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Navicula minima",
+        "AphiaID": 172829,
+        "remove": "true",
+        "comment": "Bacteria"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Neofibularia hartmani",
+        "AphiaID": 168320,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Neogoniolithon megalocystum",
+        "AphiaID": 371295,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Neogoniolithon trichotomum",
+        "AphiaID": 213914,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Neophocaena phocaenoides",
+        "AphiaID": 254985,
+        "remove": "true"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Neospongodes atlantica",
+        "AphiaID": 290467,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Nereis denhamensis",
+        "AphiaID": 329639,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Nethea amygdaloides",
+        "AphiaID": 183627,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Notopygos albiseta",
+        "AphiaID": 330030,
+        "new_AphiaID": 129190,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Oithona attenuata",
+        "AphiaID": 220944,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Ophiocomella ophiactoides",
+        "AphiaID": 243584,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Ophiomastix asperula",
+        "AphiaID": 243723,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Pachychalina tenera",
+        "AphiaID": 178479,
+        "remove": "true",
+        "comment": "likely cross-contamination"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Paracalanus denudatus",
+        "AphiaID": 104682,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Paracalanus gracilis",
+        "AphiaID": 354158,
+        "new_AphiaID": 104196,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Paracalanus indicus",
+        "AphiaID": 104683,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Paracornulum dubium",
+        "AphiaID": 167444,
+        "new_AphiaID": 131852,
+        "remove": "false",
+        "comment": "change to genus Oceanapia"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Paramoeba aestuarina",
+        "AphiaID": 120622,
+        "new_AphiaID": 120552,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Paramoeba pemaquidensis",
+        "AphiaID": 120624,
+        "new_AphiaID": 120552,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Parupeneus insularis",
+        "AphiaID": 277815,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Parupeneus margaritatus",
+        "AphiaID": 277818,
+        "new_AphiaID": 204915,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Pelagomonas calceolata",
+        "AphiaID": 345504,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Petaloconchus keenae",
+        "AphiaID": 549433,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Phaeocystis pouchetii",
+        "AphiaID": 115106,
+        "new_AphiaID": 115088,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Phestilla subodiosa",
+        "AphiaID": 1418421,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Pinnularia acrosphaeria",
+        "AphiaID": 609925,
+        "new_AphiaID": 149015,
+        "remove": "false",
+        "comment": "change to order"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Pione velans",
+        "AphiaID": 170520,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Plakortis deweerdtaephila",
+        "AphiaID": 888604,
+        "new_AphiaID": 131983,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Plakortis halichondrioides",
+        "AphiaID": 169763,
+        "new_AphiaID": 131983,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Pleurobranchus varians",
+        "AphiaID": 849352,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Plumularia strictocarpa",
+        "AphiaID": 285299,
+        "new_AphiaID": 117196,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Polysiphonia breviarticulata",
+        "AphiaID": 144614,
+        "new_AphiaID": 143853,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Pomacentrus micronesicus",
+        "AphiaID": 835088,
+        "new_AphiaID": 277145,
+        "remove": "false",
+        "comment": "change to Pomacentrus coelestis"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Prasinoderma coloniale",
+        "AphiaID": 375881,
+        "new_AphiaID": 370098,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Pseudo-nitzschia circumpora",
+        "AphiaID": 837690,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Pseudo-nitzschia decipiens",
+        "AphiaID": 531451,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Pseudo-nitzschia delicatissima",
+        "AphiaID": 149153,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Pseudo-nitzschia multistriata",
+        "AphiaID": 246608,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Pseudo-nitzschia pseudodelicatissima",
+        "AphiaID": 156548,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Pseudo-nitzschia sabit",
+        "AphiaID": 1307191,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Pseudo-nitzschia subpacifica",
+        "AphiaID": 418222,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Pseudoscourfieldia marina",
+        "AphiaID": 134566,
+        "new_AphiaID": 134534,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Pterocladiella sanctarum",
+        "AphiaID": 547543,
+        "new_AphiaID": 144137,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Pterotrachea hippocampus",
+        "AphiaID": 139945,
+        "new_AphiaID": 138009,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Ptychodera flava",
+        "AphiaID": 210065,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Ramicrusta lateralis",
+        "AphiaID": 837478,
+        "new_AphiaID": 370140,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Rhinothelepus lobatus",
+        "AphiaID": 331500,
+        "new_AphiaID": 325273,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Rhodachlya hawaiiana",
+        "AphiaID": 708100,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Salmo salar",
+        "AphiaID": 127186,
+        "remove": "true",
+        "comment": "contamination"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Sardinella maderensis",
+        "AphiaID": 126423,
+        "new_AphiaID": 125721,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Sigmaxinella hipposiderus",
+        "AphiaID": 577142,
+        "new_AphiaID": 168324,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Skeletonema menzelii",
+        "AphiaID": 376361,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Sphaerocoryne bedoti",
+        "AphiaID": 117952,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Sphaeronectes koellikeri",
+        "AphiaID": 152189,
+        "new_AphiaID": 135381,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Spirastrella hartmani",
+        "AphiaID": 170709,
+        "new_AphiaID": 132060,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Syllis picta",
+        "AphiaID": 865162,
+        "new_AphiaID": 129680,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Terpios gelatinosus",
+        "AphiaID": 1041930,
+        "new_AphiaID": 890847,
+        "remove": "false",
+        "comment": "change to Protosuberites mereui"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Terpios hoshinota",
+        "AphiaID": 170894,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Thalamita seurati",
+        "AphiaID": 442916,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Thalassiosira punctigera",
+        "AphiaID": 148936,
+        "new_AphiaID": 148912,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Thalassiosira rotula",
+        "AphiaID": 148942,
+        "new_AphiaID": 148912,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Thalassoma bifasciatum",
+        "AphiaID": 159786,
+        "new_AphiaID": 212209,
+        "remove": "false",
+        "comment": "change to Thalassoma lunare"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Thormora jukesii",
+        "AphiaID": 332583,
+        "new_AphiaID": 206602,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Thraustochytrium aureum",
+        "AphiaID": 162961,
+        "new_AphiaID": 119095,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Thylacodes variabilis",
+        "AphiaID": 709511,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Topsentia ophiraphidites",
+        "AphiaID": 165956,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Zanclea gallii",
+        "AphiaID": 1326619,
+        "remove": "false"
+    },
+    {
+        "site": "Tubbataha Reefs Natural Park",
+        "species": "Zanclea sango",
+        "AphiaID": 590115,
+        "remove": "false"
+    }
+]
+
