@@ -19,12 +19,8 @@ jobs:
         run: ls -al
       - name: Generate data
         run: python index.py
-      - name: Commit data
-        run: |
-          git config --global user.email "github-actions@github.com"
-          git config --global user.name "GitHub Actions"
-          git checkout -b data
-          mv output data
-          git add data
-          git commit -m "Update data"
-          git push --force origin data
+      - name: Upload
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: python upload.py

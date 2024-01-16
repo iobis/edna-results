@@ -4,4 +4,6 @@ pacman-pipeline-results
 *.Rproj
 .Rproj.user
 .Rhistory
+.env
+output.zip
 
