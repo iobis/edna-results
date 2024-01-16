@@ -1,0 +1,221 @@
+[
+    {
+        "site": "Wadden Sea",
+        "species": "Alcyonidium verrilli",
+        "AphiaID": 159765,
+        "remove": "false"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Bubalus bubalis",
+        "AphiaID": 1479040,
+        "remove": "true",
+        "comment": "water buffalo"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Diplodus kotschyi",
+        "AphiaID": 998229,
+        "new_AphiaID": 127053,
+        "remove": "false",
+        "comment": "change to Diplodus sargus"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Ehirava fluviatilis",
+        "AphiaID": 280592,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Engraulis japonicus",
+        "AphiaID": 219984,
+        "new_AphiaID": 126426,
+        "remove": "false",
+        "comment": "change to Engraulis encrasicolus"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Equus caballus",
+        "AphiaID": 1603282,
+        "remove": "true",
+        "comment": "horse"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Ethmalosa fimbriata",
+        "AphiaID": 280725,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Eucinostomus gula",
+        "AphiaID": 159733,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Gerres cinereus",
+        "AphiaID": 276954,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Harpadon nehereus",
+        "AphiaID": 217661,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Hemiculter leucisculus",
+        "AphiaID": 281021,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Hippoglossus stenolepis",
+        "AphiaID": 274290,
+        "new_AphiaID": 125579,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Hypereteone heteropoda",
+        "AphiaID": 333652,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Jaydia lineata",
+        "AphiaID": 1022238,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Larus occidentalis",
+        "AphiaID": 343916,
+        "new_AphiaID": 137043,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Limosa fedoa",
+        "AphiaID": 158965,
+        "new_AphiaID": 159034,
+        "remove": "false",
+        "comment": "change to Limosa lapponica"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Macrosteles quadrilineatus",
+        "AphiaID": 1489180,
+        "remove": "true"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Naso unicornis",
+        "AphiaID": 219668,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Neophocaena phocaenoides",
+        "AphiaID": 254985,
+        "remove": "true"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Osmerus mordax",
+        "AphiaID": 126737,
+        "new_AphiaID": 126736,
+        "remove": "false",
+        "comment": "change to Osmerus eperlanus"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Parabramis pekinensis",
+        "AphiaID": 1013562,
+        "new_AphiaID": 154163,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Perophora sagamiensis",
+        "AphiaID": 250618,
+        "remove": "true"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Pholis crassispina",
+        "AphiaID": 273687,
+        "new_AphiaID": 126996,
+        "remove": "false",
+        "comment": "change to Pholis gunnellus"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Platichthys stellatus",
+        "AphiaID": 154781,
+        "new_AphiaID": 127141,
+        "remove": "false",
+        "comment": "change to Platichthys flesus"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Polydora onagawaensis",
+        "AphiaID": 1611501,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Pomatoschistus knerii",
+        "AphiaID": 126924,
+        "new_AphiaID": 126927,
+        "remove": "false",
+        "comment": "change to Pomatoschistus microps"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Solea senegalensis",
+        "AphiaID": 127159,
+        "new_AphiaID": 127160,
+        "remove": "false",
+        "comment": "change to Solea solea"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Somateria fischeri",
+        "AphiaID": 422886,
+        "new_AphiaID": 137074,
+        "remove": "false",
+        "comment": "change to Somateria mollissima"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Synchaeta hutchingsi",
+        "AphiaID": 368620,
+        "remove": "false"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Zoarces elongatus",
+        "AphiaID": 274153,
+        "new_AphiaID": 127123,
+        "remove": "false",
+        "comment": "change to Zoarces viviparus"
+    }
+]
+
