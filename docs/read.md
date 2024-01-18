@@ -8,8 +8,8 @@ Read the individual Occurrence and DNADerivedData files, and join them:
     library(stringr)
     library(purrr)
 
-    dna_files <- list.files("./data", "*DNADerivedData*", full.names = TRUE)
-    occurrence_files <- list.files("./data", "*Occurrence*", full.names = TRUE)
+    dna_files <- list.files("../output", "*DNADerivedData*", full.names = TRUE)
+    occurrence_files <- list.files("../output", "*Occurrence*", full.names = TRUE)
 
     dna <- map(dna_files, read.table, sep = "\t", quote = "", header = TRUE) %>%
       bind_rows() %>%
@@ -89,52 +89,52 @@ Inspect updated names:
 <tr class="odd">
 <td style="text-align: left;">Animalia</td>
 <td style="text-align: left;">Metazoa</td>
-<td style="text-align: right;">293593</td>
+<td style="text-align: right;">607990</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Bellerochea polymorpha</td>
 <td style="text-align: left;">Minutocellus polymorphus</td>
-<td style="text-align: right;">858</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Callyspongia (Cladochalina) plicifera</td>
-<td style="text-align: left;">Callyspongia plicifera</td>
-<td style="text-align: right;">493</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Neoparamoeba aestuarina</td>
-<td style="text-align: left;">Paramoeba aestuarina</td>
-<td style="text-align: right;">315</td>
+<td style="text-align: right;">1649</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Azurina atrilobata</td>
 <td style="text-align: left;">Chromis atrilobata</td>
-<td style="text-align: right;">260</td>
+<td style="text-align: right;">931</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Callyspongia (Cladochalina) plicifera</td>
+<td style="text-align: left;">Callyspongia plicifera</td>
+<td style="text-align: right;">640</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Neoparamoeba aestuarina</td>
+<td style="text-align: left;">Paramoeba aestuarina</td>
+<td style="text-align: right;">584</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Coscinodiscophycidae</td>
 <td style="text-align: left;">Coscinodiscophyceae</td>
-<td style="text-align: right;">226</td>
+<td style="text-align: right;">510</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Platybelone argalus</td>
 <td style="text-align: left;">Platybelone argala</td>
-<td style="text-align: right;">203</td>
+<td style="text-align: right;">428</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Acartia (Acanthacartia) tonsa</td>
 <td style="text-align: left;">Acartia tonsa</td>
-<td style="text-align: right;">160</td>
+<td style="text-align: right;">386</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Eucampia striata</td>
-<td style="text-align: left;">Guinardia striata</td>
-<td style="text-align: right;">143</td>
+<td style="text-align: left;">Istiblennius edentulus</td>
+<td style="text-align: left;">Istiblennius enosimae</td>
+<td style="text-align: right;">336</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Sundstroemia setigera</td>
 <td style="text-align: left;">Rhizosolenia setigera</td>
-<td style="text-align: right;">137</td>
+<td style="text-align: right;">314</td>
 </tr>
 </tbody>
 </table>
