@@ -6,7 +6,7 @@ This is a workflow for processing eDNA results from the [eDNA Expeditions projec
 
 ### Download the dataset
 
-Downloadn the zipped dataset from <https://obis-edna-results.s3.amazonaws.com/output.zip>.
+Download the zipped dataset from <https://obis-edna-results.s3.amazonaws.com/output.zip>.
 
 ### Read the dataset using R
 
