@@ -9,7 +9,8 @@ DNA_FILE = "DNA_extension_table.tsv"
 OUPUT_FOLDER = "output"
 # TODO: read contaminants from JSON
 CONTAMINANTS = ["Homo", "Sus", "Gallus", "Canis", "Bos", "Felis", "Ovis", "Mus", "Vulpes", "Rattus", "Capra", "Rangifer"]
-REMOVE_CONTAMINANTS = False
+REMOVE_CONTAMINANTS = True
+REMOVE_BLANK = True
 
 
 def download_results() -> None:
@@ -105,8 +106,14 @@ metadata_df = pd.DataFrame.from_dict([{
     "decimalLongitude": sample["area_longitude"],
     "decimalLatitude": sample["area_latitude"],
     "sampleSize": sample["size"],
-    "higherGeography": sample["parent_area_name"]
+    "higherGeography": sample["parent_area_name"],
+    "blank": sample["blank"]
 } for sample in metadata["samples"]])
+
+if REMOVE_BLANK:
+    metadata_df = metadata_df[metadata_df["blank"] == False]
+
+metadata_df = metadata_df.drop(columns=["blank"])
 
 # organize data folders by site
 
