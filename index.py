@@ -160,6 +160,13 @@ for site_name in folders_by_site:
         occurrence["occurrenceID"] = occurrence["occurrenceID"].apply(lambda x: f"{x}_{marker}")
         dna["occurrenceID"] = dna["occurrenceID"].apply(lambda x: f"{x}_{marker}")
 
+        # add batch
+
+        if "batch1" in dataset:
+            occurrence["eventRemarks"] = "sequencing batch 1"
+        elif "batch2" in dataset:
+            occurrence["eventRemarks"] = "sequencing batch 2"
+
         # append
 
         occurrence_tables.append(occurrence)
