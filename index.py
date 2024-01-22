@@ -107,7 +107,8 @@ metadata_df = pd.DataFrame.from_dict([{
     "decimalLatitude": sample["area_latitude"],
     "sampleSize": sample["size"],
     "higherGeography": sample["parent_area_name"],
-    "blank": sample["blank"]
+    "blank": sample["blank"],
+    "locationID": sample["station"]
 } for sample in metadata["samples"]])
 
 if REMOVE_BLANK:
