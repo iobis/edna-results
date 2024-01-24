@@ -16,8 +16,8 @@ library(dplyr)
 library(stringr)
 library(purrr)
 
-dna_files <- list.files("./data", "*DNADerivedData*", full.names = TRUE)
-occurrence_files <- list.files("./data", "*Occurrence*", full.names = TRUE)
+dna_files <- list.files("output", "*DNADerivedData*", full.names = TRUE)
+occurrence_files <- list.files("output", "*Occurrence*", full.names = TRUE)
 
 dna <- map(dna_files, read.table, sep = "\t", quote = "", header = TRUE) %>%
   bind_rows() %>%
