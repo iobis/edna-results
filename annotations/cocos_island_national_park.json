@@ -319,7 +319,7 @@
         "species": "Ethmalosa fimbriata",
         "AphiaID": 280725,
         "remove": "true",
-        "comment": "to review"
+        "comment": "cross-contamination"
     },
     {
         "site": "Cocos Island National Park",
@@ -804,6 +804,488 @@
         "new_AphiaID": 274961,
         "remove": "false",
         "comment": "change to Vinciguerria lucetia "
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Adineta vaga",
+        "AphiaID": 886583,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Aidanosagitta neglecta",
+        "AphiaID": 266708,
+        "new_AphiaID": 264890,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Amphidinium massartii",
+        "AphiaID": 109743,
+        "new_AphiaID": 109473,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Anas poecilorhyncha",
+        "AphiaID": 1034710,
+        "remove": "true",
+        "comment": "Mallard"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Anisotremus surinamensis",
+        "AphiaID": 279623,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Argonauta argo",
+        "AphiaID": 138803,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Asyncoryne ryniensis",
+        "AphiaID": 289484,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Atherinomorus lacunosus",
+        "AphiaID": 126331,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Bathycoccus prasinos",
+        "AphiaID": 345459,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Boloceroides mcmurrichi",
+        "AphiaID": 288925,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Bovichtus argentinus",
+        "AphiaID": 279373,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Cadlina modesta",
+        "AphiaID": 564148,
+        "new_AphiaID": 137781,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Callyspongia plicifera",
+        "AphiaID": 247856,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Calocalanus plumulosus",
+        "AphiaID": 211848,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Cardiapoda placenta",
+        "AphiaID": 225068,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Centrophryne spinulosa",
+        "AphiaID": 126536,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Cestum veneris",
+        "AphiaID": 106363,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Chelophyes contorta",
+        "AphiaID": 196554,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Chlorurus sordidus",
+        "AphiaID": 219082,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Clavularia crassa",
+        "AphiaID": 125338,
+        "remove": "true"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Clupea harengus",
+        "AphiaID": 126417,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Clytia elsaeoswaldae",
+        "AphiaID": 225739,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Cyclothone pacifica",
+        "AphiaID": 274945,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Diaphus fulgens",
+        "AphiaID": 217692,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Diaphus splendidus",
+        "AphiaID": 158893,
+        "new_AphiaID": 125819,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Dicentrarchus punctatus",
+        "AphiaID": 126976,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Dicrolene introniger",
+        "AphiaID": 275895,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Dictyocha octonaria",
+        "AphiaID": 341584,
+        "remove": "true"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Echinometra oblonga",
+        "AphiaID": 213381,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Enchelynassa canina",
+        "AphiaID": 217475,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Engraulis ringens",
+        "AphiaID": 272287,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Euchaeta marina",
+        "AphiaID": 104552,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Gelidiella ligulata",
+        "AphiaID": 374760,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Idiastion pacificum",
+        "AphiaID": 281155,
+        "new_AphiaID": 126175,
+        "remove": "false",
+        "comment": "change to genus Sebastes"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Isarachnanthus nocturnus",
+        "AphiaID": 411138,
+        "new_AphiaID": 100780,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Kirkpatrickia variolosa",
+        "AphiaID": 169300,
+        "new_AphiaID": 131954,
+        "remove": "false",
+        "comment": "change to genus Plocamionida"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Krohnitta subtilis",
+        "AphiaID": 105429,
+        "new_AphiaID": 105406,
+        "remove": "false",
+        "comment": "change to genus Flaccisagitta"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Leiosolenus hanleyanus",
+        "AphiaID": 397091,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Lutjanus peru",
+        "AphiaID": 276546,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Mugil bananensis",
+        "AphiaID": 273647,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Mugil capurrii",
+        "AphiaID": 126982,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Myrianida pachycera",
+        "AphiaID": 334043,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Myripristis earlei",
+        "AphiaID": 276194,
+        "new_AphiaID": 217927,
+        "remove": "false",
+        "comment": "change to Myripristis berndti"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Ocyropsis maculata",
+        "AphiaID": 106402,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Oenone fulgida",
+        "AphiaID": 130451,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Oncaea scottodicarloi",
+        "AphiaID": 128950,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Paracalanus brasiliensis",
+        "AphiaID": 1526724,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Paracalanus denudatus",
+        "AphiaID": 104682,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Paractaea rufopunctata",
+        "AphiaID": 209046,
+        "new_AphiaID": 106952,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Patagonotothen ramsayi",
+        "AphiaID": 234633,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Pelates quadrilineatus",
+        "AphiaID": 127077,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Phrix spatulata",
+        "AphiaID": 1306126,
+        "new_AphiaID": 370030,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Planiliza macrolepis",
+        "AphiaID": 1043424,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Platycephalus indicus",
+        "AphiaID": 127234,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Pseudo-nitzschia kodamae",
+        "AphiaID": 863362,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Pseudo-nitzschia micropora",
+        "AphiaID": 387998,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Pseudo-nitzschia multistriata",
+        "AphiaID": 246608,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Pseudo-nitzschia sabit",
+        "AphiaID": 1307191,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Scorpaenodes evides",
+        "AphiaID": 712541,
+        "new_AphiaID": 126172,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Sprattus sprattus",
+        "AphiaID": 126425,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Syllis malaquini",
+        "AphiaID": 1432871,
+        "remove": "true"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Syllis ypsiloides",
+        "AphiaID": 762353,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Synalpheus sanlucasi",
+        "AphiaID": 515184,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Trachinotus baillonii",
+        "AphiaID": 218440,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Trachipterus jacksonensis",
+        "AphiaID": 272534,
+        "new_AphiaID": 125788,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Vibrio mediterranei",
+        "AphiaID": 570778,
+        "remove": "true",
+        "comment": "Bacteria"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Xanthichthys ringens",
+        "AphiaID": 159486,
+        "new_AphiaID": 276247,
+        "remove": "false",
+        "comment": "change to Xanthichthys mento"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Xenobalistes tumidipectoris",
+        "AphiaID": 277539,
+        "remove": "true"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Xyrichtys novacula",
+        "AphiaID": 126971,
+        "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Yongeichthys criniger",
+        "AphiaID": 278114,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Zancleopsis dichotoma",
+        "AphiaID": 288110,
+        "remove": "true"
     }
 ]
 
