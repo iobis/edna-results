@@ -3,466 +3,466 @@
         "site": "Banc d'Arguin National Park",
         "species": "Abra alba",
         "AphiaID": 141433,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Acrochaetium luxurians",
         "AphiaID": 547853,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Amathia vidovici",
         "AphiaID": 111663,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Amphibalanus amphitrite",
         "AphiaID": 421137,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Ampithoe longimana",
         "AphiaID": 158026,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Anas poecilorhyncha",
         "AphiaID": 1034710,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Ascidia ahodori",
         "AphiaID": 249965,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Assiminea capensis",
         "AphiaID": 600676,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Atherina hepsetus",
         "AphiaID": 272028,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Balanus trigonus",
         "AphiaID": 106223,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Bathygobius casamancus",
         "AphiaID": 277623,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Biecheleria cincta",
         "AphiaID": 840029,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Bittium reticulatum",
         "AphiaID": 139054,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Bugula neritina",
         "AphiaID": 111158,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Callista chione",
         "AphiaID": 141906,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Callyspongia vaginalis",
         "AphiaID": 247858,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Camachoaglaja africana",
         "AphiaID": 1055234,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Campanularia hincksii",
         "AphiaID": 117364,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Capitella capitata",
         "AphiaID": 129876,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Capra hircus",
         "AphiaID": 1603289,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Caranx senegallus",
         "AphiaID": 273274,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Cephalothrix rufifrons",
         "AphiaID": 122599,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Chattonella marina",
         "AphiaID": 233780,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Chattonella subsalsa",
         "AphiaID": 246590,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Chelonaplysilla delicata",
         "AphiaID": 164868,
-        "remove": false,
+        "remove": "false",
         "comment": "no information"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Chilomycterus schoepfii",
         "AphiaID": 159488,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Chlorarachnion reptans",
         "AphiaID": 376147,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Chrysaora africana",
         "AphiaID": 292504,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Citharichthys spilopterus",
         "AphiaID": 159166,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Cladonema radiatum",
         "AphiaID": 117425,
-        "remove": false,
+        "remove": "false",
         "comment": "spread widely, but not yet seen in africa?"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Clytia gracilis",
         "AphiaID": 117367,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Clytia noliformis",
         "AphiaID": 117372,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Coptodon zillii",
         "AphiaID": 317356,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Cratena peregrina",
         "AphiaID": 146862,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Crisia pseudosolena",
         "AphiaID": 470753,
-        "remove": true,
+        "remove": "true",
         "comment": "no information"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Ctenogobius saepepallens",
         "AphiaID": 276488,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Cylindrotheca closterium",
         "AphiaID": 149004,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Cynoglossus sinicus",
         "AphiaID": 274228,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Dasyatis chrysonota",
         "AphiaID": 212250,
-        "remove": false,
+        "remove": "false",
         "comment": "100% match, but wrong area. Check with them?"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Dasyatis tortonesei",
         "AphiaID": 105852,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Decapterus maruadsi",
         "AphiaID": 273278,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Dictyocha octonaria",
         "AphiaID": 341584,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Diopatra neapolitana",
         "AphiaID": 130460,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Diplodus kotschyi",
         "AphiaID": 998229,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Dolichomastix tenuilepis",
         "AphiaID": 345463,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Drepane africana",
         "AphiaID": 277898,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Elops saurus",
         "AphiaID": 157875,
-        "remove": true,
+        "remove": "true",
         "comment": "100% match, local species not in ref?"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Elysia serca",
         "AphiaID": 420574,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Enhydrosoma gariene",
         "AphiaID": 115780,
-        "remove": true,
+        "remove": "true",
         "comment": "no information"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Ephippus orbis",
         "AphiaID": 280693,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Eucinostomus gula",
         "AphiaID": 159733,
-        "remove": true,
+        "remove": "true",
         "comment": "100% match, local species not in ref?"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Eudendrium capillare",
         "AphiaID": 117544,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Euterpina acutifrons",
         "AphiaID": 116162,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Eutima gracilis",
         "AphiaID": 117515,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Fibrocapsa japonica",
         "AphiaID": 233761,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Floridichthys carpio",
         "AphiaID": 280790,
-        "remove": true,
+        "remove": "true",
         "comment": "100% match, local species not in ref?"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Gerres cinereus",
         "AphiaID": 276954,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Haminoea orbignyana",
         "AphiaID": 140076,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Haminoea orteai",
         "AphiaID": 140077,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Haslea crucigera",
         "AphiaID": 172588,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Hemiramphus balao",
         "AphiaID": 159278,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Hemiramphus far",
         "AphiaID": 126389,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Herposiphonia pecten-veneris",
         "AphiaID": 373128,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Heterocapsa rotundata",
         "AphiaID": 110152,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Hippocampus kuda",
         "AphiaID": 212237,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Hippolyte leptocerus",
         "AphiaID": 107513,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Hymeniacidon flavia",
         "AphiaID": 345601,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Hypanus americanus",
         "AphiaID": 1042856,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Hypleurochilus geminatus",
         "AphiaID": 159602,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Hypnea cornuta",
         "AphiaID": 145630,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Isias clavipes",
         "AphiaID": 104501,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Jujubinus striatus",
         "AphiaID": 141815,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Kapraunia schneideri",
         "AphiaID": 1346787,
-        "remove": true,
+        "remove": "true",
         "comment": "no information"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Laomedea angulata",
         "AphiaID": 117379,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Latreutes fucorum",
         "AphiaID": 107519,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Leiochone leiopygos",
         "AphiaID": 559007,
-        "remove": true,
+        "remove": "true",
         "comment": "no information"
     },
     {
@@ -470,451 +470,752 @@
         "species": "Leucothoe alata",
         "AphiaID": 510239,
         "new_AphiaID": 225814,
-        "remove": false,
+        "remove": "false",
         "comment": "change to Monocorophium acherusicum"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Limnodriloides rubicundus",
         "AphiaID": 475824,
-        "remove": true,
+        "remove": "true",
         "comment": "no information"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Limnodriloides sacculus",
         "AphiaID": 475825,
-        "remove": true,
+        "remove": "true",
         "comment": "no information"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Limosa fedoa",
         "AphiaID": 158965,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Lutjanus argentimaculatus",
         "AphiaID": 218498,
-        "remove": true,
+        "remove": "true",
         "comment": "100% match, local species not in ref?"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Lygdamis muratus",
         "AphiaID": 130861,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Macrosteles quadrilineatus",
         "AphiaID": 1489180,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Marphysa sanguinea",
         "AphiaID": 130075,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Microdesmus longipinnis",
         "AphiaID": 159408,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Micromonas pusilla",
         "AphiaID": 134564,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Mirounga leonina",
         "AphiaID": 231413,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Monocorophium acherusicum",
         "AphiaID": 225814,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Mugil ashanteensis",
         "AphiaID": 303836,
-        "remove": true,
+        "remove": "true",
         "comment": "synonym of Mugil cephalus?"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Mugil curema",
         "AphiaID": 159416,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Mugil liza",
         "AphiaID": 273655,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Mugil metzelaari",
         "AphiaID": 303908,
-        "remove": true,
+        "remove": "true",
         "comment": "synonym of Mugil curema?"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Myliobatis australis",
         "AphiaID": 271484,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Myrionema balticum",
         "AphiaID": 144976,
-        "remove": true,
+        "remove": "true",
         "comment": "no information"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Myrophis vafer",
         "AphiaID": 275496,
-        "remove": true,
+        "remove": "true",
         "comment": "100% match, local species not in ref?"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Navicula minima",
         "AphiaID": 172829,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Nereis falsa",
         "AphiaID": 130397,
-        "remove": true,
+        "remove": "true",
         "comment": "no information"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Netuma thalassina",
         "AphiaID": 281745,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Obelia bidentata",
         "AphiaID": 117385,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Opeatogenys gracilis",
         "AphiaID": 126521,
-        "remove": true,
+        "remove": "true",
         "comment": "coast of portugal"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Ostrea stentina",
         "AphiaID": 489077,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Oxynoe antillarum",
         "AphiaID": 420566,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Ozobranchus branchiatus",
         "AphiaID": 370654,
-        "remove": false,
+        "remove": "false",
         "comment": "turtle leech"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Pachychalina tenera",
         "AphiaID": 178479,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Pagothenia borchgrevinki",
         "AphiaID": 234801,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Paracalanus indicus",
         "AphiaID": 104683,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Paracalanus quasimodo",
         "AphiaID": 354162,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Paracartia grani",
         "AphiaID": 104264,
-        "remove": false,
+        "remove": "false",
         "comment": "no information"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Paramoeba aestuarina",
         "AphiaID": 120622,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Parapristipoma trilineatum",
         "AphiaID": 273480,
-        "remove": true,
+        "remove": "true",
         "comment": "close match, local species not in ref?"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Parvicardium exiguum",
         "AphiaID": 139008,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Pedicellina cernua",
         "AphiaID": 111806,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Penilia avirostris",
         "AphiaID": 106272,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Peringia ulvae",
         "AphiaID": 151628,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Phaeocystis pouchetii",
         "AphiaID": 115106,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Phoronis hippocrepia",
         "AphiaID": 128548,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Platynereis dumerilii",
         "AphiaID": 130417,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Polititapes aureus",
         "AphiaID": 246150,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Polycera aurantiomarginata",
         "AphiaID": 140831,
-        "remove": false,
+        "remove": "false",
         "comment": "no information"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Pomatoschistus knerii",
         "AphiaID": 126924,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Porogobius schlegelii",
         "AphiaID": 282320,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Prasinoderma coloniale",
         "AphiaID": 375881,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Pseudo-nitzschia cuspidata",
         "AphiaID": 370512,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Pseudo-nitzschia sabit",
         "AphiaID": 1307191,
-        "remove": true,
+        "remove": "true",
         "comment": "no information"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Pseudochattonella farcimen",
         "AphiaID": 531467,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Rachycentron canadum",
         "AphiaID": 127006,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Rhinoptera bonasus",
         "AphiaID": 158544,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Salmo salar",
         "AphiaID": 127186,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Scopalina canariensis",
         "AphiaID": 536611,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Sigmaxinella hipposiderus",
         "AphiaID": 577142,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Skeletonema menzelii",
         "AphiaID": 376361,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Skeletonema pseudocostatum",
         "AphiaID": 375916,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Sollasella moretonensis",
         "AphiaID": 362719,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Spermatochnus paradoxus",
         "AphiaID": 145008,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Sphyrna lewini",
         "AphiaID": 105816,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Stephanolepis setifer",
         "AphiaID": 159500,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Steromphala umbilicaris",
         "AphiaID": 1039840,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Svenzea cristinae",
         "AphiaID": 165714,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Syngnathus acus",
         "AphiaID": 127387,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Syngnathus louisianae",
         "AphiaID": 159453,
-        "remove": true
+        "remove": "true"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Taeniura grabata",
         "AphiaID": 105855,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Temora turbinata",
         "AphiaID": 104880,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Terebella lapidaria",
         "AphiaID": 131542,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Thalassodrilides gurwitschi",
         "AphiaID": 137496,
-        "remove": true,
+        "remove": "true",
         "comment": "no information"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Torpedo sinuspersici",
         "AphiaID": 217380,
-        "remove": true,
-        "comment": "100% match torpedo sp."
+        "new_AphiaID": 826639,
+        "remove": "false",
+        "comment": "change to genus"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Tylosurus crocodilus",
         "AphiaID": 159259,
-        "remove": false
+        "remove": "false"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Vallicula multiformis",
         "AphiaID": 106403,
-        "remove": true,
+        "remove": "true",
         "comment": "no information"
     },
     {
         "site": "Banc d'Arguin National Park",
         "species": "Vicicitus globosus",
         "AphiaID": 707927,
-        "remove": false
+        "remove": "false"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Acanthurus triostegus",
+        "AphiaID": 219630,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Amphidinium massartii",
+        "AphiaID": 109743,
+        "new_AphiaID": 109473,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Atherinomorus lacunosus",
+        "AphiaID": 126331,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Calidris minuta",
+        "AphiaID": 212600,
+        "remove": "false"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Caranx latus",
+        "AphiaID": 126804,
+        "new_AphiaID": 126803,
+        "remove": "false",
+        "comment": "change to Caranx hippos"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Chaetoceros socialis",
+        "AphiaID": 149123,
+        "remove": "false"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Charadrius semipalmatus",
+        "AphiaID": 159126,
+        "remove": "false"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Chlorurus sordidus",
+        "AphiaID": 219082,
+        "new_AphiaID": 204543,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Clupea harengus",
+        "AphiaID": 126417,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Diplodus holbrookii",
+        "AphiaID": 273972,
+        "new_AphiaID": 127053,
+        "remove": "false",
+        "comment": "change to Diplodus sargus"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Eleginops maclovinus",
+        "AphiaID": 280634,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Elysia canguzua",
+        "AphiaID": 494435,
+        "new_AphiaID": 137928,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Engraulis ringens",
+        "AphiaID": 272287,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Eviota afelei",
+        "AphiaID": 278580,
+        "remove": "true"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Gerres japonicus",
+        "AphiaID": 276958,
+        "remove": "true"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Harengula humeralis",
+        "AphiaID": 367197,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Heterotilapia buettikoferi",
+        "AphiaID": 1605363,
+        "new_AphiaID": 151383,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Hirundo rustica",
+        "AphiaID": 212750,
+        "remove": "false"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Hypanus americanus",
+        "AphiaID": 1042856,
+        "new_AphiaID": 1042863,
+        "remove": "false",
+        "comment": "change to Hypanus rudis"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Hypleurochilus aequipinnis",
+        "AphiaID": 276311,
+        "remove": "false"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Hypseleotris cyprinoides",
+        "AphiaID": 278158,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Lithodesmioides polymorpha",
+        "AphiaID": 573483,
+        "remove": "true"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Macrosteles quadrilineatus",
+        "AphiaID": 1489180,
+        "remove": "true"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Melichthys vidua",
+        "AphiaID": 219879,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Minutocellus polymorphus",
+        "AphiaID": 464449,
+        "remove": "false"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Mulloidichthys vanicolensis",
+        "AphiaID": 218648,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Nassarius nitidus",
+        "AphiaID": 140509,
+        "new_AphiaID": 1391526,
+        "remove": "false",
+        "comment": "change to Tritia varicosa"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Neanthes fucata",
+        "AphiaID": 130387,
+        "remove": "false"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Oltmannsiellopsis viridis",
+        "AphiaID": 526636,
+        "remove": "false"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Omobranchus loxozonus",
+        "AphiaID": 278018,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Otaria byronia",
+        "AphiaID": 344630,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Parablennius yatabei",
+        "AphiaID": 273141,
+        "new_AphiaID": 125519,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Patagonotothen ramsayi",
+        "AphiaID": 234633,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Pelates quadrilineatus",
+        "AphiaID": 127077,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Planiliza macrolepis",
+        "AphiaID": 1043424,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Polydactylus plebeius",
+        "AphiaID": 218911,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Scomberomorus concolor",
+        "AphiaID": 273812,
+        "new_AphiaID": 126064,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Sprattus sprattus",
+        "AphiaID": 126425,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Sufflogobius bibarbatus",
+        "AphiaID": 219573,
+        "new_AphiaID": 206597,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Thalassiosira punctigera",
+        "AphiaID": 148936,
+        "new_AphiaID": 148912,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Tritia varicosa",
+        "AphiaID": 1391526,
+        "remove": "false"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Vibrio alginolyticus",
+        "AphiaID": 480251,
+        "remove": "true",
+        "comment": "bacteria"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Yongeichthys criniger",
+        "AphiaID": 278114,
+        "remove": "true",
+        "comment": "cross-contamination"
     }
 ]
 
