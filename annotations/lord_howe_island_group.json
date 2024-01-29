@@ -996,7 +996,8 @@
         "site": "Lord Howe Island Group",
         "species": "Mirounga leonina",
         "AphiaID": 231413,
-        "remove": "true"
+        "remove": "true",
+        "comment": "cross-contamination"
     },
     {
         "site": "Lord Howe Island Group",
@@ -1010,9 +1011,8 @@
         "site": "Lord Howe Island Group",
         "species": "Mugil bananensis",
         "AphiaID": 273647,
-        "new_AphiaID": 126032,
-        "remove": "false",
-        "comment": "change to genus"
+        "remove": "true",
+        "comment": "cross-contamination"
     },
     {
         "site": "Lord Howe Island Group",
@@ -1721,6 +1721,686 @@
         "species": "Zancleopsis dichotoma",
         "AphiaID": 288110,
         "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Acarnus innominatus",
+        "AphiaID": 167346,
+        "new_AphiaID": 167337,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Acrochaetium secundatum",
+        "AphiaID": 144387,
+        "remove": "true",
+        "comment": "likely chloroplast"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Amphiprion clarkii",
+        "AphiaID": 212783,
+        "new_AphiaID": 278392,
+        "remove": "false",
+        "comment": "change to Amphiprion akindynos"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Aplysia kurodai",
+        "AphiaID": 568199,
+        "new_AphiaID": 137654,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Apterichtus moseri",
+        "AphiaID": 271929,
+        "new_AphiaID": 125644,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Ascocyclus orbicularis",
+        "AphiaID": 144971,
+        "remove": "true",
+        "comment": "possible lab contamination?"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Aspidosiphon laevis",
+        "AphiaID": 425087,
+        "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Austrokallymenia rebeccae",
+        "AphiaID": 1360851,
+        "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Balanoglossus carnosus",
+        "AphiaID": 266572,
+        "new_AphiaID": 137592,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Bathytoshia centroura",
+        "AphiaID": 1017389,
+        "new_AphiaID": 296132,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Boreogadus saida",
+        "AphiaID": 126433,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Canthigaster rivulata",
+        "AphiaID": 219937,
+        "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Chaetopterus longimanus",
+        "AphiaID": 336428,
+        "new_AphiaID": 129229,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Cheilodactylus zebra",
+        "AphiaID": 311554,
+        "new_AphiaID": 205497,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Cheilopogon unicolor",
+        "AphiaID": 217858,
+        "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Chelon dumerili",
+        "AphiaID": 1042829,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Chiridota rigida",
+        "AphiaID": 211010,
+        "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Clupea harengus",
+        "AphiaID": 126417,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Coeloplana bannwarthii",
+        "AphiaID": 265860,
+        "new_AphiaID": 264971,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Conger japonicus",
+        "AphiaID": 271743,
+        "new_AphiaID": 125624,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Coscinasterias tenuispina",
+        "AphiaID": 123795,
+        "new_AphiaID": 123220,
+        "remove": "false",
+        "comment": "change to genus, 100% match but wrong area"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Dinematichthys iluocoeteoides",
+        "AphiaID": 209277,
+        "new_AphiaID": 205268,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Dudresnaya babbittiana",
+        "AphiaID": 376532,
+        "new_AphiaID": 144032,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Eleginops maclovinus",
+        "AphiaID": 280634,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Engraulis ringens",
+        "AphiaID": 272287,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Eubalaena australis",
+        "AphiaID": 220222,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Eucinostomus melanopterus",
+        "AphiaID": 276423,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Euthynnus affinis",
+        "AphiaID": 219708,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Gibsmithia dotyi",
+        "AphiaID": 372320,
+        "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Girella fimbriata",
+        "AphiaID": 280860,
+        "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Girella leonina",
+        "AphiaID": 280862,
+        "new_AphiaID": 280857,
+        "remove": "false",
+        "comment": "change to Girella cyanea"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Gymnothorax melatremus",
+        "AphiaID": 217481,
+        "new_AphiaID": 125636,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Haliclona pigmentifera",
+        "AphiaID": 166430,
+        "new_AphiaID": 131834,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Haramonas dimorpha",
+        "AphiaID": 608356,
+        "new_AphiaID": 391868,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Harengula humeralis",
+        "AphiaID": 367197,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Hemiarma marina",
+        "AphiaID": 1361130,
+        "new_AphiaID": 1361129,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Hymeniacidon flavia",
+        "AphiaID": 345601,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Hypseleotris cyprinoides",
+        "AphiaID": 278158,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Iotrochota birotulata",
+        "AphiaID": 169379,
+        "remove": "true",
+        "comment": "no good match"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Iso flosmaris",
+        "AphiaID": 276751,
+        "new_AphiaID": 203887,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Kirchenpaueria halecioides",
+        "AphiaID": 117673,
+        "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Lampadena speculigera",
+        "AphiaID": 126608,
+        "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Laodicea undulata",
+        "AphiaID": 117725,
+        "new_AphiaID": 117141,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Larsonia pterophylla",
+        "AphiaID": 290274,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Lasaea hawaiensis",
+        "AphiaID": 876348,
+        "new_AphiaID": 138104,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Laurencia nidifica",
+        "AphiaID": 212013,
+        "new_AphiaID": 143914,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Leathesia difformis",
+        "AphiaID": 144953,
+        "new_AphiaID": 143973,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Leiopotherapon aheneus",
+        "AphiaID": 1013644,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Lithodesmioides polymorpha",
+        "AphiaID": 573483,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Lutjanus ehrenbergii",
+        "AphiaID": 218489,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Lycodes hubbsi",
+        "AphiaID": 274102,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Meristotheca procumbens",
+        "AphiaID": 372324,
+        "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Minutocellus polymorphus",
+        "AphiaID": 464449,
+        "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Monodactylus argenteus",
+        "AphiaID": 218695,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Moritella yayanosii",
+        "AphiaID": 570320,
+        "remove": "true",
+        "comment": "Bacteria"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Mugil liza",
+        "AphiaID": 273655,
+        "new_AphiaID": 126983,
+        "remove": "false",
+        "comment": "change to Mugil cephalus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Mycale fibrexilis",
+        "AphiaID": 184424,
+        "new_AphiaID": 131907,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Nemadactylus valenciennesi",
+        "AphiaID": 281655,
+        "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Neoporphyra haitanensis",
+        "AphiaID": 1537062,
+        "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Nicidion cariboea",
+        "AphiaID": 742186,
+        "new_AphiaID": 129283,
+        "remove": "false",
+        "comment": "change to genus Palola"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Olpidiopsis feldmanni",
+        "AphiaID": 172204,
+        "new_AphiaID": 172191,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Ommastrephes brevimanus",
+        "AphiaID": 1430160,
+        "new_AphiaID": 181382,
+        "remove": "false",
+        "comment": "change to Ommastrephes bartramii"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Ophiolepis cincta",
+        "AphiaID": 213467,
+        "new_AphiaID": 123564,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Orthopyxis integra",
+        "AphiaID": 117393,
+        "new_AphiaID": 117035,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Ostracion immaculatus",
+        "AphiaID": 1621605,
+        "new_AphiaID": 403462,
+        "remove": "false",
+        "comment": "change to Ostracion cubicus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Parvulastra vivipara",
+        "AphiaID": 459558,
+        "new_AphiaID": 382565,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Patagonotothen ramsayi",
+        "AphiaID": 234633,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Pharyngocirrus alanhongi",
+        "AphiaID": 1345990,
+        "new_AphiaID": 1345269,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Phascolosoma noduliferum",
+        "AphiaID": 424845,
+        "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Pherallodichthys meshimaensis",
+        "AphiaID": 282236,
+        "new_AphiaID": 125477,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Phycocalidia tanegashimensis",
+        "AphiaID": 1642910,
+        "new_AphiaID": 1642900,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Phyrella fragilis",
+        "AphiaID": 241993,
+        "new_AphiaID": 241385,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Planiliza macrolepis",
+        "AphiaID": 1043424,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Polydactylus plebeius",
+        "AphiaID": 218911,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Psammocora nierstraszi",
+        "AphiaID": 207261,
+        "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Rhodachlya hawaiiana",
+        "AphiaID": 708100,
+        "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Rhodactis indosinensis",
+        "AphiaID": 290981,
+        "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Rhodymenia novazelandica",
+        "AphiaID": 373541,
+        "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Rhopalosiphum padi",
+        "AphiaID": 990742,
+        "remove": "true",
+        "comment": "insect"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Roseibium denhamense",
+        "AphiaID": 567949,
+        "remove": "true",
+        "comment": "Bacteria"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Salmo salar",
+        "AphiaID": 127186,
+        "remove": "true",
+        "comment": "possible contamination?"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Sarcophyton ehrenbergi",
+        "AphiaID": 209622,
+        "new_AphiaID": 1643829,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Scytosiphon promiscuus",
+        "AphiaID": 1356524,
+        "new_AphiaID": 830,
+        "remove": "false",
+        "comment": "change to class"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Siphamia fistulosa",
+        "AphiaID": 277699,
+        "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Sphaerocoryne bedoti",
+        "AphiaID": 117952,
+        "new_AphiaID": 204790,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Sprattus sprattus",
+        "AphiaID": 126425,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Thalassiosira punctigera",
+        "AphiaID": 148936,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Thalassoma grammaticum",
+        "AphiaID": 273580,
+        "new_AphiaID": 126024,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Thecamonas trahens",
+        "AphiaID": 103433,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Thrips tabaci",
+        "AphiaID": 989567,
+        "remove": "true",
+        "comment": "Insect"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Tolypiocladia glomerulata",
+        "AphiaID": 214277,
+        "new_AphiaID": 205664,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Urodasys calicostylis",
+        "AphiaID": 265544,
+        "remove": "true",
+        "comment": "not a good match"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Vibrio diabolicus",
+        "AphiaID": 570757,
+        "remove": "true",
+        "comment": "bacteria"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Vibrio fortis",
+        "AphiaID": 570761,
+        "remove": "true",
+        "comment": "bacteria"
     }
 ]
 
