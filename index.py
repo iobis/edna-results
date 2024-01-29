@@ -189,7 +189,7 @@ for site_name in folders_by_site:
 
     # merge metadata
 
-    occurrence_combined = pd.merge(occurrence_combined, metadata_df, on="materialSampleID", how="left")
+    occurrence_combined = pd.merge(occurrence_combined, metadata_df, on="materialSampleID", how="inner")
 
     # remove contaminants
 
