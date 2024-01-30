@@ -581,13 +581,15 @@
         "site": "Ningaloo Coast",
         "species": "Ethmalosa fimbriata",
         "AphiaID": 280725,
-        "remove": "true"
+        "remove": "true",
+        "comment": "cross-contamination"
     },
     {
         "site": "Ningaloo Coast",
         "species": "Eucinostomus gula",
         "AphiaID": 159733,
-        "remove": "true"
+        "remove": "true",
+        "comment": "cross-contamination"
     },
     {
         "site": "Ningaloo Coast",
@@ -1085,7 +1087,8 @@
         "site": "Ningaloo Coast",
         "species": "Mugil bananensis",
         "AphiaID": 273647,
-        "remove": "true"
+        "remove": "true",
+        "comment": "cross-contamination"
     },
     {
         "site": "Ningaloo Coast",
@@ -1215,9 +1218,8 @@
         "site": "Ningaloo Coast",
         "species": "Pagothenia borchgrevinki",
         "AphiaID": 234801,
-        "new_AphiaID": 826599,
-        "remove": "false",
-        "comment": "change to family, possible cross-contamination"
+        "remove": "true",
+        "comment": "cross-contamination"
     },
     {
         "site": "Ningaloo Coast",
@@ -1859,6 +1861,814 @@
         "site": "Ningaloo Coast",
         "species": "Zancleopsis dichotoma",
         "AphiaID": 288110,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Aeolidiella alba",
+        "AphiaID": 599572,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Aetobatus flagellum",
+        "AphiaID": 278241,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Albula koreana",
+        "AphiaID": 712410,
+        "new_AphiaID": 157878,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Alcanivorax borkumensis",
+        "AphiaID": 570420,
+        "remove": "true",
+        "comment": "Bacteria"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Alteromonas macleodii",
+        "AphiaID": 742978,
+        "remove": "true",
+        "comment": "Bacteria"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Anthopleura elegantissima",
+        "AphiaID": 283347,
+        "new_AphiaID": 100772,
+        "remove": "false",
+        "comment": "change to genus Phymanthus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Asterorhombus filifer",
+        "AphiaID": 277971,
+        "new_AphiaID": 205166,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Asyncoryne ryniensis",
+        "AphiaID": 289484,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Aurelia miyakei",
+        "AphiaID": 1539730,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Bathycoccus prasinos",
+        "AphiaID": 345459,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Boasia chierchiae",
+        "AphiaID": 1419961,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Bothus lunatus",
+        "AphiaID": 274187,
+        "new_AphiaID": 126110,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Bougainvillia muscus",
+        "AphiaID": 117328,
+        "new_AphiaID": 1594,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Breviturma brevipes",
+        "AphiaID": 1214744,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Centroceras hyalacanthum",
+        "AphiaID": 494962,
+        "new_AphiaID": 144531,
+        "remove": "false",
+        "comment": "change to Centroceras clavulatum"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Chelon dumerili",
+        "AphiaID": 1042829,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Chroicocephalus ridibundus",
+        "AphiaID": 465358,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Cladonema multiramosum",
+        "AphiaID": 1586368,
+        "new_AphiaID": 117049,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Clarias gariepinus",
+        "AphiaID": 888192,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Clepticus parrae",
+        "AphiaID": 280214,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Cliona celata",
+        "AphiaID": 134121,
+        "new_AphiaID": 132026,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Clupea harengus",
+        "AphiaID": 126417,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Clypeaster japonicus",
+        "AphiaID": 367963,
+        "new_AphiaID": 205242,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Clytia noliformis",
+        "AphiaID": 117372,
+        "new_AphiaID": 117030,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Corolla spectabilis",
+        "AphiaID": 139492,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Craterium leucocephalum",
+        "AphiaID": 1501261,
+        "remove": "true",
+        "comment": "Homo sapiens"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Crocidosema plebejana",
+        "AphiaID": 1488520,
+        "remove": "true",
+        "comment": "Insect"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Dascyllus albisella",
+        "AphiaID": 278448,
+        "new_AphiaID": 212846,
+        "remove": "false",
+        "comment": "change to Dascyllus trimaticulatus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Desmometopa varipalpis",
+        "AphiaID": 1490887,
+        "remove": "true",
+        "comment": "Insect"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Dicentrarchus punctatus",
+        "AphiaID": 126976,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Digenea arenahauriens",
+        "AphiaID": 1306263,
+        "new_AphiaID": 144808,
+        "remove": "false",
+        "comment": "change to Digenea simplex"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Diphyes dispar",
+        "AphiaID": 135420,
+        "new_AphiaID": 135362,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Dolabrifera edmundsi",
+        "AphiaID": 1053449,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Doliodrilus tener",
+        "AphiaID": 475657,
+        "new_AphiaID": 2039,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Elops saurus",
+        "AphiaID": 157875,
+        "new_AphiaID": 275404,
+        "remove": "false",
+        "comment": "change to Elops hawaiensis"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Emiliania huxleyi",
+        "AphiaID": 115104,
+        "new_AphiaID": 235955,
+        "remove": "false",
+        "comment": "change to Gathyrocapsa oceanica"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Engraulis japonicus",
+        "AphiaID": 219984,
+        "new_AphiaID": 125724,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Ephippodontina gigas",
+        "AphiaID": 876052,
+        "remove": "false",
+        "comment": "no information"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Epinephelus quoyans",
+        "AphiaID": 401350,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Erythrotrichia carnea",
+        "AphiaID": 145490,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Eubalaena australis",
+        "AphiaID": 220222,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Eucinostomus melanopterus",
+        "AphiaID": 276423,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Eusyllis lamelligera",
+        "AphiaID": 131292,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Eviota herrei",
+        "AphiaID": 278588,
+        "new_AphiaID": 219456,
+        "remove": "false",
+        "comment": "change to Eviota distigma"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Forskalia edwardsii",
+        "AphiaID": 135501,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Galaxaura elongata",
+        "AphiaID": 211609,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Gerres japonicus",
+        "AphiaID": 276958,
+        "new_AphiaID": 204064,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Gobiopsis arenaria",
+        "AphiaID": 277783,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Haeckelia rubra",
+        "AphiaID": 106370,
+        "remove": "false",
+        "comment": "no good match"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Haliclona implexiformis",
+        "AphiaID": 345570,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Haptosquilla stoliura",
+        "AphiaID": 408993,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Harengula humeralis",
+        "AphiaID": 367197,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Hemiramphus balao",
+        "AphiaID": 159278,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Heronidrilus fastigatus",
+        "AphiaID": 475722,
+        "new_AphiaID": 475520,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Hippocampus trimaculatus",
+        "AphiaID": 212232,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Hooperia anfractuosa",
+        "AphiaID": 1346050,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Hydroclathrus stephanosorus",
+        "AphiaID": 376550,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Hydropuntia fisheri",
+        "AphiaID": 375829,
+        "new_AphiaID": 369787,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Hypnea charoides",
+        "AphiaID": 220806,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Isarachnanthus nocturnus",
+        "AphiaID": 411138,
+        "new_AphiaID": 100779,
+        "remove": "false",
+        "comment": "change to genus Arachnanthus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Janczewskia hawaiiana",
+        "AphiaID": 374672,
+        "new_AphiaID": 143914,
+        "remove": "false",
+        "comment": "change to genus Laurencia"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Lampadena atlantica",
+        "AphiaID": 713102,
+        "new_AphiaID": 125824,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Lithoplocamia lithistoides",
+        "AphiaID": 167995,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Litiopa melanostoma",
+        "AphiaID": 140258,
+        "new_AphiaID": 138134,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Lutibacterium anuloederans",
+        "AphiaID": 568280,
+        "remove": "true",
+        "comment": "Bacteria"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Malacoceros indicus",
+        "AphiaID": 209864,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Mirounga leonina",
+        "AphiaID": 231413,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Monosporus indicus",
+        "AphiaID": 371514,
+        "new_AphiaID": 143850,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Mugil capurrii",
+        "AphiaID": 126982,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Mugil curema",
+        "AphiaID": 159416,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Myripristis amaena",
+        "AphiaID": 276190,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Myxus elongatus",
+        "AphiaID": 276971,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Neocallichirus variabilis",
+        "AphiaID": 761064,
+        "remove": "true",
+        "comment": "no good match"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Neophocaena phocaenoides",
+        "AphiaID": 254985,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Nitzschia alba",
+        "AphiaID": 622670,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Noumeaella rehderi",
+        "AphiaID": 872487,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Nusuttodinium poecilochroum",
+        "AphiaID": 840906,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Odontosyllis freycinetensis",
+        "AphiaID": 330068,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Oncorhynchus mykiss",
+        "AphiaID": 127185,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Orectolobus japonicus",
+        "AphiaID": 281930,
+        "new_AphiaID": 270115,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Parablennius yatabei",
+        "AphiaID": 273141,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Patagonotothen ramsayi",
+        "AphiaID": 234633,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Pateobatis uarnacoides",
+        "AphiaID": 1043412,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Pelagia panopyra",
+        "AphiaID": 220477,
+        "new_AphiaID": 135305,
+        "remove": "false",
+        "comment": "change to Pelagia noctiluca"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Phanerophthalmus cylindricus",
+        "AphiaID": 715655,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Phorbas bihamiger",
+        "AphiaID": 169314,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Phyllodesmium crypticum",
+        "AphiaID": 548878,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Platycephalus indicus",
+        "AphiaID": 127234,
+        "new_AphiaID": 126166,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Pleurosigma intermedium",
+        "AphiaID": 156582,
+        "remove": "true",
+        "comment": "possible bacteria"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Polysiphonia scopulorum",
+        "AphiaID": 144664,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Pomacanthus maculosus",
+        "AphiaID": 220005,
+        "new_AphiaID": 220003,
+        "remove": "false",
+        "comment": "change to Pomacanthus semicirculatus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Pseudo-nitzschia abrensis",
+        "AphiaID": 832130,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Pseudo-nitzschia kodamae",
+        "AphiaID": 863362,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Roseibium denhamense",
+        "AphiaID": 567949,
+        "remove": "true",
+        "comment": "bacteria"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Sarconema filiforme",
+        "AphiaID": 214010,
+        "new_AphiaID": 206689,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Sarconema scinaioides",
+        "AphiaID": 214009,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Saurenchelys fierasfer",
+        "AphiaID": 271914,
+        "new_AphiaID": 125642,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Scorpaenopsis cirrosa",
+        "AphiaID": 277520,
+        "new_AphiaID": 218106,
+        "remove": "false",
+        "comment": "change to Scorpaenopsis venosa"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Siphamia fistulosa",
+        "AphiaID": 277699,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Sprattus sprattus",
+        "AphiaID": 126425,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Stelletta mediterranea",
+        "AphiaID": 133978,
+        "new_AphiaID": 131994,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Thalasseus maximus",
+        "AphiaID": 413040,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Thecamonas trahens",
+        "AphiaID": 103433,
+        "new_AphiaID": 103427,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Thranita coeruleipes",
+        "AphiaID": 1467069,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Trachinotus anak",
+        "AphiaID": 273288,
+        "remove": "false",
+        "comment": "to review"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Trachinotus carolinus",
+        "AphiaID": 159652,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Trachinotus ovatus",
+        "AphiaID": 126819,
+        "new_AphiaID": 218383,
+        "remove": "false",
+        "comment": "change to Alepes vari"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Triactis producta",
+        "AphiaID": 220506,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Trypanosyllis luzonensis",
+        "AphiaID": 986786,
+        "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Turritopsis lata",
+        "AphiaID": 284464,
+        "new_AphiaID": 117056,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Valenciennea sexguttata",
+        "AphiaID": 219598,
+        "new_AphiaID": 277032,
+        "remove": "false",
+        "comment": "change to Valenciennea longipinnis"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Vibrio fortis",
+        "AphiaID": 570761,
+        "remove": "true",
+        "comment": "bacteria"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Vibrio harveyi",
+        "AphiaID": 480249,
+        "remove": "true",
+        "comment": "bacteria"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Yongeichthys criniger",
+        "AphiaID": 278114,
         "remove": "false"
     }
 ]
