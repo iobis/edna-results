@@ -1798,6 +1798,871 @@
         "species": "Zancleopsis dichotoma",
         "AphiaID": 288110,
         "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Acanthopagrus australis",
+        "AphiaID": 279070,
+        "new_AphiaID": 206669,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Acanthopagrus latus",
+        "AphiaID": 218587,
+        "new_AphiaID": 206669,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Actinocyclus curvatulus",
+        "AphiaID": 966920,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Anas platyrhynchos",
+        "AphiaID": 148791,
+        "remove": "true",
+        "comment": "Mallard"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Anas poecilorhyncha",
+        "AphiaID": 1034710,
+        "remove": "true",
+        "comment": "Mallard"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Anaulus australis",
+        "AphiaID": 612073,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Apoikiospumella mondseeiensis",
+        "AphiaID": 1643483,
+        "remove": "true",
+        "comment": "no good match"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Aristostomias scintillans",
+        "AphiaID": 275007,
+        "new_AphiaID": 126201,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Aristostomias xenostoma",
+        "AphiaID": 275008,
+        "new_AphiaID": 126201,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Arula petunia",
+        "AphiaID": 716889,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Aspergillus versicolor",
+        "AphiaID": 100498,
+        "remove": "true",
+        "comment": "fungi"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Awaous banana",
+        "AphiaID": 277417,
+        "new_AphiaID": 826711,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Bathycoccus prasinos",
+        "AphiaID": 345459,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Batzella aurantiaca",
+        "AphiaID": 168733,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Bostrychia hagedash",
+        "AphiaID": 212672,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Callionymus enneactis",
+        "AphiaID": 273178,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Calocalanus minutus",
+        "AphiaID": 346221,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Cantherhines pullus",
+        "AphiaID": 159493,
+        "new_AphiaID": 220058,
+        "remove": "false",
+        "comment": "change to Cantherhines pardalis"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Carijoa riisei",
+        "AphiaID": 395098,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Chaunax penicillatus",
+        "AphiaID": 217856,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Chloropicon maureeniae",
+        "AphiaID": 1361156,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Clarias theodorae",
+        "AphiaID": 1017218,
+        "remove": "false",
+        "comment": "freshwater traces"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Clupea harengus",
+        "AphiaID": 126417,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Craterium leucocephalum",
+        "AphiaID": 1501261,
+        "remove": "true",
+        "comment": "Homo sapiens"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Cunina fowleri",
+        "AphiaID": 117493,
+        "new_AphiaID": 117072,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Cyclothone microdon",
+        "AphiaID": 127286,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Cymolutes torquatus",
+        "AphiaID": 218966,
+        "new_AphiaID": 206714,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Cypridopsis vidua",
+        "AphiaID": 160026,
+        "new_AphiaID": 160025,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Dero borellii",
+        "AphiaID": 1069834,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Dero obtusa",
+        "AphiaID": 1015306,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Dicentrarchus punctatus",
+        "AphiaID": 126976,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Dictyonella funicularis",
+        "AphiaID": 165675,
+        "remove": "false",
+        "comment": "99% match, to review"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Encrasicholina heteroloba",
+        "AphiaID": 219980,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Encrasicholina pseudoheteroloba",
+        "AphiaID": 1529163,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Engraulis ringens",
+        "AphiaID": 272287,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Enteromius paludinosus",
+        "AphiaID": 1214761,
+        "remove": "false",
+        "comment": "freshwater traces"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Enteromius viviparus",
+        "AphiaID": 1468429,
+        "new_AphiaID": 1006777,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Epigonichthys maldivensis",
+        "AphiaID": 212958,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Estrilda astrild",
+        "AphiaID": 1484441,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Ethmalosa fimbriata",
+        "AphiaID": 280725,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Eucinostomus melanopterus",
+        "AphiaID": 276423,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Eunice notata",
+        "AphiaID": 333331,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Florenciella parvula",
+        "AphiaID": 178628,
+        "remove": "true",
+        "comment": "bacteria"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Gnathophis nystromi",
+        "AphiaID": 293607,
+        "new_AphiaID": 125625,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Grammatonotus surugaensis",
+        "AphiaID": 280940,
+        "new_AphiaID": 269264,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Halamphora calidilacuna",
+        "AphiaID": 1259744,
+        "remove": "true",
+        "comment": "bacteria"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Haliclona pigmentifera",
+        "AphiaID": 166430,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Haliclona tubifera",
+        "AphiaID": 345569,
+        "new_AphiaID": 131598,
+        "remove": "false",
+        "comment": "change to order"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Harengula humeralis",
+        "AphiaID": 367197,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Haslea pseudostrearia",
+        "AphiaID": 495535,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Hemigymnus melapterus",
+        "AphiaID": 218998,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Hemimycale arabica",
+        "AphiaID": 169133,
+        "remove": "true",
+        "comment": "no good match"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Hemiselmis andersenii",
+        "AphiaID": 623449,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Hydra sinensis",
+        "AphiaID": 564153,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Istiblennius lineatus",
+        "AphiaID": 219296,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Istiblennius pox",
+        "AphiaID": 219290,
+        "new_AphiaID": 219296,
+        "remove": "false",
+        "comment": "change to Istiblennius lineatus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Kumanoa globospora",
+        "AphiaID": 623705,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Kyphosus pacificus",
+        "AphiaID": 273524,
+        "new_AphiaID": 126015,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Lacustricola myaposae",
+        "AphiaID": 1018224,
+        "remove": "false",
+        "comment": "freshwater traces"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Lampadena atlantica",
+        "AphiaID": 713102,
+        "new_AphiaID": 158896,
+        "remove": "false",
+        "comment": "change to Lampadena luminosa"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Lecane bulla",
+        "AphiaID": 148327,
+        "new_AphiaID": 134952,
+        "remove": "false",
+        "comment": "change to genus, freshwater traces"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Lepocinclis spirogyroides",
+        "AphiaID": 576887,
+        "remove": "true",
+        "comment": "Bacteria"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Linopneustes longispinus",
+        "AphiaID": 422507,
+        "new_AphiaID": 415565,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Litoricola lipolytica",
+        "AphiaID": 570449,
+        "remove": "true",
+        "comment": "Bacteria"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Marcusenius caudisquamatus",
+        "AphiaID": 1007112,
+        "remove": "false",
+        "comment": "freshwater traces"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Marcusenius senegalensis",
+        "AphiaID": 1013935,
+        "remove": "false",
+        "comment": "freshwater traces"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Mesocyclops pehpeiensis",
+        "AphiaID": 356608,
+        "remove": "false",
+        "comment": "99% match, freshwater traces"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Mirounga leonina",
+        "AphiaID": 231413,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Mugil bananensis",
+        "AphiaID": 273647,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Mugil capurrii",
+        "AphiaID": 126982,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Mugil liza",
+        "AphiaID": 273655,
+        "new_AphiaID": 126983,
+        "remove": "false",
+        "comment": "change to Mugil cephalus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Myaka myaka",
+        "AphiaID": 1013082,
+        "new_AphiaID": 317356,
+        "remove": "false",
+        "comment": "change to Coptodon zillii"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Myripristis amaena",
+        "AphiaID": 276190,
+        "remove": "false",
+        "comment": "100% match"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Nacospatangus altus",
+        "AphiaID": 513408,
+        "new_AphiaID": 123106,
+        "remove": "false",
+        "comment": "change to order"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Neobythites stigmosus",
+        "AphiaID": 276643,
+        "new_AphiaID": 182835,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Onigocia sibogae",
+        "AphiaID": 712550,
+        "new_AphiaID": 205789,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Oryzaephilus mercator",
+        "AphiaID": 1489544,
+        "remove": "true",
+        "comment": "insect"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Otaria byronia",
+        "AphiaID": 344630,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Paranais frici",
+        "AphiaID": 137484,
+        "remove": "false",
+        "comment": "100% match"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Parascolopsis eriomma",
+        "AphiaID": 214690,
+        "remove": "false",
+        "comment": "possible Parascolopis akatamae"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Parupeneus jansenii",
+        "AphiaID": 218668,
+        "remove": "false",
+        "comment": "99% match"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Parupeneus margaritatus",
+        "AphiaID": 277818,
+        "new_AphiaID": 204915,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Patagonotothen ramsayi",
+        "AphiaID": 234633,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Pelagia panopyra",
+        "AphiaID": 220477,
+        "new_AphiaID": 135305,
+        "remove": "false",
+        "comment": "change to Pelagia noctiluca"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Penaeus pulchricaudatus",
+        "AphiaID": 584983,
+        "new_AphiaID": 210371,
+        "remove": "false",
+        "comment": "change to Penaeus japonicus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Phorbas clathratus",
+        "AphiaID": 169317,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Plagiogramma staurophorum",
+        "AphiaID": 149351,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Pleurosigma intermedium",
+        "AphiaID": 156582,
+        "new_AphiaID": 149181,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Plocamopherus ceylonicus",
+        "AphiaID": 404968,
+        "new_AphiaID": 138568,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Plotosus japonicus",
+        "AphiaID": 398360,
+        "new_AphiaID": 206186,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Pontella fera",
+        "AphiaID": 360157,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Porphyrio porphyrio",
+        "AphiaID": 1484543,
+        "new_AphiaID": 415854,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Pristina aequiseta",
+        "AphiaID": 593126,
+        "new_AphiaID": 475503,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Prostoma graecense",
+        "AphiaID": 689413,
+        "remove": "false",
+        "comment": "freshwater traces"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Protoreaster lincki",
+        "AphiaID": 213286,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Pseudo-nitzschia subfraudulenta",
+        "AphiaID": 418221,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Pseudorhombus pentophthalmus",
+        "AphiaID": 277088,
+        "new_AphiaID": 204142,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Rhinobatos variegatus",
+        "AphiaID": 271614,
+        "new_AphiaID": 105769,
+        "remove": "false",
+        "comment": "98%, but wrong area change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Rhodachlya hawaiiana",
+        "AphiaID": 708100,
+        "new_AphiaID": 603165,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Rogadius serratus",
+        "AphiaID": 218147,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Rotaria rotatoria",
+        "AphiaID": 431954,
+        "remove": "true",
+        "comment": "no good match"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Saccoglossus bromophenolosus",
+        "AphiaID": 158484,
+        "new_AphiaID": 137590,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Salmo salar",
+        "AphiaID": 127186,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Sardinella maderensis",
+        "AphiaID": 126423,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Sillago indica",
+        "AphiaID": 273941,
+        "new_AphiaID": 126072,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Spongilla manconiae",
+        "AphiaID": 1546345,
+        "remove": "false",
+        "comment": "100% match"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Sprattus sprattus",
+        "AphiaID": 126425,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Stenella coeruleoalba",
+        "AphiaID": 137107,
+        "new_AphiaID": 254983,
+        "remove": "false",
+        "comment": "change to Tursiops aduncus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Stenella longirostris",
+        "AphiaID": 137109,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Stephanolepis hispida",
+        "AphiaID": 307126,
+        "new_AphiaID": 126236,
+        "remove": "false",
+        "comment": "change to genus 100% match, but multiple species"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Stomias atriventer",
+        "AphiaID": 275178,
+        "new_AphiaID": 126220,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Strombomonas acuminata",
+        "AphiaID": 163422,
+        "new_AphiaID": 163418,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Tedania tubulifera",
+        "AphiaID": 194299,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Tiffaniella snyderae",
+        "AphiaID": 372796,
+        "new_AphiaID": 143867,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Trichiurus gangeticus",
+        "AphiaID": 274022,
+        "new_AphiaID": 127089,
+        "remove": "false",
+        "comment": "change to Trichiurus lepturus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Tripneustes depressus",
+        "AphiaID": 513619,
+        "new_AphiaID": 212453,
+        "remove": "false",
+        "comment": "change to Tripneustes gratilla"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Varanus niloticus",
+        "AphiaID": 1606288,
+        "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Vibrio fortis",
+        "AphiaID": 570761,
+        "remove": "true",
+        "comment": "Bacteria"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Vibrio harveyi",
+        "AphiaID": 480249,
+        "remove": "true",
+        "comment": "Bacteria"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Vibrio mediterranei",
+        "AphiaID": 570778,
+        "remove": "true",
+        "comment": "Bacteria"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Vibrio vulnificus",
+        "AphiaID": 395086,
+        "remove": "true",
+        "comment": "Bacteria"
     }
 ]
 
