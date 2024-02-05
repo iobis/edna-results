@@ -1,0 +1,1450 @@
+[
+    {
+        "site": "Socotra Archipelago",
+        "species": "Acanthopagrus pacificus",
+        "AphiaID": 712728,
+        "new_AphiaID": 206669,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Acanthurus bariene",
+        "AphiaID": 219637,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Albula glossodonta",
+        "AphiaID": 212255,
+        "remove": "false",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Alticus kirkii",
+        "AphiaID": 219233,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Ambassis gymnocephalus",
+        "AphiaID": 220044,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Amphipholis squamata",
+        "AphiaID": 125064,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Anaulus australis",
+        "AphiaID": 612073,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Aphanta ligulata",
+        "AphiaID": 1534768,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Aplysia oculifera",
+        "AphiaID": 208626,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Aspergillus nidulans",
+        "AphiaID": 100494,
+        "remove": "true",
+        "comment": "fungi"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Aspergillus niger",
+        "AphiaID": 100495,
+        "remove": "true",
+        "comment": "fungi"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Aspidosiphon albus",
+        "AphiaID": 425144,
+        "new_AphiaID": 136019,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Asteropsis carinifera",
+        "AphiaID": 213177,
+        "new_AphiaID": 203861,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Atrosalarias holomelas",
+        "AphiaID": 712834,
+        "remove": "true",
+        "comment": "no good match"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Bathycoccus prasinos",
+        "AphiaID": 345459,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Batzella aurantiaca",
+        "AphiaID": 168733,
+        "new_AphiaID": 131599,
+        "remove": "false",
+        "comment": "change to order"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Berthellina delicata",
+        "AphiaID": 863427,
+        "new_AphiaID": 138362,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Bigelowiella natans",
+        "AphiaID": 376277,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Biuve fulvipunctata",
+        "AphiaID": 1055233,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Branchiosyllis cirropunctata",
+        "AphiaID": 760013,
+        "new_AphiaID": 948,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Callistoctopus aspilosomatis",
+        "AphiaID": 534106,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Callogobius sclateri",
+        "AphiaID": 219410,
+        "new_AphiaID": 206441,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Callyspongia fallax",
+        "AphiaID": 190264,
+        "new_AphiaID": 131825,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Canthigaster jactator",
+        "AphiaID": 275256,
+        "new_AphiaID": 126238,
+        "remove": "false",
+        "comment": "change to genus, species jactator or solandri"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Centroceras gasparrinii",
+        "AphiaID": 503086,
+        "new_AphiaID": 143833,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chaetodon austriacus",
+        "AphiaID": 218732,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chaetodon decussatus",
+        "AphiaID": 273333,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chalinula molitba",
+        "AphiaID": 166293,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Cheilopogon spilonotopterus",
+        "AphiaID": 272163,
+        "new_AphiaID": 125691,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chelon carinatus",
+        "AphiaID": 1623159,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chelon dumerili",
+        "AphiaID": 1042829,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chelonaplysilla delicata",
+        "AphiaID": 164868,
+        "new_AphiaID": 131623,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chlorarachnion reptans",
+        "AphiaID": 376147,
+        "new_AphiaID": 369473,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chloroparvula pacifica",
+        "AphiaID": 1361158,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chloropicon laureae",
+        "AphiaID": 1361155,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chloropicon mariensis",
+        "AphiaID": 1361154,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chloropicon primus",
+        "AphiaID": 1361151,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chloropicon roscoffensis",
+        "AphiaID": 1361153,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chloropicon sieburthii",
+        "AphiaID": 1541871,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chlorurus bowersi",
+        "AphiaID": 277505,
+        "new_AphiaID": 204543,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chlorurus gibbus",
+        "AphiaID": 219088,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chlorurus microrhinos",
+        "AphiaID": 277507,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chondria baileyana",
+        "AphiaID": 157315,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chondrophycus anabeliae",
+        "AphiaID": 1373594,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chondrophycus succisus",
+        "AphiaID": 375752,
+        "new_AphiaID": 373851,
+        "remove": "false",
+        "comment": "change to Chondrophycus undulatus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chrysiptera glauca",
+        "AphiaID": 218783,
+        "new_AphiaID": 203924,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chrysoparadoxa australica",
+        "AphiaID": 1359032,
+        "remove": "true",
+        "comment": "not clear"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Chthamalus barnesi",
+        "AphiaID": 733186,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Clathria abietina",
+        "AphiaID": 408861,
+        "new_AphiaID": 131868,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Clathria curacaoensis",
+        "AphiaID": 988206,
+        "new_AphiaID": 167774,
+        "remove": "false",
+        "comment": "change to Clathria reinwardti"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Clathria rugosa",
+        "AphiaID": 190629,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Clathria unica",
+        "AphiaID": 190549,
+        "new_AphiaID": 131868,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Clausocalanus furcatus",
+        "AphiaID": 104503,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Cliona vermifera",
+        "AphiaID": 134145,
+        "new_AphiaID": 132026,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Cliona yorkin",
+        "AphiaID": 1450708,
+        "new_AphiaID": 132027,
+        "remove": "false",
+        "comment": "change to genus Cliothosa"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Clupea harengus",
+        "AphiaID": 126417,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Conus frigidus",
+        "AphiaID": 215561,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Coryogalops anomolus",
+        "AphiaID": 219415,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Ctenodrilus pacificus",
+        "AphiaID": 873617,
+        "new_AphiaID": 129253,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Cubiceps squamiceps",
+        "AphiaID": 367292,
+        "new_AphiaID": 273680,
+        "remove": "false",
+        "comment": "accepted name is correct"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Cunina fowleri",
+        "AphiaID": 117493,
+        "new_AphiaID": 117072,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Cylindrotheca closterium",
+        "AphiaID": 149004,
+        "new_AphiaID": 149003,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Danielea noelensis",
+        "AphiaID": 444128,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Diplodus kotschyi",
+        "AphiaID": 998229,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Dolichomastix tenuilepis",
+        "AphiaID": 345463,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Ecsenius gravieri",
+        "AphiaID": 219273,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Edwardsia longicornis",
+        "AphiaID": 100889,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Eirene brevistylus",
+        "AphiaID": 284580,
+        "new_AphiaID": 117080,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Enneapterygius philippinus",
+        "AphiaID": 277331,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Ethmalosa fimbriata",
+        "AphiaID": 280725,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Eucinostomus melanopterus",
+        "AphiaID": 276423,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Eudendrium capillare",
+        "AphiaID": 117544,
+        "new_AphiaID": 117093,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Eunice afra",
+        "AphiaID": 209828,
+        "new_AphiaID": 129278,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Eunice notata",
+        "AphiaID": 333331,
+        "new_AphiaID": 335340,
+        "remove": "false",
+        "comment": "change to Palola viridis"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Eviota punctulata",
+        "AphiaID": 278603,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Fistulifera pelliculosa",
+        "AphiaID": 577521,
+        "new_AphiaID": 577520,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Gelidium sclerophyllum",
+        "AphiaID": 375455,
+        "remove": "false",
+        "comment": "100% match"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Geodia californica",
+        "AphiaID": 597600,
+        "remove": "false",
+        "comment": "99% match"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Geodia vosmaeri",
+        "AphiaID": 597605,
+        "remove": "false",
+        "comment": "99% match"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Gerres oblongus",
+        "AphiaID": 218526,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Gnatholepis thompsoni",
+        "AphiaID": 277493,
+        "new_AphiaID": 219476,
+        "remove": "false",
+        "comment": "change to Gnatholepis cauerensis"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Gobiodon fuscoruber",
+        "AphiaID": 1007349,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Gobiodon reticulatus",
+        "AphiaID": 219480,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Gymnothorax fimbriatus",
+        "AphiaID": 217499,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Gymnothorax isingteena",
+        "AphiaID": 271842,
+        "new_AphiaID": 217509,
+        "remove": "false",
+        "comment": "change to Gymnothorax favagineus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Gymnothorax thyrsoideus",
+        "AphiaID": 271889,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Haramonas dimorpha",
+        "AphiaID": 608356,
+        "new_AphiaID": 391868,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Haslea crucigera",
+        "AphiaID": 172588,
+        "new_AphiaID": 149210,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Haslea pseudostrearia",
+        "AphiaID": 495535,
+        "new_AphiaID": 149210,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Helcogramma fuscopinna",
+        "AphiaID": 219183,
+        "new_AphiaID": 206858,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Hemiarma marina",
+        "AphiaID": 1361130,
+        "new_AphiaID": 1361130,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Holothuria lineata",
+        "AphiaID": 732355,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Hydroclathrus tenuis",
+        "AphiaID": 214334,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Hymeniacidon chloris",
+        "AphiaID": 165886,
+        "new_AphiaID": 131808,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Hypnea nidulans",
+        "AphiaID": 220818,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Hypnea nigrescens",
+        "AphiaID": 220814,
+        "new_AphiaID": 144157,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Hypoatherina gobio",
+        "AphiaID": 310978,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Hypoatherina temminckii",
+        "AphiaID": 217883,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Hypoatherina tsurugae",
+        "AphiaID": 277725,
+        "new_AphiaID": 310978,
+        "remove": "false",
+        "comment": "change to Hypoatherina gobio"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Istiblennius lineatus",
+        "AphiaID": 219296,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Istiblennius spilotus",
+        "AphiaID": 219300,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Laodicea undulata",
+        "AphiaID": 117725,
+        "new_AphiaID": 117141,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Laurencia natalensis",
+        "AphiaID": 212008,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Lithophyllum kaiseri",
+        "AphiaID": 239312,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Lithophyllum validum",
+        "AphiaID": 501674,
+        "new_AphiaID": 239313,
+        "remove": "false",
+        "comment": "change to Lithophyllum okamurae"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Lithophyllum yemenense",
+        "AphiaID": 1359189,
+        "new_AphiaID": 144016,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Lophocladia kuetzingii",
+        "AphiaID": 214231,
+        "new_AphiaID": 143674,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Macrophiothrix longipeda",
+        "AphiaID": 213195,
+        "new_AphiaID": 205728,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Macrosteles quadrilineatus",
+        "AphiaID": 1489180,
+        "remove": "true",
+        "comment": "contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Mesophyllum erubescens",
+        "AphiaID": 213904,
+        "new_AphiaID": 15308,
+        "remove": "false",
+        "comment": "change to order"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Micromonas commoda",
+        "AphiaID": 1361174,
+        "new_AphiaID": 134533,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Micromonas pusilla",
+        "AphiaID": 134564,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Minutocellus polymorphus",
+        "AphiaID": 464449,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Mirounga leonina",
+        "AphiaID": 231413,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Monetaria annulus",
+        "AphiaID": 216875,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Mugil liza",
+        "AphiaID": 273655,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Myripristis berndti",
+        "AphiaID": 217927,
+        "new_AphiaID": 159383,
+        "remove": "false",
+        "comment": "change to genus, no resolution"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Naso lopezi",
+        "AphiaID": 278006,
+        "new_AphiaID": 219668,
+        "remove": "false",
+        "comment": "change to Naso unicornis"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Navicula minima",
+        "AphiaID": 172829,
+        "remove": "true",
+        "comment": "chloroplast or bacteria"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Neogoniolithon fosliei",
+        "AphiaID": 239328,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Neoralfsia expansa",
+        "AphiaID": 495552,
+        "new_AphiaID": 494169,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Octopus cyanea",
+        "AphiaID": 210788,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Oedalechilus labiosus",
+        "AphiaID": 218898,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Oithona dissimilis",
+        "AphiaID": 353996,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Omobranchus fasciolatus",
+        "AphiaID": 219318,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Palutrus scapulopunctatus",
+        "AphiaID": 279177,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Paracalanus indicus",
+        "AphiaID": 104683,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Paracornulum dubium",
+        "AphiaID": 167444,
+        "new_AphiaID": 167442,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Paramoeba aestuarina",
+        "AphiaID": 120622,
+        "new_AphiaID": 120552,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pardachirus pavoninus",
+        "AphiaID": 278364,
+        "new_AphiaID": 205674,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Parupeneus ciliatus",
+        "AphiaID": 218661,
+        "new_AphiaID": 204915,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Parupeneus insularis",
+        "AphiaID": 277815,
+        "new_AphiaID": 204915,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Parupeneus multifasciatus",
+        "AphiaID": 277820,
+        "remove": "false",
+        "comment": "99% match, can it be a different local species?"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Parupeneus porphyreus",
+        "AphiaID": 218662,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Peasiella mauritiana",
+        "AphiaID": 445553,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pelagomonas calceolata",
+        "AphiaID": 345504,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pelates quadrilineatus",
+        "AphiaID": 127077,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pempheris schwenkii",
+        "AphiaID": 218699,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Peronia madagascariensis",
+        "AphiaID": 1460918,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Petaloconchus keenae",
+        "AphiaID": 549433,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Phaeocystis globosa",
+        "AphiaID": 160538,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Phaeocystis pouchetii",
+        "AphiaID": 115106,
+        "new_AphiaID": 160538,
+        "remove": "false",
+        "comment": "change to Phaeocystis globosa"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Phanerophthalmus tibiricae",
+        "AphiaID": 1313727,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Phascolosoma stephensoni",
+        "AphiaID": 424910,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Phestilla sibogae",
+        "AphiaID": 536544,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Phorbas bihamiger",
+        "AphiaID": 169314,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Phyllochaetopterus verrilli",
+        "AphiaID": 330566,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pilodius pilumnoides",
+        "AphiaID": 444102,
+        "new_AphiaID": 439104,
+        "remove": "false",
+        "comment": "change to family Tetraliidae"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pinguiococcus pyrenoidosus",
+        "AphiaID": 376356,
+        "remove": "true",
+        "comment": "no good match"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pione vastifica",
+        "AphiaID": 157411,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pione velans",
+        "AphiaID": 170520,
+        "new_AphiaID": 157409,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Placida kevinleei",
+        "AphiaID": 1043245,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Placospongia carinata",
+        "AphiaID": 170611,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Plakortis halichondrioides",
+        "AphiaID": 169763,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Plectorhinchus orientalis",
+        "AphiaID": 218550,
+        "new_AphiaID": 218551,
+        "remove": "false",
+        "comment": "change to Plectorhinchus schotaf"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Plesiops nakaharae",
+        "AphiaID": 276818,
+        "new_AphiaID": 218342,
+        "remove": "false",
+        "comment": "change to Plesiops coeruleolineatus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Plotosus japonicus",
+        "AphiaID": 398360,
+        "new_AphiaID": 206186,
+        "remove": "false",
+        "comment": "change to genus, 97% similarity but local speceis missing from db?"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Poecillastra laminaris",
+        "AphiaID": 170263,
+        "new_AphiaID": 597812,
+        "remove": "false",
+        "comment": "change to order"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pomacentrus baenschi",
+        "AphiaID": 212973,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pseudo-nitzschia caciantha",
+        "AphiaID": 531450,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pseudo-nitzschia circumpora",
+        "AphiaID": 837690,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pseudo-nitzschia cuspidata",
+        "AphiaID": 370512,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pseudo-nitzschia delicatissima",
+        "AphiaID": 149153,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pseudo-nitzschia pseudodelicatissima",
+        "AphiaID": 156548,
+        "new_AphiaID": 149151,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pseudo-nitzschia sabit",
+        "AphiaID": 1307191,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pseudochromis flavivertex",
+        "AphiaID": 218331,
+        "new_AphiaID": 151438,
+        "remove": "false",
+        "comment": "change to family, not a good match"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pseudopolydora floridensis",
+        "AphiaID": 598854,
+        "new_AphiaID": 913,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pterocladiella beachiae",
+        "AphiaID": 667186,
+        "new_AphiaID": 374576,
+        "remove": "false",
+        "comment": "change to Pterocladiella caerulescens"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pterocladiella caerulescens",
+        "AphiaID": 374576,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Pterocladiella musciformis",
+        "AphiaID": 1373734,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Ptychodera flava",
+        "AphiaID": 210065,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Ramicrusta appressa",
+        "AphiaID": 837476,
+        "remove": "false",
+        "comment": "100% match"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Rosacea flaccida",
+        "AphiaID": 292482,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Saccostrea mordax",
+        "AphiaID": 819190,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Sagartiogeton laceratus",
+        "AphiaID": 100999,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Salarias sinuosus",
+        "AphiaID": 219341,
+        "new_AphiaID": 205701,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Scarus prasiognathos",
+        "AphiaID": 219093,
+        "new_AphiaID": 159299,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Scarus russelii",
+        "AphiaID": 219135,
+        "new_AphiaID": 219113,
+        "remove": "false",
+        "comment": "change to Scarus frenatus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Scytosiphon promiscuus",
+        "AphiaID": 1356524,
+        "remove": "true",
+        "comment": "probable Bacteria"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Sepia gibba",
+        "AphiaID": 220310,
+        "new_AphiaID": 138477,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Siganus fuscescens",
+        "AphiaID": 273912,
+        "new_AphiaID": 126071,
+        "remove": "false",
+        "comment": "change to genus, either Siganus sutor or Siganus rivulatus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Sillago indica",
+        "AphiaID": 273941,
+        "new_AphiaID": 126072,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Siphonaria savignyi",
+        "AphiaID": 759145,
+        "new_AphiaID": 138489,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Smaragdinella calyculata",
+        "AphiaID": 590786,
+        "new_AphiaID": 138055,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Sphaerocoryne bedoti",
+        "AphiaID": 117952,
+        "new_AphiaID": 117240,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Sphyraena obtusata",
+        "AphiaID": 212056,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Spirastrella hartmani",
+        "AphiaID": 170709,
+        "new_AphiaID": 132060,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Sprattus sprattus",
+        "AphiaID": 126425,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Stethojulis strigiventer",
+        "AphiaID": 219061,
+        "new_AphiaID": 204183,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Stethojulis terina",
+        "AphiaID": 277110,
+        "new_AphiaID": 204183,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Syllis picta",
+        "AphiaID": 865162,
+        "new_AphiaID": 129680,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Taeniamia macroptera",
+        "AphiaID": 1022618,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Terpios gelatinosus",
+        "AphiaID": 1041930,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Tetrachthamalus oblitteratus",
+        "AphiaID": 208885,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Tetraclita ehsani",
+        "AphiaID": 472919,
+        "new_AphiaID": 882229,
+        "remove": "false",
+        "comment": "change to Tetraclita rufotincta"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Thalassoma bifasciatum",
+        "AphiaID": 159786,
+        "new_AphiaID": 212209,
+        "remove": "false",
+        "comment": "change to Thalassoma lunare"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Thalassoma duperrey",
+        "AphiaID": 273579,
+        "new_AphiaID": 273585,
+        "remove": "false",
+        "comment": "change to Thalassoma lutescens"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Thecamonas trahens",
+        "AphiaID": 103433,
+        "new_AphiaID": 103427,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Timarete punctata",
+        "AphiaID": 761959,
+        "new_AphiaID": 129250,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Tylosurus crocodilus",
+        "AphiaID": 159259,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Urodasys calicostylis",
+        "AphiaID": 265544,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Urogymnus asperrimus",
+        "AphiaID": 217424,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Vallicula multiformis",
+        "AphiaID": 106403,
+        "remove": "false"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Vibrio alginolyticus",
+        "AphiaID": 480248,
+        "remove": "true",
+        "comment": "bacteria"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Vibrio harveyi",
+        "AphiaID": 480249,
+        "remove": "true",
+        "comment": "bacteria"
+    },
+    {
+        "site": "Socotra Archipelago",
+        "species": "Vibrio vulnificus",
+        "AphiaID": 395086,
+        "remove": "true",
+        "comment": "bacteria"
+    }
+]
+
