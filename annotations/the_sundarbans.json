@@ -536,6 +536,354 @@
         "new_AphiaID": 205060,
         "remove": "false",
         "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Actinocyclus curvatulus",
+        "AphiaID": 966920,
+        "new_AphiaID": 148944,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Amphibalanus rhizophorae",
+        "AphiaID": 534947,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Anser albifrons",
+        "AphiaID": 159159,
+        "new_AphiaID": 159158,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Apocryptes bato",
+        "AphiaID": 279661,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Bathygobius cocosensis",
+        "AphiaID": 209216,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Butis koilomatodon",
+        "AphiaID": 219352,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Cerithium litteratum",
+        "AphiaID": 216687,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Chlorurus sordidus",
+        "AphiaID": 219082,
+        "remove": "false",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Clupea harengus",
+        "AphiaID": 126417,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Coptodon zillii",
+        "AphiaID": 317356,
+        "remove": "false",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Cryptocentrus melanopus",
+        "AphiaID": 278338,
+        "new_AphiaID": 125537,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Cynoglossus monopus",
+        "AphiaID": 274215,
+        "new_AphiaID": 125578,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Dermogenys pusilla",
+        "AphiaID": 280513,
+        "new_AphiaID": 268976,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Ditrichocorycaeus anglicus",
+        "AphiaID": 128805,
+        "new_AphiaID": 128635,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Edwardsia longicornis",
+        "AphiaID": 100889,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Eirene hexanemalis",
+        "AphiaID": 221223,
+        "new_AphiaID": 117080,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Eleginops maclovinus",
+        "AphiaID": 280634,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Entomacrodus striatus",
+        "AphiaID": 219282,
+        "remove": "false",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Ethmalosa fimbriata",
+        "AphiaID": 280725,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Eucampia zodiacus",
+        "AphiaID": 149131,
+        "remove": "true",
+        "comment": "likely bacteria"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Gerres equulus",
+        "AphiaID": 276956,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Globicephala macrorhynchus",
+        "AphiaID": 137096,
+        "new_AphiaID": 148732,
+        "remove": "false",
+        "comment": "change to Orcaella brevisrostris"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Glossogobius aureus",
+        "AphiaID": 276802,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Istiblennius enosimae",
+        "AphiaID": 311917,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Johnius grypotus",
+        "AphiaID": 276111,
+        "new_AphiaID": 159317,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Lates japonicus",
+        "AphiaID": 278958,
+        "new_AphiaID": 278957,
+        "remove": "false",
+        "comment": "change to Lates calcarifer"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Leiopotherapon aheneus",
+        "AphiaID": 1013644,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Macaca mulatta",
+        "AphiaID": 1506701,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Macrophthalmus tomentosus",
+        "AphiaID": 1583784,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Mirounga leonina",
+        "AphiaID": 231413,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Mugil bananensis",
+        "AphiaID": 273647,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Mugil capurrii",
+        "AphiaID": 126982,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Mugil curema",
+        "AphiaID": 159416,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Mugil liza",
+        "AphiaID": 273655,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Numenius arquata",
+        "AphiaID": 159037,
+        "new_AphiaID": 159036,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Numenius madagascariensis",
+        "AphiaID": 225934,
+        "new_AphiaID": 159036,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Numenius phaeopus",
+        "AphiaID": 159040,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Omobranchus elongatus",
+        "AphiaID": 219317,
+        "new_AphiaID": 205243,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Paraplagusia blochii",
+        "AphiaID": 278658,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Patagonotothen ramsayi",
+        "AphiaID": 234633,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Pelates quadrilineatus",
+        "AphiaID": 127077,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Prionobutis microps",
+        "AphiaID": 277606,
+        "new_AphiaID": 204695,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Pseudevadne tergestina",
+        "AphiaID": 106278,
+        "remove": "false",
+        "comment": "possble cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Saccostrea malabonensis",
+        "AphiaID": 506731,
+        "new_AphiaID": 224654,
+        "remove": "false",
+        "comment": "change to Saccostrea cucullata"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Skeletonema subsalsum",
+        "AphiaID": 149075,
+        "new_AphiaID": 149073,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Sprattus sprattus",
+        "AphiaID": 126425,
+        "remove": "true",
+        "comment": "cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Thermocyclops decipiens",
+        "AphiaID": 356111,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Urogymnus polylepis",
+        "AphiaID": 1011468,
+        "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Yongeichthys criniger",
+        "AphiaID": 278114,
+        "remove": "true",
+        "comment": "cross-contamination"
     }
 ]
 
