@@ -2172,6 +2172,13 @@
         "AphiaID": 288110,
         "remove": "true",
         "comment": "cross-contamination"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "species": "Cyprinus carpio",
+        "AphiaID": 154582,
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/23"
     }
 ]
 
