@@ -2179,6 +2179,17 @@
         "AphiaID": 154582,
         "remove": "true",
         "comment": "https://github.com/iobis/edna-species-lists/issues/23"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "phylum": "Porifera",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/22"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "species": "Pacifigorgia irene",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/22"
     }
 ]
-
