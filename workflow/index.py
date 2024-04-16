@@ -1,6 +1,8 @@
 import os
 import pandas as pd
-from util import download_results, fetch_metadata, fetch_metadata, derive_marker_name, get_folders_by_site, fetch_metadata_df
+from util import download_results, derive_marker_name, get_folders_by_site, fetch_metadata_df
+import json
+import pyworms
 
 
 PROJECT_NAMES = ["eDNAexpeditions_batch1_samples", "eDNAexpeditions_batch2_samples"]
@@ -85,6 +87,36 @@ for site_name in folders_by_site:
     # merge metadata
 
     occurrence_combined = pd.merge(occurrence_combined, metadata_df, on="materialSampleID", how="inner")
+
+    # apply annotations
+
+    with open(f"annotations/{site_name}.json") as f:
+        annotations = json.load(f)
+        for annotation in annotations:
+
+            if annotation["remove"] == True or annotation["remove"] == "true":
+                print(f"Removing {annotation['species']} from {site_name}")
+                # TODO: use higher taxon (phylum?) for scientificName and scientificNameID
+                occurrence_ids = list(occurrence_combined.loc[occurrence_combined["scientificName"] == annotation["species"]]["occurrenceID"])
+                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["class", "order", "family", "genus", "taxonRank"]] = None
+                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["scientificName"]] = "incertae sedis"
+                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["scientificNameID"]] = "urn:lsid:marinespecies.org:taxname:12"
+                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["identificationRemarks"]] = "scientificName changed due to a manual annotation; " + occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["identificationRemarks"]]
+
+            if (annotation["remove"] == False or annotation["remove"] == "false") and "new_AphiaID" in annotation:
+                print(f"Updating {annotation['species']} for {site_name}")
+                occurrence_ids = list(occurrence_combined.loc[occurrence_combined["scientificName"] == annotation["species"]]["occurrenceID"])
+                new_taxon = pyworms.aphiaRecordByAphiaID(annotation["new_AphiaID"])
+                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["kingdom"]] = new_taxon["kingdom"]
+                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["phylum"]] = new_taxon["phylum"]
+                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["class"]] = new_taxon["class"]
+                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["order"]] = new_taxon["order"]
+                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["family"]] = new_taxon["family"]
+                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["genus"]] = new_taxon["genus"]
+                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["scientificName"]] = new_taxon["scientificname"]
+                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["scientificNameID"]] = new_taxon["lsid"]
+                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["taxonRank"]] = new_taxon["rank"].lower()
+                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["identificationRemarks"]] = "scientificName changed due to a manual annotation; " + occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["identificationRemarks"]]
 
     # remove contaminants
 
