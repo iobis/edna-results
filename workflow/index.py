@@ -92,18 +92,39 @@ for site_name in folders_by_site:
         annotations = json.load(f)
         for annotation in annotations:
 
+            if "species" in annotation:
+                field = "scientificName"
+                name = annotation["species"].strip()
+            elif "genus" in annotation:
+                field = "genus"
+                name = annotation["genus"].strip()
+            elif "family" in annotation:
+                field = "family"
+                name = annotation["family"].strip()
+            elif "order" in annotation:
+                field = "order"
+                name = annotation["order"].strip()
+            elif "class" in annotation:
+                field = "class"
+                name = annotation["class"].strip()
+            elif "phylum" in annotation:
+                field = "phylum"
+                name = annotation["phylum"].strip()
+
             if annotation["remove"] == True or annotation["remove"] == "true":
-                print(f"Removing {annotation['species']} from {site_name}")
+
+                print(f"Removing {field} {name} from {site_name}")
                 # TODO: use higher taxon (phylum?) for scientificName and scientificNameID
-                occurrence_ids = list(occurrence_combined.loc[occurrence_combined["scientificName"] == annotation["species"].strip()]["occurrenceID"])
+                occurrence_ids = list(occurrence_combined.loc[occurrence_combined[field] == name]["occurrenceID"])
                 occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["class", "order", "family", "genus", "taxonRank"]] = None
                 occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["scientificName"]] = "incertae sedis"
                 occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["scientificNameID"]] = "urn:lsid:marinespecies.org:taxname:12"
                 occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["identificationRemarks"]] = "scientificName changed due to a manual annotation; " + occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["identificationRemarks"]]
 
             if (annotation["remove"] == False or annotation["remove"] == "false") and "new_AphiaID" in annotation:
-                print(f"Updating {annotation['species']} for {site_name}")
-                occurrence_ids = list(occurrence_combined.loc[occurrence_combined["scientificName"] == annotation["species"].strip()]["occurrenceID"])
+
+                print(f"Updating {field} {name} for {site_name}")
+                occurrence_ids = list(occurrence_combined.loc[occurrence_combined[field] == name]["occurrenceID"])
                 new_taxon = pyworms.aphiaRecordByAphiaID(str(annotation["new_AphiaID"]).strip())
                 occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["kingdom"]] = new_taxon["kingdom"]
                 occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["phylum"]] = new_taxon["phylum"]
