@@ -7,3 +7,5 @@ pacman-pipeline-results
 .env
 output.zip
 dev.R
+__pycache__
+
