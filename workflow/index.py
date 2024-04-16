@@ -9,8 +9,6 @@ PROJECT_NAMES = ["eDNAexpeditions_batch1_samples", "eDNAexpeditions_batch2_sampl
 OCCURRENCE_FILE = "Occurrence_table.tsv"
 DNA_FILE = "DNA_extension_table.tsv"
 OUPUT_FOLDER = "output"
-# TODO: read contaminants from JSON
-CONTAMINANTS = ["Homo", "Sus", "Gallus", "Canis", "Bos", "Felis", "Ovis", "Mus", "Vulpes", "Rattus", "Capra", "Rangifer", "Macaca"]
 REMOVE_CONTAMINANTS = True
 REMOVE_BLANK = True
 
@@ -97,7 +95,7 @@ for site_name in folders_by_site:
             if annotation["remove"] == True or annotation["remove"] == "true":
                 print(f"Removing {annotation['species']} from {site_name}")
                 # TODO: use higher taxon (phylum?) for scientificName and scientificNameID
-                occurrence_ids = list(occurrence_combined.loc[occurrence_combined["scientificName"] == annotation["species"]]["occurrenceID"])
+                occurrence_ids = list(occurrence_combined.loc[occurrence_combined["scientificName"] == annotation["species"].strip()]["occurrenceID"])
                 occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["class", "order", "family", "genus", "taxonRank"]] = None
                 occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["scientificName"]] = "incertae sedis"
                 occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["scientificNameID"]] = "urn:lsid:marinespecies.org:taxname:12"
@@ -105,8 +103,8 @@ for site_name in folders_by_site:
 
             if (annotation["remove"] == False or annotation["remove"] == "false") and "new_AphiaID" in annotation:
                 print(f"Updating {annotation['species']} for {site_name}")
-                occurrence_ids = list(occurrence_combined.loc[occurrence_combined["scientificName"] == annotation["species"]]["occurrenceID"])
-                new_taxon = pyworms.aphiaRecordByAphiaID(annotation["new_AphiaID"])
+                occurrence_ids = list(occurrence_combined.loc[occurrence_combined["scientificName"] == annotation["species"].strip()]["occurrenceID"])
+                new_taxon = pyworms.aphiaRecordByAphiaID(str(annotation["new_AphiaID"]).strip())
                 occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["kingdom"]] = new_taxon["kingdom"]
                 occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["phylum"]] = new_taxon["phylum"]
                 occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["class"]] = new_taxon["class"]
@@ -121,10 +119,16 @@ for site_name in folders_by_site:
     # remove contaminants
 
     if REMOVE_CONTAMINANTS:
-        contaminants = occurrence_combined[occurrence_combined["genus"].isin(CONTAMINANTS)]
-        contaminant_ids = contaminants["occurrenceID"].tolist()
-        occurrence_combined = occurrence_combined[~occurrence_combined["occurrenceID"].isin(contaminant_ids)]
-        dna_combined = dna_combined[~dna_combined["occurrenceID"].isin(contaminant_ids)]
+
+        with open(f"annotations/contaminants.json") as f:
+            annotations = json.load(f)
+
+        for annotation in annotations:
+            for rank, name in annotation.items():
+                print(f"Removing {rank} {name} from {site_name}")
+                occurrence_ids = list(occurrence_combined.loc[occurrence_combined[rank.strip()] == name.strip()]["occurrenceID"])
+                occurrence_combined = occurrence_combined[~occurrence_combined["occurrenceID"].isin(occurrence_ids)]
+                dna_combined = dna_combined[~dna_combined["occurrenceID"].isin(occurrence_ids)]
 
     # output
 
