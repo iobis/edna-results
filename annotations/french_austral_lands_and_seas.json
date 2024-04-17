@@ -1518,6 +1518,11 @@
         "new_AphiaID": 1301204,
         "remove": "false",
         "comment": "change to genus"
+    },
+    {
+        "site": "French Austral Lands and Seas",
+        "species": "Aporocidaris milleri",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/29"
     }
 ]
-

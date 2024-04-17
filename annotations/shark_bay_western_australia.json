@@ -1394,6 +1394,150 @@
         "AphiaID": 126425,
         "remove": "true",
         "comment": "cross-contamination"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Coris picta",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Discotrema crinophilum",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Epinephelus multinotatus",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27 but not removing for now as we have previous observations, also good genetic evidence"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Eucinostomus gula",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Gerres decacanthus",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Hypoatherina temminckii",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Hypophthalmichthys molitrix",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Leiopotherapon aheneus",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Lepadichthys frenatus",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Liachirus melanospilos",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27 but not removing for now as we have previous observations in GBIF"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Mugilogobius mertoni",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Mulloidichthys vanicolensis",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Nematalosa erebi",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pagrus major",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pentapodus paradiseus",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27; we have Reef Life Survey observations but sequence similarity is not very good"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pentapodus setosus",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Planiliza macrolepis",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Platycephalus indicus",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Plectorhinchus chrysotaenia",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Plectorhinchus schotaf",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Plectropglyphidodon apicalis",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Pomacentrus wardi",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Saurida wanieso",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
+        "species": "Urocampus carinirostris",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/27"
     }
 ]
 
