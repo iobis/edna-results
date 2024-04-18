@@ -884,6 +884,395 @@
         "AphiaID": 278114,
         "remove": "true",
         "comment": "cross-contamination"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Bellerochea polymorpha",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Ditylum brightwellii",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Navicula tsukamotoi",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Pseudo-nitzschia cuspidata",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Skeletonema ardens",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Skeletonema menzelii",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Bathycoccus prasinos",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Dolichomastix tenuilepis",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Micromonas pusilla",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Chloroparvula pacifica",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Chloropicon roscoffensis",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Gephyrocapsa oceanica",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Pelagomonas calceolata",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Chattonella marina",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Fibrocapsa japonica",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Flaccisagitta enflata",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Anas poecilorhyncha",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Anser cygnoides",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Columba livia",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Numenius phaeopus",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Bestiolina similis",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Centropages tenuiremis",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Labidocera pectinata",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Labidocera rotunda",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Oithona attenuate",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Paracalanus indicus",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Parvocalanus crassirostris",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Subeucalanus subcrassus",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Subeucalanus subtenuis",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Thermocyclops decipiens",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Tortanus (Tortanus) forcipatus",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Acetes sibogae",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Clibanarius padavensis",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Metopograpsus latifrons",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Amphibalanus rhizophorae",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Nanozoanthus harenaceus",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Clytia folleata",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Amphioplus (Lymanella) laevis",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Pastinachus solocirostris",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Urogymnus polylepis",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Boleophthalmus pectinirostris",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Butis humeralis",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Butis koilomatodon",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Butis melanostigma",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Eleutheronema rhadinum",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Eucinostomus gula",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Glossogobius aureus",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Heteropneustes fossilis",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Hypophthalmichthys nobilis",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Labeo bata",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Omobranchus zebra",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Notopterus notopterus",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Paraplotosus albilabris",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Planiliza tade",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Platycephalus cultellatus",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Plicofollis argyropleuron",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Puntius sophore",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Sillago maculata",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Cladosporium herbarum",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Macaca mulatta",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Gymnodoris pattani",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Pseudomphala latericea",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Heterocapsa rotundata",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Leucocryptos marina",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/31"
     }
 ]
-
