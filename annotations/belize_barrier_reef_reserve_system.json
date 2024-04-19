@@ -1149,6 +1149,1086 @@
         "AphiaID": 480249,
         "remove": "true",
         "comment": "Bacteria"
-    }
+    },
+    {
+        "species": "Cylindrotheca closterium",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Bellerochea polymorpha",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Navicula minima",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Dolichomastix tenuilepis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Bathycoccus prasinos",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Mantoniella squamata",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Micromonas commoda",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Micromonas pusilla",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Pycnococcus provasolii",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Oltmannsiellopsis viridis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Chloropicon laureae",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Chloropicon roscoffensis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Chloropicon sieburthii",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Gephyrocapsa huxleyi",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Phaeocystis globosa",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Chrysochromulina tobinii",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Chrysoparadoxa australica",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Octactis octonaria",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Aureococcus anophagefferens",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Pelagomonas calceolata",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Cladosiphon okamuranus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Pinguiococcus pyrenoidosus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Fibrocapsa japonica",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Centroceras hyalacanthum",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Chondria baileyana",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Dasya collinsiana",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Dasya spinuligera",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Digenea arenahauriens",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Herposiphonia pecten-veneris",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Herposiphonia secunda",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Laurencia obtusa",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Harveylithon munitum",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Neogoniolithon rhizophorae",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Meredithia crenata",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Champia hasselbringii",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Flaccisagitta enflata",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Krohnitta subtilis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Sagitta helenae",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Stauridiosarsia nipponica",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Campanularia hincksii",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Laodicea undulata",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Solmundella bitentaculata",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Agalma okenii",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Forskalia edwardsii",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Halistemma rubrum",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Lensia campanella",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Lilyopsis fluoracantha",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Nanomia bijuga",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Rhizophysa filiformis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Sphaeronectes koellikeri",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Aglaura hemistoma",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Bolinopsis vitrea",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Ocyropsis crystallina",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Vallicula multiformis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Calocalanus styliremis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Clausocalanus furcatus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Delius nudus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Paracalanus quasimodo",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Temora stylifera",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Temora turbinata",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Undinula vulgaris",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Oncaea waldemari",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Pseudevadne tergestina",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Achelous depressifrons",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Achelous ordwayi",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Actaea acantha",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Amphithrax aculeatus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Calappa gallus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Garthiope barbadensis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Metapenaeopsis gerardoi",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Neocallichirus grandimana",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Paractaea rufopunctata",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Penaeus notialis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Pilumnus longleyi",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Portunus sanguinolentus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Troglocarcinus corallicola",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Williamstimpsonia denticulatus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Euphausia mutica",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Astropecten articulatus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Leptosynapta tenuis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Aetobatus flagellum",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Hypleurochilus geminatus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Starksia ocellata",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Seriola rivoliana",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30 but https://www.fishbase.se/summary/1007"
+      },
+      {
+        "species": "Trachinotus carolinus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30 but https://fishbase.mnhn.fr/summary/380"
+      },
+      {
+        "species": "Gambusia affinis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Poecilia sphenops",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Anisotremus scapularis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Archosargus probatocephalus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30 but https://fishbase.mnhn.fr/summary/441"
+      },
+      {
+        "species": "Lutjanus campechanus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30 but https://www.fishbase.se/summary/Lutjanus-campechanus"
+      },
+      {
+        "species": "Pristipomoides argyrogrammicus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Pristipomoides macrophthalmus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30 but https://fishbase.mnhn.fr/summary/206"
+      },
+      {
+        "species": "Sparisoma axillare",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Tomicodon reitzae",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30 but https://fishbase.mnhn.fr/summary/60707"
+      },
+      {
+        "species": "Oxyurichthys stigmalophius",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30 but https://fishbase.mnhn.fr/summary/3867"
+      },
+      {
+        "species": "Tigrigobius macrodon",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30 but https://fishbase.mnhn.fr/summary/Tigrigobius-macrodon"
+      },
+      {
+        "species": "Sargocentron bullisi",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30 but https://www.fishbase.se/summary/Sargocentron-bullisi"
+      },
+      {
+        "species": "Mulloidichthys vanicolensis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Dasyscopelus obtusirostris",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30 but https://www.fishbase.se/summary/7416"
+      },
+      {
+        "species": "Diaphus dumerilii",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Diaphus splendidus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30 but https://fishbase.mnhn.fr/summary/10174"
+      },
+      {
+        "species": "Abudefduf vaigiensis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Hyporthodus niveatus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30 but https://fishbase.mnhn.fr/summary/hyporthodus-niveatus"
+      },
+      {
+        "species": "Salmo salar",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Gempylus serpens",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30 but https://fishbase.mnhn.fr/summary/1041"
+      },
+      {
+        "species": "Katsuwonus pelamis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30 but https://www.fishbase.se/summary/107"
+      },
+      {
+        "species": "Nesiarchus nasutus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30 but https://fishbase.mnhn.fr/summary/7573"
+      },
+      {
+        "species": "Cyclothone pseudopallida",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30 but https://fishbase.mnhn.fr/summary/6967"
+      },
+      {
+        "species": "Aulostomus chinensis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Canthidermis maculata",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30 but see https://www.fishbase.se/summary/Canthidermis-maculata.html"
+      },
+      {
+        "species": "Sphoeroides annulatus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Sphoeroides parvus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "false",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30 but https://www.fishbase.se/summary/Sphoeroides-parvus.html"
+      },
+      {
+        "species": "Cladosporium herbarum",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Fusarium oxysporum",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Gliomastix murorum",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Laevicardium serratum",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Gastrochaena ovata",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Spondylus tenuis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Chione subimbricata",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Octopus taganga",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Abralia redfieldi",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Abralia veranyi",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Aplysia parvula",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Camachoaglaja mariagordae",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Chelidonura alisonae",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Haminoea antillarum",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Philinopsis pusa",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Spinoaglaja petra",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Petaloconchus keenae",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Pleurobranchus areolatus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Corolla spectabilis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Diacavolinia longirostris",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Elysia buonoi",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Amathia evelinae",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Ascidia ahodori",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Neofibularia nolitangere",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Cliona celata",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Cliona tenuis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Cliothosa delitrix",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Pione vastifica",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Igernella notabilis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Cladocroce burapha",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Gelliodes wilsoni",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Clathria (Clathria) prolifera",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Clathria (Clathria) unica",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Clathria (Thalysias) abietina",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Clathria (Wilsonella) rugosa",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Desmoxya pelagiae",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Mycale (Carmia) cecilia",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Pandaros acanthifolium",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Phorbas plumosus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Thoosa purpurea",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Plakortis deweerdtaephila",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Neoparamoeba aestuarina",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Neoparamoeba pemaquidensis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Amphidinium massartii",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Protoceratium reticulatum",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Kryptoperidinium triquetrum",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Notopygos caribea",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Glycinde multidens",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Pisione hartmannschroederae",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Syllis ypsiloides",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Sabellastarte spectabilis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Isolda bipinnata",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Loimia medusa",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Timarete ceciliae",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Capitella nonatoi",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Aspidosiphon (Aspidosiphon) gosnoldi",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Siphonosoma vastum",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Tetrastemma herthae",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Rhombognathus areolatus",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Porroecia spinirostris",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Schizophyllum commune",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Bigelowiella natans",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Chlorarachnion reptans",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Hemiarma marina",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Urodasys calicostylis",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Ptychodera flava",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Prasinoderma coloniale",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      },
+      {
+        "species": "Convolutriloba longifissura",
+        "site": "Belize Barrier Reef Reserve System",
+        "remove": "true",
+        "comment": "https://github.com/iobis/edna-species-lists/issues/30"
+      }
 ]
 
