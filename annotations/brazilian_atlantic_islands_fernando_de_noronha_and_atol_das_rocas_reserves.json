@@ -1238,7 +1238,7 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Salmo salar",
         "AphiaID": 127186,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",

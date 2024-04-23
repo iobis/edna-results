@@ -1571,6 +1571,12 @@
         "species": "Zonosagitta pulchra",
         "AphiaID": 266888,
         "remove": "false"
+    },
+    {
+        "site": "Coiba National Park and its Special Zone of Marine Protection",
+        "species": "Citharichthys sordidus",
+        "remove": "true",
+        "comment": "https://fishbase.mnhn.fr/summary/4215"
     }
 ]
 

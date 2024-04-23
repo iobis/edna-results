@@ -731,6 +731,11 @@
         "AphiaID": 278114,
         "remove": "true",
         "comment": "cross-contamination"
-    }
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Boreogadus saida",
+        "remove": "true",
+        "comment": "Boreogadus saida"
 ]
 
