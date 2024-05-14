@@ -737,5 +737,11 @@
         "species": "Boreogadus saida",
         "remove": "true",
         "comment": "Boreogadus saida"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Conodon nobilis",
+        "remove": "true",
+        "comment": "https://www.fishbase.se/summary/SpeciesSummary.php?id=401"
     }
 ]
