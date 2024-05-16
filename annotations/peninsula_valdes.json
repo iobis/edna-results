@@ -10,7 +10,7 @@
         "site": "Peninsula Valdès",
         "species": "Acinetospora filamentosa",
         "AphiaID": 1369205,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -23,7 +23,7 @@
         "site": "Peninsula Valdès",
         "species": "Acrochaetium moniliforme",
         "AphiaID": 144372,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -134,13 +134,13 @@
         "site": "Peninsula Valdès",
         "species": "Attheya longicornis",
         "AphiaID": 464444,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Aureococcus anophagefferens",
         "AphiaID": 375699,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -152,7 +152,7 @@
         "site": "Peninsula Valdès",
         "species": "Bathycoccus prasinos",
         "AphiaID": 345459,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -223,13 +223,13 @@
         "site": "Peninsula Valdès",
         "species": "Callithamnion corymbosum",
         "AphiaID": 144526,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Callithamnion tetragonum",
         "AphiaID": 144529,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -255,13 +255,13 @@
         "site": "Peninsula Valdès",
         "species": "Capitella nonatoi",
         "AphiaID": 1253304,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Capitella teleta",
         "AphiaID": 592089,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -275,13 +275,13 @@
         "site": "Peninsula Valdès",
         "species": "Cephalothrix hermaphroditicus",
         "AphiaID": 573287,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Ceramium secundatum",
         "AphiaID": 144562,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -449,7 +449,7 @@
         "site": "Peninsula Valdès",
         "species": "Coscinodiscus granii",
         "AphiaID": 149271,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -468,14 +468,14 @@
         "site": "Peninsula Valdès",
         "species": "Dasya tenuis",
         "AphiaID": 375254,
-        "remove": "false",
+        "remove": "true",
         "comment": "100% match, wrong area"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Desmapsamma anchorata",
         "AphiaID": 169121,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -517,7 +517,7 @@
         "site": "Peninsula Valdès",
         "species": "Ditylum brightwellii",
         "AphiaID": 149023,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -530,7 +530,7 @@
         "site": "Peninsula Valdès",
         "species": "Dudresnaya verticillata",
         "AphiaID": 145226,
-        "remove": "false",
+        "remove": "true",
         "comment": "lab contamination?"
     },
     {
@@ -592,7 +592,7 @@
         "site": "Peninsula Valdès",
         "species": "Eurychasma dicksonii",
         "AphiaID": 172155,
-        "new_AphiaID": 172155,
+        "new_AphiaID": 172154,
         "remove": "false",
         "comment": "change to genus"
     },
@@ -600,7 +600,7 @@
         "site": "Peninsula Valdès",
         "species": "Eutrichosiphonia paniculata",
         "AphiaID": 1660526,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -757,19 +757,19 @@
         "site": "Peninsula Valdès",
         "species": "Hemiselmis andersenii",
         "AphiaID": 623449,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Heterocapsa rotundata",
         "AphiaID": 110152,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Hybocodon chilensis",
         "AphiaID": 285971,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -835,7 +835,7 @@
         "site": "Peninsula Valdès",
         "species": "Isozoanthus sulcatus",
         "AphiaID": 101053,
-        "remove": "false",
+        "remove": "true",
         "comment": "100% match, wrong area"
     },
     {
@@ -848,7 +848,7 @@
         "site": "Peninsula Valdès",
         "species": "Laeonereis culveri",
         "AphiaID": 333727,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -910,13 +910,13 @@
         "site": "Peninsula Valdès",
         "species": "Leptonematella fasciculata",
         "AphiaID": 144945,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Leuckartiara octona",
         "AphiaID": 117791,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -950,7 +950,7 @@
         "site": "Peninsula Valdès",
         "species": "Liriope tetraphylla",
         "AphiaID": 117568,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1034,7 +1034,7 @@
         "site": "Peninsula Valdès",
         "species": "Maurolicus muelleri",
         "AphiaID": 127312,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1061,7 +1061,7 @@
         "site": "Peninsula Valdès",
         "species": "Micromonas pusilla",
         "AphiaID": 134564,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1073,13 +1073,13 @@
         "site": "Peninsula Valdès",
         "species": "Microstomum compositum",
         "AphiaID": 1584220,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Microstomum septentrionale",
         "AphiaID": 142799,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1135,21 +1135,21 @@
         "site": "Peninsula Valdès",
         "species": "Myrionema balticum",
         "AphiaID": 144976,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Myrionema strangulans",
         "AphiaID": 144985,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Myxodes viridis",
         "AphiaID": 281629,
-        "new_AphiaID": 281629,
+        "new_AphiaID": 269939,
         "remove": "false",
-        "comment": "change to genus, np gpod match"
+        "comment": "change to genus, no good match"
     },
     {
         "site": "Peninsula Valdès",
@@ -1211,7 +1211,7 @@
         "site": "Peninsula Valdès",
         "species": "Nusuttodinium poecilochroum",
         "AphiaID": 840906,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1231,7 +1231,7 @@
         "site": "Peninsula Valdès",
         "species": "Odontella regia",
         "AphiaID": 149094,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1269,7 +1269,7 @@
         "site": "Peninsula Valdès",
         "species": "Orthopyxis crenata",
         "AphiaID": 117391,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1304,25 +1304,25 @@
         "site": "Peninsula Valdès",
         "species": "Palmaria palmata",
         "AphiaID": 145771,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Papenfussiella kuromo",
         "AphiaID": 144928,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Paracalanus brasiliensis",
         "AphiaID": 1526724,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Paracalanus quasimodo",
         "AphiaID": 354162,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1358,7 +1358,7 @@
         "site": "Peninsula Valdès",
         "species": "Paranais litoralis",
         "AphiaID": 137485,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1376,7 +1376,7 @@
         "site": "Peninsula Valdès",
         "species": "Pelagomonas calceolata",
         "AphiaID": 345504,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1416,7 +1416,7 @@
         "site": "Peninsula Valdès",
         "species": "Petalonia tenella",
         "AphiaID": 1356721,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1430,7 +1430,7 @@
         "site": "Peninsula Valdès",
         "species": "Phaeocystis globosa",
         "AphiaID": 160538,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1463,7 +1463,8 @@
         "site": "Peninsula Valdès",
         "species": "Phoenicopterus ruber",
         "AphiaID": 212708,
-        "remove": "false"
+        "remove": "true",
+        "comment": "flamingo"
     },
     {
         "site": "Peninsula Valdès",
@@ -1483,7 +1484,7 @@
         "site": "Peninsula Valdès",
         "species": "Phycodrys antarctica",
         "AphiaID": 325548,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1504,13 +1505,13 @@
         "site": "Peninsula Valdès",
         "species": "Planosiphon gracilis",
         "AphiaID": 1360916,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Pleurosigma inscriptura",
         "AphiaID": 708204,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1524,20 +1525,20 @@
         "site": "Peninsula Valdès",
         "species": "Plumularia duseni",
         "AphiaID": 285241,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Podon intermedius",
         "AphiaID": 106276,
-        "remove": "false",
+        "remove": "true",
         "comment": "100 % match, wrong area"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Podosira stelligera",
         "AphiaID": 149060,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1556,27 +1557,25 @@
         "site": "Peninsula Valdès",
         "species": "Polysiphonia devoniensis",
         "AphiaID": 144626,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Polysiphonia radiata",
         "AphiaID": 1356536,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Polysiphonia villum",
         "AphiaID": 497690,
-        "new_AphiaID": 144664,
-        "remove": "false",
-        "comment": "change to Polysiphonia scopulorum"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Porphyra mumfordii",
         "AphiaID": 372642,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1589,13 +1588,13 @@
         "site": "Peninsula Valdès",
         "species": "Promesostoma dipterostylum",
         "AphiaID": 481009,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Protohydra leuckarti",
         "AphiaID": 117842,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1617,7 +1616,7 @@
         "site": "Peninsula Valdès",
         "species": "Pseudochattonella farcimen",
         "AphiaID": 531467,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1645,19 +1644,19 @@
         "site": "Peninsula Valdès",
         "species": "Pycnococcus provasolii",
         "AphiaID": 376073,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Pyropia orbicularis",
         "AphiaID": 841065,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Pyropia thuretii",
         "AphiaID": 626077,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1700,13 +1699,13 @@
         "site": "Peninsula Valdès",
         "species": "Sarsia striata",
         "AphiaID": 117490,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Sarsia tubulosa",
         "AphiaID": 117491,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1720,13 +1719,13 @@
         "site": "Peninsula Valdès",
         "species": "Schizoseris multifoliata",
         "AphiaID": 375360,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Scinaia capensis",
         "AphiaID": 211452,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1777,7 +1776,7 @@
         "site": "Peninsula Valdès",
         "species": "Spermothamnion cymosum",
         "AphiaID": 371529,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1805,7 +1804,7 @@
         "site": "Peninsula Valdès",
         "species": "Squamamoeba japonica",
         "AphiaID": 761218,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1825,13 +1824,13 @@
         "site": "Peninsula Valdès",
         "species": "Streblocladia camptoclada",
         "AphiaID": 371763,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
         "species": "Stylatula elegans",
         "AphiaID": 128537,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1881,7 +1880,7 @@
         "site": "Peninsula Valdès",
         "species": "Thalassionema nitzschioides",
         "AphiaID": 149093,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1895,7 +1894,7 @@
         "site": "Peninsula Valdès",
         "species": "Thalassiosira profunda",
         "AphiaID": 577742,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1909,7 +1908,7 @@
         "site": "Peninsula Valdès",
         "species": "Thalassiosira rotula",
         "AphiaID": 148942,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1937,7 +1936,7 @@
         "site": "Peninsula Valdès",
         "species": "Trypanosyllis zebra",
         "AphiaID": 131467,
-        "remove": "false"
+        "remove": "true"
     },
     {
         "site": "Peninsula Valdès",
@@ -1981,6 +1980,114 @@
         "AphiaID": 278114,
         "remove": "true",
         "comment": "cross-contamination"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Melita palmata",
+        "AphiaID": 102843,
+        "remove": "true"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Rhizosolenia delicatula",
+        "AphiaID": 149114,
+        "remove": "true"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Triceratium intricatum",
+        "AphiaID": 573667,
+        "remove": "true"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Stenella coeruleoalba",
+        "AphiaID": 137107,
+        "new_AphiaID": 254976
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Harengula jaguana",
+        "AphiaID": 277551,
+        "remove": "true"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Mugil curema",
+        "AphiaID": 159416,
+        "remove": "true"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Scomber japonicus",
+        "AphiaID": 127022,
+        "remove": "true"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Stromateus stellatus",
+        "AphiaID": 273999,
+        "remove": "true"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Tripos lineatus",
+        "AphiaID": 837459,
+        "remove": "true"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Acinetospora crinita",
+        "AphiaID": 145398,
+        "remove": "true"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Mesogloia vermiculata",
+        "AphiaID": 144924,
+        "remove": "true"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Microspongium stilophorae",
+        "AphiaID": 707754,
+        "remove": "true"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Punctaria latifolia",
+        "AphiaID": 145346,
+        "remove": "true"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Clionaopsis platei",
+        "AphiaID": 170489,
+        "remove": "true"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Halichondria (Halichondria) panicea",
+        "AphiaID": 165853,
+        "remove": "true"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Ahnfeltia plicata",
+        "AphiaID": 144422,
+        "remove": "true"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Carradoriella denudata",
+        "AphiaID": 1346675,
+        "remove": "true"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Grania pectinata",
+        "AphiaID": 1310072,
+        "remove": "true"
     }
 ]
 
