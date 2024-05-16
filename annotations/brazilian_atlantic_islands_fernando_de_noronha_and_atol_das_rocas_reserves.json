@@ -1,6 +1,14 @@
 [
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Abudefduf vaigiensis",
+        "AphiaID": 212879,
+        "new_AphiaID": 159288,
+        "remove": "false",
+        "comment": "review from site, change to Abudefduf saxatilis based on sequence"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Acanthotetilla walteri",
         "AphiaID": 255129,
         "remove": "false"
@@ -12,6 +20,13 @@
         "new_AphiaID": 308227,
         "remove": "false",
         "comment": "change to Albula goreensis"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Amastigomonas debruynei",
+        "AphiaID": 103429,
+        "remove": "true",
+        "comment": "review from site, no sequence?"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -40,6 +55,12 @@
         "species": "Amphiroa valonioides",
         "AphiaID": 372140,
         "remove": "true"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Anas platyrhynchos",
+        "AphiaID": 148791,
+        "remove": "review from site, true"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -83,13 +104,23 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Aphanta ligulata",
         "AphiaID": 1534768,
-        "remove": "false"
+        "new_AphiaID": 603162,
+        "remove": "false",
+        "comment": "review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Aplysia parvula",
         "AphiaID": 138757,
         "remove": "false"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Apogon maculatus",
+        "AphiaID": 159589,
+        "new_AphiaID": 125913,
+        "remove": "false",
+        "comment": "review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -142,6 +173,14 @@
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Bryx dunckeri",
+        "AphiaID": 159444,
+        "new_AphiaID": 159443,
+        "remove": "false",
+        "comment": "review from site, change to genus"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Bursa thomae",
         "AphiaID": 138944,
         "remove": "false"
@@ -174,13 +213,25 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Calocalanus minutus",
         "AphiaID": 346221,
-        "remove": "false"
+        "new_AphiaID": 104193,
+        "remove": "false",
+        "comment": "review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Campanularia hincksii",
         "AphiaID": 117364,
-        "remove": "false"
+        "new_AphiaID": 117029,
+        "remove": "false",
+        "comment": "review from site, change to genus"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Canthigaster rostrata",
+        "AphiaID": 127411,
+        "new_AphiaID": 126238,
+        "remove": "false",
+        "comment": "review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -278,7 +329,9 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Chondria baileyana",
         "AphiaID": 157315,
-        "remove": "false"
+        "new_AphiaID": 143906,
+        "remove": "false",
+        "comment": "Review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -338,7 +391,9 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Clavularia crassa",
         "AphiaID": 125338,
-        "remove": "false"
+        "new_AphiaID": 125286,
+        "remove": "false",
+        "comment": "review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -406,13 +461,17 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Dasya collinsiana",
         "AphiaID": 374974,
-        "remove": "false"
+        "new_AphiaID": 143870,
+        "remove": "false",
+        "comment": "review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Dasya spinuligera",
         "AphiaID": 373093,
-        "remove": "false"
+        "new_AphiaID": 143870,
+        "remove": "false",
+        "comment": "review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -432,13 +491,17 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Dictyota ceylanica",
         "AphiaID": 220786,
-        "remove": "false"
+        "new_AphiaID": 144086,
+        "remove": "false",
+        "comment": "Review from site, but 100% match. However, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Dictyota cymatophila",
         "AphiaID": 624271,
-        "remove": "false"
+        "new_AphiaID": 144086,
+        "remove": "false",
+        "comment": "Review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -450,7 +513,9 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Dictyota humifusa",
         "AphiaID": 145370,
-        "remove": "false"
+        "new_AphiaID": 144086,
+        "remove": "false",
+        "comment": "Review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -462,13 +527,24 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Dictyota pinnatifida",
         "AphiaID": 145378,
-        "remove": "false"
+        "new_AphiaID": 144086,
+        "remove": "false",
+        "comment": "Review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Dictyota rigida",
         "AphiaID": 220788,
-        "remove": "false"
+        "new_AphiaID": 144086,
+        "remove": "false",
+        "comment": "Review from site, change to genus"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Didymium nigripes",
+        "AphiaID": 1501278,
+        "remove": "true",
+        "comment": "Review from site, terrestrial"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -503,7 +579,9 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Elysia cornigera",
         "AphiaID": 420571,
-        "remove": "false"
+        "new_AphiaID": 137928,
+        "remove": "false",
+        "comment": "review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -623,7 +701,9 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Gymnothorax meleagris",
         "AphiaID": 217503,
-        "remove": "false"
+        "new_AphiaID": 271852,
+        "remove": "false",
+        "comment": "Review from site, change to Gymnothorax miliaris based on sequence"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -663,7 +743,9 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Halistemma rubrum",
         "AphiaID": 135490,
-        "remove": "false"
+        "new_AphiaID": 135389,
+        "remove": "false",
+        "comment": "review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -673,9 +755,19 @@
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Harengula humeralis",
+        "AphiaID": 367197,
+        "new_AphiaID": 204605,
+        "remove": "false",
+        "comment": "review from site, change to genus"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Harveylithon munitum",
         "AphiaID": 1041645,
-        "remove": "false"
+        "new_AphiaID": 1041642,
+        "remove": "false",
+        "comment": "review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -706,6 +798,14 @@
         "new_AphiaID": 131948,
         "remove": "false",
         "comment": "change to genus"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Hemiramphus far",
+        "AphiaID": 126389,
+        "new_AphiaID": 125695,
+        "remove": "false",
+        "comment": "review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -743,7 +843,9 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Hydroclathrus tenuis",
         "AphiaID": 214334,
-        "remove": "false"
+        "new_AphiaID": 144255,
+        "remove": "false",
+        "comment": "review from site, 100% match, but change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -789,7 +891,8 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Limaria pellucida",
         "AphiaID": 420751,
-        "remove": "false"
+        "remove": "true",
+        "comment": "review from site, only one match for sequence"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -809,7 +912,9 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Lobophora payriae",
         "AphiaID": 1369773,
-        "remove": "false"
+        "new_AphiaID": 144087,
+        "remove": "false",
+        "comment": "Review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -821,7 +926,8 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Lumbrineris perkinsi",
         "AphiaID": 327192,
-        "remove": "false"
+        "remove": "true",
+        "comment": "Review from site, only one good sequence match"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -851,6 +957,14 @@
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Malacoctenus triangulatus",
+        "AphiaID": 281503,
+        "new_AphiaID": 269781,
+        "remove": "false",
+        "comment": "Review from site, change to genus. Possibly local endemic species Malacoctenus lianae, but no reference to base this on"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Mantoniella squamata",
         "AphiaID": 134563,
         "new_AphiaID": 134532,
@@ -861,7 +975,8 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Marphysa regalis",
         "AphiaID": 329261,
-        "remove": "false"
+        "remove": "true",
+        "comment": "Review from site, remove only one good sequence match"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -883,7 +998,8 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Microcassiope minor",
         "AphiaID": 107429,
-        "remove": "false"
+        "remove": "true",
+        "comment": "review from site and no good match"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -907,13 +1023,24 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Mourgona germaineae",
         "AphiaID": 420578,
-        "remove": "false"
+        "remove": "true",
+        "comment": "review from site, remove no good sequence match"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Mugil cephalus",
         "AphiaID": 126983,
-        "remove": "false"
+        "new_AphiaID": 126032,
+        "remove": "false",
+        "comment": "review from site, change to genus"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Mugil liza",
+        "AphiaID": 273655,
+        "new_AphiaID": 126032,
+        "remove": "false",
+        "comment": "review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -933,7 +1060,8 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Myrianida pachycera",
         "AphiaID": 334043,
-        "remove": "false"
+        "remove": "true",
+        "comment": "review from site, only one match for sequence"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -975,7 +1103,9 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Neoporphyra haitanensis",
         "AphiaID": 1537062,
-        "remove": "false"
+        "new_AphiaID": 1537060,
+        "remove": "false",
+        "comment": "Review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -1011,9 +1141,19 @@
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Ophioblennius atlanticus",
+        "AphiaID": 126769,
+        "new_AphiaID": 125919,
+        "remove": "false",
+        "comment": "Review from site, change to genus. Possibly local Ophioblennius trinitatis, but no reference to base this on"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Ophiocomella sexradia",
         "AphiaID": 213452,
-        "remove": "false"
+        "new_AphiaID": 204545,
+        "remove": "false",
+        "comment": "Review from site, change to genus."
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -1126,7 +1266,9 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Phyllochaetopterus verrilli",
         "AphiaID": 330566,
-        "remove": "false"
+        "new_AphiaID": 129232,
+        "remove": "false",
+        "comment": "review from the site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -1138,7 +1280,8 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Pione vastifica",
         "AphiaID": 157411,
-        "remove": "false"
+        "remove": "true",
+        "comment": "review from site, no good sequence match"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -1152,7 +1295,9 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Pisione hartmannschroederae",
         "AphiaID": 330724,
-        "remove": "false"
+        "new_AphiaID": 129469,
+        "remove": "false",
+        "comment": "review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -1170,13 +1315,24 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Polysiphonia pentamera",
         "AphiaID": 373938,
-        "remove": "false"
+        "new_AphiaID": 143853,
+        "remove": "false",
+        "comment": "review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Polysiphonia pseudovillum",
         "AphiaID": 373153,
-        "remove": "false"
+        "new_AphiaID": 143853,
+        "remove": "false",
+        "comment": "review from site, change to genus"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Prasinoderma coloniale",
+        "AphiaID": 375881,
+        "remove": "true",
+        "comment": "review from site, only one match for sequence"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -1206,13 +1362,17 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Ptychodera flava",
         "AphiaID": 210065,
-        "remove": "false"
+        "new_AphiaID": 206190,
+        "remove": "false",
+        "comment": "review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Rhodachlya hawaiiana",
         "AphiaID": 708100,
-        "remove": "false"
+        "new_AphiaID": 603165,
+        "remove": "false",
+        "comment": "review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -1260,7 +1420,8 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Scopalina ruetzleri",
         "AphiaID": 165702,
-        "remove": "false"
+        "remove": "false",
+        "comment": "review from site, but registered distribution at site"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -1286,7 +1447,17 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Siphonosoma vastum",
         "AphiaID": 266513,
-        "remove": "false"
+        "new_AphiaID": 136030,
+        "remove": "false",
+        "comment": "Review from site, change to genus"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Sparisoma rubripinne",
+        "AphiaID": 159301,
+        "new_AphiaID": 126051,
+        "remove": "false",
+        "comment": "Review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -1346,6 +1517,13 @@
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Syllis gracilis",
+        "AphiaID": 131435,
+        "remove": "true",
+        "comment": "Review from site, no good match"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Terpios gelatinosus",
         "AphiaID": 1041930,
         "new_AphiaID": 132073,
@@ -1392,13 +1570,17 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Thoosa purpurea",
         "AphiaID": 579402,
-        "remove": "false"
+        "new_AphiaID": 132031,
+        "remove": "false",
+        "comment": "review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Thuridilla mazda",
         "AphiaID": 420576,
-        "remove": "false"
+        "new_AphiaID": 137929,
+        "remove": "false",
+        "comment": "Review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -1474,7 +1656,9 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Biecheleria cincta",
         "AphiaID": 840029,
-        "remove": "false"
+        "new_AphiaID": 603334,
+        "remove": "false",
+        "comment": "review from site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -1487,7 +1671,9 @@
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Bosellia mimetica",
         "AphiaID": 138851,
-        "remove": "false"
+        "new_AphiaID": 137696,
+        "remove": "false",
+        "comment": "review from the site, change to genus"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
@@ -1559,6 +1745,14 @@
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Paramoeba aestuarina",
+        "AphiaID": 120622,
+        "new_AphiaID": 120552,
+        "remove": "false",
+        "comment": "review from site, change to genus"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
         "species": "Pelates quadrilineatus",
         "AphiaID": 127077,
         "remove": "true",
@@ -1570,6 +1764,37 @@
         "AphiaID": 1491271,
         "remove": "true",
         "comment": "insect"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Sparisoma chrysopterum",
+        "AphiaID": 273774,
+        "new_AphiaID": 126051,
+        "remove": "false",
+        "comment": "review from site, change to genus"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Sparisoma viride",
+        "AphiaID": 273780,
+        "new_AphiaID": 126051,
+        "remove": "false",
+        "comment": "review from site, change to genus"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Thalassoma bifasciatum",
+        "AphiaID": 159786,
+        "new_AphiaID": 126024,
+        "remove": "false",
+        "comment": "review from site, change to genus"
+    },
+    {
+        "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+        "species": "Tomicodon cryptus",
+        "AphiaID": 282991,
+        "remove": "true",
+        "comment": "review from site, no good match"
     },
     {
         "site": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
