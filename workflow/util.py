@@ -15,7 +15,8 @@ def fetch_metadata() -> dict:
         return data
 
 
-def fetch_metadata_df(remove_blank):
+# def fetch_metadata_df(remove_blank):
+def fetch_metadata_df():
     metadata = fetch_metadata()
 
     metadata_df = pd.DataFrame.from_dict([{
@@ -29,10 +30,10 @@ def fetch_metadata_df(remove_blank):
         "locationID": sample["station"]
     } for sample in metadata["samples"]])
 
-    if remove_blank:
-        metadata_df = metadata_df[metadata_df["blank"] == False]
+    # if remove_blank:
+    #     metadata_df = metadata_df[metadata_df["blank"] == False]
 
-    metadata_df = metadata_df.drop(columns=["blank"])
+    # metadata_df = metadata_df.drop(columns=["blank"])
     return metadata_df
 
 
