@@ -2003,7 +2003,8 @@
         "site": "Peninsula Valdès",
         "species": "Stenella coeruleoalba",
         "AphiaID": 137107,
-        "new_AphiaID": 254976
+        "new_AphiaID": 254976,
+        "remove": "false"
     },
     {
         "site": "Peninsula Valdès",
