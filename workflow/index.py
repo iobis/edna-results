@@ -10,7 +10,77 @@ OCCURRENCE_FILE = "Occurrence_table.tsv"
 DNA_FILE = "DNA_extension_table.tsv"
 OUPUT_FOLDER = "output"
 REMOVE_CONTAMINANTS = True
-REMOVE_BLANK = True
+# REMOVE_BLANK = True
+
+
+# annotations processing
+
+def apply_annotations(df_occurrence: pd.DataFrame, site_name: str) -> pd.DataFrame:
+
+    with open(f"annotations/{site_name}.json") as f:
+        annotations = json.load(f)
+        for annotation in annotations:
+
+            if "species" in annotation:
+                field = "scientificName"
+                name = annotation["species"].strip()
+            elif "genus" in annotation:
+                field = "genus"
+                name = annotation["genus"].strip()
+            elif "family" in annotation:
+                field = "family"
+                name = annotation["family"].strip()
+            elif "order" in annotation:
+                field = "order"
+                name = annotation["order"].strip()
+            elif "class" in annotation:
+                field = "class"
+                name = annotation["class"].strip()
+            elif "phylum" in annotation:
+                field = "phylum"
+                name = annotation["phylum"].strip()
+
+            if annotation["remove"] == True or annotation["remove"] == "true":
+
+                print(f"Removing {field} {name} from {site_name}")
+                # TODO: use higher taxon (phylum?) for scientificName and scientificNameID
+                occurrence_ids = list(df_occurrence.loc[df_occurrence[field] == name]["occurrenceID"])
+                df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["class", "order", "family", "genus", "taxonRank"]] = None
+                df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["scientificName"]] = "incertae sedis"
+                df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["scientificNameID"]] = "urn:lsid:marinespecies.org:taxname:12"
+                df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["identificationRemarks"]] = "scientificName changed due to a manual annotation; " + df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["identificationRemarks"]]
+
+            if (annotation["remove"] == False or annotation["remove"] == "false") and "new_AphiaID" in annotation:
+
+                print(f"Updating {field} {name} for {site_name}")
+                occurrence_ids = list(df_occurrence.loc[df_occurrence[field] == name]["occurrenceID"])
+                new_taxon = pyworms.aphiaRecordByAphiaID(str(annotation["new_AphiaID"]).strip())
+                df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["kingdom"]] = new_taxon["kingdom"]
+                df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["phylum"]] = new_taxon["phylum"]
+                df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["class"]] = new_taxon["class"]
+                df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["order"]] = new_taxon["order"]
+                df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["family"]] = new_taxon["family"]
+                df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["genus"]] = new_taxon["genus"]
+                df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["scientificName"]] = new_taxon["scientificname"]
+                df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["scientificNameID"]] = new_taxon["lsid"]
+                df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["taxonRank"]] = new_taxon["rank"].lower()
+                df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["identificationRemarks"]] = "scientificName changed due to a manual annotation; " + df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["identificationRemarks"]]
+
+    # remove contaminants
+
+    if REMOVE_CONTAMINANTS:
+
+        with open(f"annotations/contaminants.json") as f:
+            annotations = json.load(f)
+
+        for annotation in annotations:
+            for rank, name in annotation.items():
+                print(f"Removing {rank} {name} from {site_name}")
+                occurrence_ids = list(df_occurrence.loc[df_occurrence[rank.strip()] == name.strip()]["occurrenceID"])
+                df_occurrence = df_occurrence[~df_occurrence["occurrenceID"].isin(occurrence_ids)]
+
+    return df_occurrence
+
 
 # download pipeline results from GitHub
 
@@ -18,13 +88,16 @@ download_results()
 
 # fetch metadata from PlutoF and format
 
-metadata_df = fetch_metadata_df(REMOVE_BLANK)
+# metadata_df = fetch_metadata_df(REMOVE_BLANK)
+metadata_df = fetch_metadata_df()
 
 # process by site
 
 folders_by_site = get_folders_by_site(PROJECT_NAMES)
 
 for site_name in folders_by_site:
+
+    print(f"Processing {site_name}")
 
     occurrence_tables = []
     dna_tables = []
@@ -82,79 +155,36 @@ for site_name in folders_by_site:
     occurrence_combined["materialSampleID"] = occurrence_combined["materialSampleID"].str.replace("EE0476", "EE0475")
     dna_combined["occurrenceID"] = dna_combined["occurrenceID"].str.replace("EE0476", "EE0475")
 
-    # merge metadata
+    # merge metadata, split blanks
 
-    occurrence_combined = pd.merge(occurrence_combined, metadata_df, on="materialSampleID", how="inner")
+    metadata_df_blank = metadata_df[metadata_df["blank"] == True]
+    metadata_df_notblank = metadata_df[metadata_df["blank"] == False]
+
+    occurrence_combined_blank = pd.merge(occurrence_combined, metadata_df_blank, on="materialSampleID", how="inner")
+    occurrence_combined_notblank = pd.merge(occurrence_combined, metadata_df_notblank, on="materialSampleID", how="inner")
 
     # apply annotations
 
-    with open(f"annotations/{site_name}.json") as f:
-        annotations = json.load(f)
-        for annotation in annotations:
+    # occurrence_combined_blank, dna_combined_blank = apply_annotations(occurrence_combined_blank, dna_combined_blank, site_name)
+    occurrence_combined_notblank = apply_annotations(occurrence_combined_notblank, site_name)
 
-            if "species" in annotation:
-                field = "scientificName"
-                name = annotation["species"].strip()
-            elif "genus" in annotation:
-                field = "genus"
-                name = annotation["genus"].strip()
-            elif "family" in annotation:
-                field = "family"
-                name = annotation["family"].strip()
-            elif "order" in annotation:
-                field = "order"
-                name = annotation["order"].strip()
-            elif "class" in annotation:
-                field = "class"
-                name = annotation["class"].strip()
-            elif "phylum" in annotation:
-                field = "phylum"
-                name = annotation["phylum"].strip()
+    # cleanup dna tables
 
-            if annotation["remove"] == True or annotation["remove"] == "true":
+    occurrence_ids_blank = list(occurrence_combined_blank["occurrenceID"])
+    occurrence_ids_notblank = list(occurrence_combined_notblank["occurrenceID"])
 
-                print(f"Removing {field} {name} from {site_name}")
-                # TODO: use higher taxon (phylum?) for scientificName and scientificNameID
-                occurrence_ids = list(occurrence_combined.loc[occurrence_combined[field] == name]["occurrenceID"])
-                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["class", "order", "family", "genus", "taxonRank"]] = None
-                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["scientificName"]] = "incertae sedis"
-                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["scientificNameID"]] = "urn:lsid:marinespecies.org:taxname:12"
-                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["identificationRemarks"]] = "scientificName changed due to a manual annotation; " + occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["identificationRemarks"]]
-
-            if (annotation["remove"] == False or annotation["remove"] == "false") and "new_AphiaID" in annotation:
-
-                print(f"Updating {field} {name} for {site_name}")
-                occurrence_ids = list(occurrence_combined.loc[occurrence_combined[field] == name]["occurrenceID"])
-                new_taxon = pyworms.aphiaRecordByAphiaID(str(annotation["new_AphiaID"]).strip())
-                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["kingdom"]] = new_taxon["kingdom"]
-                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["phylum"]] = new_taxon["phylum"]
-                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["class"]] = new_taxon["class"]
-                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["order"]] = new_taxon["order"]
-                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["family"]] = new_taxon["family"]
-                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["genus"]] = new_taxon["genus"]
-                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["scientificName"]] = new_taxon["scientificname"]
-                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["scientificNameID"]] = new_taxon["lsid"]
-                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["taxonRank"]] = new_taxon["rank"].lower()
-                occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["identificationRemarks"]] = "scientificName changed due to a manual annotation; " + occurrence_combined.loc[occurrence_combined["occurrenceID"].isin(occurrence_ids), ["identificationRemarks"]]
-
-    # remove contaminants
-
-    if REMOVE_CONTAMINANTS:
-
-        with open(f"annotations/contaminants.json") as f:
-            annotations = json.load(f)
-
-        for annotation in annotations:
-            for rank, name in annotation.items():
-                print(f"Removing {rank} {name} from {site_name}")
-                occurrence_ids = list(occurrence_combined.loc[occurrence_combined[rank.strip()] == name.strip()]["occurrenceID"])
-                occurrence_combined = occurrence_combined[~occurrence_combined["occurrenceID"].isin(occurrence_ids)]
-                dna_combined = dna_combined[~dna_combined["occurrenceID"].isin(occurrence_ids)]
+    dna_combined_blank = dna_combined[dna_combined["occurrenceID"].isin(occurrence_ids_blank)]
+    dna_combined_notblank = dna_combined[dna_combined["occurrenceID"].isin(occurrence_ids_notblank)]
 
     # output
 
     if not os.path.exists(OUPUT_FOLDER):
         os.makedirs(OUPUT_FOLDER)
+    if not os.path.exists(os.path.join(OUPUT_FOLDER, "blank")):
+        os.makedirs(os.path.join(OUPUT_FOLDER, "blank"))
 
-    occurrence_combined.to_csv(os.path.join("output", f"{site_name}_Occurrence.tsv"), sep="\t", index=False)
-    dna_combined.to_csv(os.path.join("output", f"{site_name}_DNADerivedData.tsv"), sep="\t", index=False)
+    occurrence_combined_blank.to_csv(os.path.join(OUPUT_FOLDER, "blank", f"{site_name}_Occurrence.tsv"), sep="\t", index=False)
+    dna_combined_blank.to_csv(os.path.join(OUPUT_FOLDER, "blank", f"{site_name}_DNADerivedData.tsv"), sep="\t", index=False)
+
+    occurrence_combined_notblank.to_csv(os.path.join(OUPUT_FOLDER, f"{site_name}_Occurrence.tsv"), sep="\t", index=False)
+    dna_combined_notblank.to_csv(os.path.join(OUPUT_FOLDER, f"{site_name}_DNADerivedData.tsv"), sep="\t", index=False)
