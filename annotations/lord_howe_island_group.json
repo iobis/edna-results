@@ -44,6 +44,14 @@
     },
     {
         "site": "Lord Howe Island Group",
+        "species": "Amblyglyphidodon leucogaster",
+        "AphiaID": 218779,
+        "new_AphiaID": 278815,
+        "remove": "false",
+        "comment": "Not in checklist, change to Neoglyphidodon polyacanthus based on ncbi"
+    },
+    {
+        "site": "Lord Howe Island Group",
         "species": "Amorphinopsis fenestrata",
         "AphiaID": 165722,
         "remove": "true"
@@ -128,6 +136,13 @@
     },
     {
         "site": "Lord Howe Island Group",
+        "species": "Atherinomorus lacunosus",
+        "AphiaID": 126331,
+        "remove": "false",
+        "comment": "Not in checklist, but good match, and no other local species recorded, keep"
+    },
+    {
+        "site": "Lord Howe Island Group",
         "species": "Bathygobius fuscus",
         "AphiaID": 209215,
         "new_AphiaID": 209216,
@@ -167,6 +182,14 @@
         "new_AphiaID": 103528,
         "remove": "false",
         "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Chaetodon collare",
+        "AphiaID": 273330,
+        "new_AphiaID": 218730,
+        "remove": "false",
+        "comment": "Not in checklist, based on sequence change to Chaetodon auriga"
     },
     {
         "site": "Lord Howe Island Group",
@@ -210,7 +233,8 @@
         "site": "Lord Howe Island Group",
         "species": "Calotomus spinidens",
         "AphiaID": 219075,
-        "remove": "false"
+        "remove": "false",
+        "comment": "Not in match list, but 100% match, and in area, keep"
     },
     {
         "site": "Lord Howe Island Group",
@@ -236,6 +260,20 @@
     },
     {
         "site": "Lord Howe Island Group",
+        "species": "Carcharhinus obscurus",
+        "AphiaID": 105796,
+        "remove": "false",
+        "comment": "Not in checklist, but 100% match, and in other islands, so keep"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Carcharhinus plumbeus",
+        "AphiaID": 105797,
+        "remove": "false",
+        "comment": "Not in checklist, but 100% match, and in other islands, so keep"
+    },
+    {
+        "site": "Lord Howe Island Group",
         "species": "Carminodoris grandiflora",
         "AphiaID": 872612,
         "remove": "false"
@@ -257,6 +295,22 @@
         "species": "Ceratoporella nicholsoni",
         "AphiaID": 164851,
         "remove": "true"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Ceratoscopelus warmingii",
+        "AphiaID": 126586,
+        "new_AphiaID": 125818,
+        "remove": "false",
+        "comment": "not in checklist, no good match, change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Cercamia eremia",
+        "AphiaID": 280082,
+        "new_AphiaID": 268689,
+        "remove": "false",
+        "comment": "not in checklist, no good match, change to genus"
     },
     {
         "site": "Lord Howe Island Group",
@@ -322,7 +376,9 @@
         "site": "Lord Howe Island Group",
         "species": "Chrysiptera galba",
         "AphiaID": 276831,
-        "remove": "false"
+        "new_AphiaID": 203924,
+        "remove": "false",
+        "comment": "Not in checklist and not close to the area, but very good match, change to genus"
     },
     {
         "site": "Lord Howe Island Group",
@@ -492,7 +548,8 @@
         "site": "Lord Howe Island Group",
         "species": "Cubiceps capensis",
         "AphiaID": 159423,
-        "remove": "false"
+        "remove": "false",
+        "comment": "Not in checklist, very good match, and circumglobal, keep"
     },
     {
         "site": "Lord Howe Island Group",
@@ -516,7 +573,8 @@
         "site": "Lord Howe Island Group",
         "species": "Decapterus macarellus",
         "AphiaID": 126807,
-        "remove": "false"
+        "remove": "false",
+        "comment": "Not in checklist, but 100% match, and not far, so keep"
     },
     {
         "site": "Lord Howe Island Group",
@@ -627,14 +685,21 @@
         "site": "Lord Howe Island Group",
         "species": "Eucinostomus gula",
         "AphiaID": 159733,
-        "remove": "false",
-        "comment": "to review"
+        "remove": "true",
+        "comment": "cross-contamination"
     },
     {
         "site": "Lord Howe Island Group",
         "species": "Eudendrium capillare",
         "AphiaID": 117544,
         "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Eviota afelei",
+        "AphiaID": 278580,
+        "remove": "true",
+        "comment":"Not in checklist, not a good sequence match, remove"
     },
     {
         "site": "Lord Howe Island Group",
@@ -674,7 +739,9 @@
         "site": "Lord Howe Island Group",
         "species": "Fowleria vaiulae",
         "AphiaID": 209402,
-        "remove": "false"
+        "new_AphiaID": 204550,
+        "remove": "false",
+        "comment": "change to genus"
     },
     {
         "site": "Lord Howe Island Group",
@@ -706,6 +773,7 @@
         "site": "Lord Howe Island Group",
         "species": "Gomphosus caeruleus",
         "AphiaID": 218976,
+        "new_AphiaID": 218975,
         "remove": "false",
         "comment": "change to Gomphosus varius"
     },
@@ -722,6 +790,14 @@
         "new_AphiaID": 144044,
         "remove": "false",
         "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Gymnothorax kidako",
+        "AphiaID": 271843,
+        "new_AphiaID": 217490,
+        "remove": "false",
+        "comment": "Not in checklist and closer match to chilospilus, change"
     },
     {
         "site": "Lord Howe Island Group",
@@ -844,6 +920,14 @@
     },
     {
         "site": "Lord Howe Island Group",
+        "species": "Hypoatherina temminckii",
+        "AphiaID": 217883,
+        "new_AphiaID": 204813,
+        "remove": "false",
+        "comment": "Not in checklist, not a good match, change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
         "species": "Hypoatherina tsurugae",
         "AphiaID": 277725,
         "new_AphiaID": 204813,
@@ -868,7 +952,16 @@
         "site": "Lord Howe Island Group",
         "species": "Hyporhamphus melanochir",
         "AphiaID": 272186,
-        "remove": "false"
+        "remove": "false",
+        "comment": "Not in checklist, but very good match, and from Australia, so keep"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Hyporhamphus yuri",
+        "AphiaID": 272201,
+        "new_AphiaID": 125696,
+        "remove": "false",
+        "comment": "Not in checklist, not good match, change to genus"
     },
     {
         "site": "Lord Howe Island Group",
@@ -966,7 +1059,8 @@
         "site": "Lord Howe Island Group",
         "species": "Matsubaraea fusiforme",
         "AphiaID": 1621428,
-        "remove": "false"
+        "remove": "true",
+        "comment": "not in checklist, no good match, remove"
     },
     {
         "site": "Lord Howe Island Group",
@@ -1018,7 +1112,8 @@
         "site": "Lord Howe Island Group",
         "species": "Mugil cephalus",
         "AphiaID": 126983,
-        "remove": "false"
+        "remove": "false",
+        "comment": "Not in checklist, but 100% match, and from the area"
     },
     {
         "site": "Lord Howe Island Group",
@@ -1140,11 +1235,28 @@
     },
     {
         "site": "Lord Howe Island Group",
+        "species": "Parapercis cylindrica",
+        "AphiaID": 219155,
+        "new_AphiaID": 204083,
+        "remove": "false",
+        "comment": "Not in checklist, not a good match, change to genus"
+
+    },
+    {
+        "site": "Lord Howe Island Group",
         "species": "Parougia albomaculata",
         "AphiaID": 758275,
         "new_AphiaID": 129261,
         "remove": "false",
         "comment": "change to Dorvillea"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Parma microlepis",
+        "AphiaID": 282156,
+        "new_AphiaID": 282152,
+        "remove": "false",
+        "comment": "Not in checklist, close match also to local species, change to Parma alboscapularis"
     },
     {
         "site": "Lord Howe Island Group",
@@ -1172,8 +1284,8 @@
         "site": "Lord Howe Island Group",
         "species": "Pempheris rapa",
         "AphiaID": 277067,
-        "remove": "false",
-        "comment": "to review"
+        "remove": "true",
+        "comment": "Not in chekclist, only 1 100% match to Pempheris, so possible annotation mistake, remove"
     },
     {
         "site": "Lord Howe Island Group",
@@ -1475,6 +1587,14 @@
     },
     {
         "site": "Lord Howe Island Group",
+        "species": "Scorpaena miostoma",
+        "AphiaID": 274724,
+        "new_AphiaID": 126171,
+        "remove": "false",
+        "comment": "Not in checklist, not a good match, change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
         "species": "Sigmaxinella hipposiderus",
         "AphiaID": 577142,
         "remove": "false"
@@ -1490,6 +1610,13 @@
         "species": "Sphyraena flavicauda",
         "AphiaID": 212051,
         "remove": "false"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Sphyraena obtusata",
+        "AphiaID": 212056,
+        "remove": "false",
+        "comment": "Not in checklist, but close match, and qc 1, keep"
     },
     {
         "site": "Lord Howe Island Group",
@@ -1656,6 +1783,14 @@
     },
     {
         "site": "Lord Howe Island Group",
+        "species": "Trachurus declivis",
+        "AphiaID": 273301,
+        "new_AphiaID": 125946,
+        "remove": "false",
+        "comment": "Not in checklist, not enough sequence resolution, change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
         "species": "Triactis producta",
         "AphiaID": 220506,
         "remove": "false"
@@ -1807,7 +1942,17 @@
         "site": "Lord Howe Island Group",
         "species": "Canthigaster rivulata",
         "AphiaID": 219937,
-        "remove": "false"
+        "new_AphiaID": 126238,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Canthigaster valentini",
+        "AphiaID": 219947,
+        "new_AphiaID": 126238,
+        "remove": "false",
+        "comment": "change to genus"
     },
     {
         "site": "Lord Howe Island Group",
@@ -1829,7 +1974,8 @@
         "site": "Lord Howe Island Group",
         "species": "Cheilopogon unicolor",
         "AphiaID": 217858,
-        "remove": "false"
+        "remove": "false",
+        "comment": "Not in checklist, 100% match, and not far, so keep"
     },
     {
         "site": "Lord Howe Island Group",
@@ -1885,6 +2031,14 @@
     },
     {
         "site": "Lord Howe Island Group",
+        "species": "Diodon liturosus",
+        "AphiaID": 219970,
+        "new_AphiaID": 127402,
+        "remove": "false",
+        "comment": "Not in the checklist, local species same match, change to Diodon holocanthus"
+    },
+    {
+        "site": "Lord Howe Island Group",
         "species": "Dudresnaya babbittiana",
         "AphiaID": 376532,
         "new_AphiaID": 144032,
@@ -1936,7 +2090,8 @@
         "site": "Lord Howe Island Group",
         "species": "Girella fimbriata",
         "AphiaID": 280860,
-        "remove": "false"
+        "remove": "false",
+        "comment":"Not in checklist, but close match, and found on another island, keep"
     },
     {
         "site": "Lord Howe Island Group",
@@ -2022,9 +2177,18 @@
     },
     {
         "site": "Lord Howe Island Group",
+        "species": "Kyphosus pacificus",
+        "AphiaID": 273524,
+        "remove": "false",
+        "comment": "Not in checklist, but 100% match and 1 qc, keep"
+    },
+    {
+        "site": "Lord Howe Island Group",
         "species": "Lampadena speculigera",
         "AphiaID": 126608,
-        "remove": "false"
+        "new_AphiaID": 125824,
+        "remove": "false",
+        "comment": "Not in checklist, not a good match, change to genus"
     },
     {
         "site": "Lord Howe Island Group",
@@ -2101,6 +2265,13 @@
     },
     {
         "site": "Lord Howe Island Group",
+        "species": "Microcanthus strigatus",
+        "AphiaID": 281558,
+        "remove": "false",
+        "comment": "Not in checklist, but 100% match and in area, keep"
+    },
+    {
+        "site": "Lord Howe Island Group",
         "species": "Minutocellus polymorphus",
         "AphiaID": 464449,
         "remove": "false"
@@ -2137,9 +2308,18 @@
     },
     {
         "site": "Lord Howe Island Group",
+        "species": "Naso lopezi",
+        "AphiaID": 278006,
+        "new_AphiaID": 219668,
+        "remove": "false",
+        "comment": "Not in checklist, and closer match to Naso unicornis, change"
+    },
+    {
+        "site": "Lord Howe Island Group",
         "species": "Nemadactylus valenciennesi",
         "AphiaID": 281655,
-        "remove": "false"
+        "remove": "false",
+        "comment": "Not in checklist, but very good match, and in area, keep"
     },
     {
         "site": "Lord Howe Island Group",
@@ -2209,6 +2389,21 @@
         "AphiaID": 234633,
         "remove": "true",
         "comment": "cross-contamination"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Pelates quadrilineatus",
+        "AphiaID": 127077,
+        "remove": "false",
+        "comment": "Not in checklist, very close match, keep"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Petroscirtes breviceps",
+        "AphiaID": 219331,
+        "new_AphiaID": 206616,
+        "remove": "false",
+        "comment": "Not in checklist, not a perfect match, change to genus"
     },
     {
         "site": "Lord Howe Island Group",
@@ -2327,7 +2522,9 @@
         "site": "Lord Howe Island Group",
         "species": "Siphamia fistulosa",
         "AphiaID": 277699,
-        "remove": "false"
+        "new_AphiaID": 204790,
+        "remove": "false",
+        "comment": "change to genus"
     },
     {
         "site": "Lord Howe Island Group",
@@ -2380,6 +2577,14 @@
         "new_AphiaID": 205664,
         "remove": "false",
         "comment": "change to genus"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Tylosurus crocodilus",
+        "AphiaID": 159259,
+        "new_AphiaID": 126377,
+        "remove": "false",
+        "comment": "Not in checklist, better match local species Platybelone argulus, change"
     },
     {
         "site": "Lord Howe Island Group",
