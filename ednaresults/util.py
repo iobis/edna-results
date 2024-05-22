@@ -1,53 +1,4 @@
-import os
-import urllib.request
-import json
-import pandas as pd
-
-
-def download_results() -> None:
-    if not os.path.exists("pacman-pipeline-results"):
-        os.system("git clone --depth 1 https://github.com/iobis/pacman-pipeline-results.git")
-
-
-def fetch_metadata() -> dict:
-    with urllib.request.urlopen("https://raw.githubusercontent.com/iobis/edna-tracker-data/data/generated.json") as url:
-        data = json.load(url)
-        return data
-
-
-# def fetch_metadata_df(remove_blank):
-def fetch_metadata_df():
-    metadata = fetch_metadata()
-
-    metadata_df = pd.DataFrame.from_dict([{
-        "materialSampleID": sample["name"],
-        "locality": sample["area_locality"],
-        "decimalLongitude": sample["area_longitude"],
-        "decimalLatitude": sample["area_latitude"],
-        "sampleSize": sample["size"],
-        "higherGeography": sample["parent_area_name"],
-        "blank": sample["blank"],
-        "locationID": sample["station"]
-    } for sample in metadata["samples"]])
-
-    # if remove_blank:
-    #     metadata_df = metadata_df[metadata_df["blank"] == False]
-
-    # metadata_df = metadata_df.drop(columns=["blank"])
-    return metadata_df
-
-
-def list_datasets(project_names) -> list:
-    datasets = []
-    for project_name in project_names:
-        root_folder = os.path.join("pacman-pipeline-results", project_name, "runs")
-        for dataset in os.listdir(root_folder):
-            if os.path.isdir(os.path.join(root_folder, dataset)):
-                datasets.append(os.path.join(root_folder, dataset))
-    return datasets
-
-
-def derive_site_name(input):
+def derive_site_name(input: str) -> str:
     site_dict = {
         "cocos": "cocos_island_national_park",
         "galapagos": "galapagos_islands",
@@ -104,17 +55,3 @@ def derive_marker_name(input: str) -> str:
         if key in input_lower:
             return marker_dict[key]
     raise Exception(f"Marker {input} not recognized")
-
-
-def get_folders_by_site(project_names):
-    dataset_folders = list_datasets(project_names)
-
-    folders_by_site = {}
-
-    for dataset_folder in dataset_folders:
-        dataset_name = derive_site_name(dataset_folder)
-        if dataset_name not in folders_by_site:
-            folders_by_site[dataset_name] = []
-        folders_by_site[dataset_name].append(dataset_folder)
-
-    return folders_by_site
