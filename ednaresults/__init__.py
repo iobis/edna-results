@@ -8,10 +8,9 @@ import logging
 import shutil
 import boto3
 from botocore.exceptions import NoCredentialsError
-from dotenv import load_dotenv
 
 
-class Builder():
+class OccurrenceBuilder():
 
     def __init__(
         self,
