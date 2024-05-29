@@ -8,4 +8,4 @@ pacman-pipeline-results
 output.zip
 dev.R
 __pycache__
-
+.vscode

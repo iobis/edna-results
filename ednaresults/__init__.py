@@ -18,13 +18,15 @@ class OccurrenceBuilder():
         occurrence_file="Occurrence_table.tsv",
         dna_file="DNA_extension_table.tsv",
         output_folder="output",
-        remove_contaminants=True
+        remove_contaminants=True,
+        list_generator=None
     ):
         self.project_names = project_names
         self.occurrence_file = occurrence_file
         self.dna_file = dna_file
         self.output_folder = output_folder
         self.remove_contaminants = remove_contaminants
+        self.list_generator = list_generator
 
     def download_results(self) -> None:
         logging.warning(f"Downloading pipeline results to {self.output_folder}\nRemove folder pacman-pipeline-results to force an update")
@@ -274,3 +276,8 @@ class OccurrenceBuilder():
 
             occurrence_combined_notblank.to_csv(os.path.join(self.output_folder, f"{site_name}_Occurrence.tsv"), sep="\t", index=False)
             dna_combined_notblank.to_csv(os.path.join(self.output_folder, f"{site_name}_DNADerivedData.tsv"), sep="\t", index=False)
+
+            # species lists
+
+            if self.list_generator is not None:
+                self.list_generator.run(site_name, occurrence_combined_notblank, dna_combined_notblank)

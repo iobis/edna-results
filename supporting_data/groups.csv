@@ -1,0 +1,40 @@
+taxon,rank,group
+Actinopteri,class,fish
+Cladistii,class,fish
+Coelacanthi,class,fish
+Elasmobranchii,class,fish
+Holocephali,class,fish
+Myxini,class,fish
+Petromyzonti,class,fish
+Teleostei,class,fish
+Testudines,order,turtles
+Mammalia,class,mammals
+Aves,class,birds
+Mollusca,phylum,molluscs
+Amphibia,class,amphibians
+Chlorophyta,phylum,algae
+Haptophyta,phylum,algae
+Rhodophyta,phylum,algae
+Ochrophyta,phylum,algae
+Bacillariophyta,phylum,algae
+Heterokontophyta,phylum,algae
+Echinodermata,phylum,echinoderms
+Porifera,phylum,sponges
+Cnidaria,phylum,cnidarians
+Ctenophora,phylum,cnidarians
+Cercozoa,phylum,unicellular
+Amoebozoa,phylum,unicellular
+Myzozoa,phylum,unicellular
+Ascomycota,phylum,fungi
+Oomycota,phylum,fungi
+Nemertea,phylum,worms
+Gnathostomulida,phylum,worms
+Annelida,phylum,worms
+Bryozoa,phylum,moss animals
+Phoronida,phylum,horseshoe worms
+Copepoda,class,copepods
+Malacostraca,class,crustaceans
+Thecostraca,class,crustaceans
+Branchiopoda,class,crustaceans
+Chaetognatha,phylum,arrow worms
+Ascidiacea,class,sea squirts
