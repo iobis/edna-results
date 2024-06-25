@@ -19,7 +19,7 @@ See https://github.com/iobis/edna-results/blob/master/docs/read.md.
 
 ## Species lists
 
-This package also outputs species lists, browse the lists [here]([here](https://obis-edna-lists.s3.amazonaws.com/index.html)).
+This package also outputs species lists, browse the lists [here](https://obis-edna-lists.s3.amazonaws.com/index.html).
 
 ## For maintainers
 
