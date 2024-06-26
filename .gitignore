@@ -1,5 +1,6 @@
 .DS_Store
 output
+output_lists
 pacman-pipeline-results
 *.Rproj
 .Rproj.user
@@ -8,4 +9,5 @@ pacman-pipeline-results
 output.zip
 dev.R
 __pycache__
-
+.vscode
+output_lists.zip
