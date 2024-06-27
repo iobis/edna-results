@@ -58,5 +58,8 @@
     },
     {
         "kingdom": "undef_Bacteria_bacteria"
+    },
+    {
+        "kingdom": "Fungi"
     }
 ]
