@@ -23,4 +23,4 @@ This package also outputs species lists, browse the lists [https://obis-edna-lis
 
 ## For maintainers
 
-To update the integrated dataset based on new data in [pacman-pipeline-results](https://github.com/iobis/pacman-pipeline-results) or new annotations in this repository, run the workflow in [Actions](https://github.com/iobis/edna-results/actions/workflows/run.yml).
+~~To update the integrated dataset based on new data in [pacman-pipeline-results](https://github.com/iobis/pacman-pipeline-results) or new annotations in this repository, run the workflow in [Actions](https://github.com/iobis/edna-results/actions/workflows/run.yml).~~

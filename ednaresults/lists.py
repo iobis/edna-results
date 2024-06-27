@@ -29,13 +29,13 @@ class ListGenerator:
     def clean_json_records(self, records):
         return [{k: record[k] for k in record if not pd.isna(record[k])} for record in records]
 
-    def run(self, site_name, occurrence, dna):
+    def run(self, site_name, occurrence, dna, metadata):
 
         # get dna species (non blank)
 
-        occurrence = occurrence[(occurrence["taxonRank"] == "species") & (occurrence["blank"].notna())][["occurrenceID", "scientificName", "scientificNameID", "organismQuantity"]]
+        occurrence_species = occurrence[(occurrence["taxonRank"] == "species") & (occurrence["blank"].notna())][["materialSampleID", "occurrenceID", "scientificName", "scientificNameID", "organismQuantity"]]
         dna = dna[["occurrenceID", "target_gene"]]
-        df = pd.merge(occurrence, dna, on="occurrenceID", how="inner")
+        df = pd.merge(occurrence_species, dna, on="occurrenceID", how="inner")
         df["AphiaID"] = df.scientificNameID.str.extract("(\d+)")
         edna_species = df.groupby(["scientificName", "AphiaID"]) \
             .agg(
@@ -119,7 +119,7 @@ class ListGenerator:
 
         aggregated_dna = aggregated[aggregated["source_dna"]]
 
-        # stats
+        # stats redlist
 
         stats_redlist = aggregated_dna.groupby("redlist_category").agg({
             "source_obis": "sum",
@@ -133,6 +133,8 @@ class ListGenerator:
         }, axis=1).to_dict(orient="records")
 
         stats_edna_groups = aggregated_dna.groupby("group").size().to_dict()
+
+        # stats sources
 
         aggregated_for_stats = aggregated_dna.filter(["AphiaID", "source_obis", "source_gbif", "source_dna"])
         aggregated_for_stats["db"] = aggregated_for_stats["source_obis"] | aggregated_for_stats["source_gbif"]
@@ -149,6 +151,23 @@ class ListGenerator:
             "db": "sum",
             "both": "sum"
         }).to_dict()
+
+        # stats samples
+        # TODO: accepted species only
+
+        sample_species_stats = occurrence_species.groupby("materialSampleID").agg({
+            "scientificName": "nunique"
+        }).rename({"scientificName": "species"}, axis=1).reset_index()
+
+        stats_samples = occurrence.groupby(["materialSampleID"]) \
+            .agg(
+                reads=("organismQuantity", "sum"),
+                asvs=("occurrenceID", "count")
+            ) \
+            .reset_index() \
+            .merge(metadata, on="materialSampleID", how="left") \
+            .merge(sample_species_stats, on="materialSampleID", how="left") \
+            .to_dict(orient="records")
 
         # output
 
@@ -170,7 +189,8 @@ class ListGenerator:
             "stats": {
                 "redlist": stats_redlist,
                 "groups_edna": stats_edna_groups,
-                "source": stats_sources
+                "source": stats_sources,
+                "samples": stats_samples
             }
         }
         json_dna = {
@@ -179,7 +199,8 @@ class ListGenerator:
             "stats": {
                 "redlist": stats_redlist,
                 "groups_edna": stats_edna_groups,
-                "source": stats_sources
+                "source": stats_sources,
+                "samples": stats_samples
             }
         }
         logging.info(f"Writing {json_full_path}")

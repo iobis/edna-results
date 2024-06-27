@@ -280,4 +280,4 @@ class OccurrenceBuilder():
             # species lists
 
             if self.list_generator is not None:
-                self.list_generator.run(site_name, occurrence_combined_notblank, dna_combined_notblank)
+                self.list_generator.run(site_name, occurrence_combined_notblank, dna_combined_notblank, metadata_df_notblank)
