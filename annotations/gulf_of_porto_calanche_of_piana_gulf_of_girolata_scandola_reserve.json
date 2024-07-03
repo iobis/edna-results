@@ -1,6 +1,37 @@
 [
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Aglaophenia pluma",
+        "AphiaID": 117283,
+        "new_AphiaID": 116999,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Aglaothamnion tenuissimum",
+        "AphiaID": 144501,
+        "new_AphiaID": 493878,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Amphidinium carterae",
+        "AphiaID": 109723,
+        "new_AphiaID": 1308688,
+        "remove": "false",
+        "comment": "no good, match 93.99%, change to order"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Anas poecilorhyncha",
+        "AphiaID": 1034710,
+        "remove": "true",
+        "comment": "duck contamination"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Andvakia discipulorum",
         "AphiaID": 446803,
         "remove": "true",
@@ -15,10 +46,33 @@
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Atherinomorus lacunosus",
+        "AphiaID": 126331,
+        "new_AphiaID": 125660,
+        "remove": "false",
+        "comment": "change to genus, 98.86% match"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Aulacorthum solani",
+        "AphiaID": 375699,
+        "remove": "true",
+        "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Aureococcus anophagefferens",
         "AphiaID": 375699,
         "remove": "true",
         "comment": "possible cross-contamination"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Bathycoccus prasinos",
+        "AphiaID": 345459,
+        "new_AphiaID": 493889,
+        "remove": "false",
+        "comment": "change to family, 95.33% match"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
@@ -41,6 +95,28 @@
         "AphiaID": 126433,
         "remove": "true",
         "comment": "food contaminant?"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Cairina moschata",
+        "AphiaID": 422571,
+        "remove": "true",
+        "comment": "possible contamination of duck? 98.72% match"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Calliostoma virescens",
+        "AphiaID": 141766,
+        "new_AphiaID": 141759,
+        "remove": "false",
+        "comment": "change to Calliostoma laugieri, 99% match, but new in db"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Callithamnion corymbosum",
+        "AphiaID": 144526,
+        "remove": "true",
+        "comment": "not a good match, 94.50%"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
@@ -88,10 +164,32 @@
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Chondria tenuissima",
+        "AphiaID": 162853,
+        "remove": "true",
+        "comment": "no good match, 94%"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Chrysochromulina parva",
         "AphiaID": 571998,
         "remove": "true",
         "comment": "no good match"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Cladosporium herbarum",
+        "AphiaID": 100511,
+        "remove": "true",
+        "comment": "fungi, and no good match"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Clausocalanus mastigophorus",
+        "AphiaID": 104506,
+        "new_AphiaID": 104161,
+        "remove": "false",
+        "comment": "false, change to genus, best match 98.82%"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
@@ -119,6 +217,73 @@
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Clupea harengus",
+        "AphiaID": 126417,
+        "remove": "true",
+        "comment": "likely cross-contamination"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Clytia linearis",
+        "AphiaID": 117370,
+        "new_AphiaID": 117030,
+        "remove": "false",
+        "comment": "change to genus, 98.72% match"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Clytia noliformis",
+        "AphiaID": 117372,
+        "new_AphiaID": 117030,
+        "remove": "false",
+        "comment": "change to genus, 98.4% match"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Coryne eximia",
+        "AphiaID": 151860,
+        "remove": "true",
+        "comment": "No good match 93.91%"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Coryne muscoides",
+        "AphiaID": 117469,
+        "remove": "true",
+        "comment": "No good match 90.42%"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Cylindrotheca closterium",
+        "AphiaID": 149004,
+        "remove": "true",
+        "comment": "No good match 93.93%"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Dasya baillouviana",
+        "AphiaID": 144714,
+        "new_AphiaID": 143673,
+        "remove": "false",
+        "comment": "no good match, change to family"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Dictyocha octonaria",
+        "AphiaID": 341584,
+        "remove": "true",
+        "comment": "no good match"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Dictyocha speculum",
+        "AphiaID": 157260,
+        "new_AphiaID": 157258,
+        "remove": "false",
+        "comment": "match around 97%, change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Diplodus kotschyi",
         "AphiaID": 998229,
         "new_AphiaID": 126076,
@@ -130,6 +295,13 @@
         "species": "Discosporangium mesarthrocarpum",
         "AphiaID": 145886,
         "remove": "false"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Dolichomastix tenuilepis",
+        "AphiaID": 345463,
+        "remove": "true",
+        "comment": "no good match 94.25%"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
@@ -161,11 +333,25 @@
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Eurychasma dicksonii",
+        "AphiaID": 172155,
+        "remove": "true",
+        "comment": "no good match 79%"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Gaidropsarus guttatus",
         "AphiaID": 126455,
         "new_AphiaID": 126457,
         "remove": "false",
         "comment": "change to Gaidropsarus mediterraneus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Glaucostegus cemiculus",
+        "AphiaID": 1016062,
+        "remove": "true",
+        "comment": "not a good match, 93%"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
@@ -176,10 +362,34 @@
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Gyptis propinqua",
+        "AphiaID": 130156,
+        "new_AphiaID": 946,
+        "remove": "false",
+        "comment": "match at 95% change to family"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Halichoeres nebulosus",
         "AphiaID": 218986,
         "remove": "true",
         "comment": "cross-contamination"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Haminoea hydatis",
+        "AphiaID": 140074,
+        "new_AphiaID": 138054,
+        "remove": "false",
+        "comment": "match at 98.4% change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Haplosyllis spongicola",
+        "AphiaID": 131321,
+        "new_AphiaID": 948,
+        "remove": "false",
+        "comment": "match at 96% change to family"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
@@ -190,10 +400,64 @@
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Heliconoides inflatus",
+        "AphiaID": 605965,
+        "new_AphiaID": 605964,
+        "remove": "false",
+        "comment": "match at 98.7% change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Hemimycale columella",
+        "AphiaID": 133543,
+        "new_AphiaID": 131948,
+        "remove": "false",
+        "comment": "match at 98.7% change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Hesiospina aurantiaca",
+        "AphiaID": 333615,
+        "new_AphiaID": 129310,
+        "remove": "false",
+        "comment": "match at 97.76% change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Heterocapsa rotundata",
+        "AphiaID": 110152,
+        "new_AphiaID": 109540,
+        "remove": "false",
+        "comment": "match at 97.15% change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Heterocapsa triquetra",
+        "AphiaID": 110153,
+        "remove": "true",
+        "comment": "no good match"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Hydrellia griseola",
         "AphiaID": 150918,
         "remove": "true",
         "comment": "Insect"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Hypoglossum hypoglossoides",
+        "AphiaID": 144756,
+        "remove": "true",
+        "comment": "NO good match, 92.28%"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Idotea baltica",
+        "AphiaID": 325483,
+        "new_AphiaID": 118454,
+        "remove": "false",
+        "comment": "match at 98.4% change to genus"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
@@ -205,6 +469,14 @@
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Isozoanthus sulcatus",
+        "AphiaID": 101053,
+        "new_AphiaID": 100792,
+        "remove": "false",
+        "comment": "match to species at 98.72% change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Jania rosea",
         "AphiaID": 375194,
         "new_AphiaID": 144012,
@@ -213,10 +485,95 @@
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Jujubinus gravinae",
+        "AphiaID": 141808,
+        "new_AphiaID": 138591,
+        "remove": "false",
+        "comment": "match at 97.1%, change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Labrus mixtus",
+        "AphiaID": 151501,
+        "new_AphiaID": 126021,
+        "remove": "false",
+        "comment": "matches at 100% for both bergylta and merula species, change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Laomedea calceolifera",
+        "AphiaID": 117380,
+        "new_AphiaID": 117033,
+        "remove": "false",
+        "comment": "match at 97.12%, change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Leodice harassii",
+        "AphiaID": 742170,
+        "new_AphiaID": 324708,
+        "remove": "false",
+        "comment": "match at 98.71%, change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Lepadogaster purpurea",
+        "AphiaID": 126519,
+        "new_AphiaID": 125781,
+        "remove": "false",
+        "comment": "match at 97.73%, change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Leptochiton cancellatus",
+        "AphiaID": 140201,
+        "remove": "true",
+        "comment": "no good match 93.80%"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Limacia clavigera",
+        "AphiaID": 140830,
+        "remove": "true",
+        "comment": "no good match 97.42% with 86% coverage"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Macrosteles quadrilineatus",
         "AphiaID": 1489180,
         "remove": "true",
         "comment": "contaminant"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Mantoniella squamata",
+        "AphiaID": 134563,
+        "remove": "true",
+        "comment": "no good match 89.87%"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Micromonas commoda",
+        "AphiaID": 1361174,
+        "new_AphiaID": 134533,
+        "remove": "false",
+        "comment": "match at 97.06%, change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Micromonas pusilla",
+        "AphiaID": 134564,
+        "new_AphiaID": 134533,
+        "remove": "false",
+        "comment": "match around 98%, change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Minutocellus polymorphus",
+        "AphiaID": 464449,
+        "new_AphiaID": 450619,
+        "remove": "false",
+        "comment": "match around 98%, change to genus"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
@@ -241,11 +598,49 @@
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Mugil capurrii",
+        "AphiaID": 126982,
+        "remove": "true",
+        "comment": "only one match in the ref db (100%), not from the region"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Myrianida edwarsi",
+        "AphiaID": 238194,
+        "new_AphiaID": 129659,
+        "remove": "false",
+        "comment": "match at 97.76%, change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Nanomia bijuga",
+        "AphiaID": 135495,
+        "new_AphiaID": 135392,
+        "remove": "false",
+        "comment": "match at 97.76%, change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Navicula minima",
+        "AphiaID": 172829,
+        "remove": "false",
+        "comment": "matches to uncultured Eukaryote, remove"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Opeatogenys gracilis",
+        "AphiaID": 126521,
+        "new_AphiaID": 125782,
+        "remove": "false",
+        "comment": "only one match in db, 97.32%, change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Orthopyxis crenata",
         "AphiaID": 117391,
-        "new_AphiaID": 117035,
+        "new_AphiaID": 13552,
         "remove": "false",
-        "comment": "change to genus"
+        "comment": "change to order"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
@@ -257,9 +652,26 @@
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Orthopyxis integra",
+        "AphiaID": 117393,
+        "new_AphiaID": 117035,
+        "remove": "false",
+        "comment": "match 97.76% change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Osmundea oederi",
         "AphiaID": 377233,
-        "remove": "false"
+        "new_AphiaID": 143921,
+        "remove": "false",
+        "comment": "match 98.97%, coverage 92% change to genus"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Paramoeba pemaquidensis",
+        "AphiaID": 120624,
+        "remove": "true",
+        "comment": "no good match 85%"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
@@ -273,17 +685,17 @@
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Patella aspera",
         "AphiaID": 456570,
-        "new_AphiaID": 138312,
+        "new_AphiaID": 101,
         "remove": "false",
-        "comment": "change to genus"
+        "comment": "change to class"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Pedospumella encystans",
         "AphiaID": 624263,
-        "new_AphiaID": 603251,
+        "new_AphiaID": 1306049,
         "remove": "false",
-        "comment": "change to genus"
+        "comment": "change to family match 95%"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
@@ -301,11 +713,33 @@
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Penicillium chrysogenum",
+        "AphiaID": 100537,
+        "remove": "true",
+        "comment": "fungi"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Phaeocystis pouchetii",
         "AphiaID": 115106,
         "new_AphiaID": 160538,
         "remove": "false",
         "comment": "change to Phaeocystis globosa"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Phylo foetida",
+        "AphiaID": 130528,
+        "remove": "true",
+        "comment": "no good match 91%"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Pisa armata",
+        "AphiaID": 107353,
+        "new_AphiaID": 107358,
+        "remove": "false",
+        "comment": "change to Pisa tetraodon"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
@@ -318,7 +752,9 @@
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Platynereis agilis",
         "AphiaID": 1610809,
-        "remove": "false"
+        "new_AphiaID": 129381,
+        "remove": "false",
+        "comment": "change genus 98% match"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
@@ -328,9 +764,40 @@
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Polysiphonia sertularioides",
+        "AphiaID": 144666,
+        "new_AphiaID": 860,
+        "remove": "false",
+        "comment": "change to order 94.89% match"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Proceraea aurantiaca",
+        "AphiaID": 131361,
+        "remove": "true",
+        "comment": "no good match coverage 91%, 98%"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Pseudochattonella farcimen",
         "AphiaID": 531467,
         "remove": "false"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Pseudo-nitzschia delicatissima",
+        "AphiaID": 149153,
+        "new_AphiaID":149002,
+        "remove": "false",
+        "comment": "change to family 95.33% match"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Pteriacartia josephinae",
+        "AphiaID": 104266,
+        "new_AphiaID":104110,
+        "remove": "false",
+        "comment": "change to genus 98.15% match"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
@@ -341,11 +808,33 @@
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Salmo salar",
+        "AphiaID": 127186,
+        "remove": "true",
+        "comment": "probable food contamination"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Scomber australasicus",
         "AphiaID": 219715,
-        "new_AphiaID": 127022,
+        "new_AphiaID": 151174,
         "remove": "false",
-        "comment": "change to Scomber japonicus (or colias)"
+        "comment": "change to Scomber colias"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Serranus cabrilla",
+        "AphiaID": 127041,
+        "new_AphiaID": 127043,
+        "remove": "false",
+        "comment": "change to Serranus scriba"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Sprattus sprattus",
+        "AphiaID": 126425,
+        "remove": "true",
+        "comment": "should be Clupea harengus based on sequence, and most likely this is a food contaminant"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
@@ -357,9 +846,38 @@
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Syllis compacta",
+        "AphiaID": 131423,
+        "remove": "true",
+        "comment": "no good match 92%"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Syllis gerlachi",
+        "AphiaID": 131432,
+        "remove": "true",
+        "comment": "no good match 81.99%"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Terpios gelatinosus",
+        "AphiaID": 1041930,
+        "new_AphiaID": 890847,
+        "remove": "false",
+        "comment": "change to Protosuberites mereui 100% match"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Thalassiosira profunda",
         "AphiaID": 577742,
         "remove": "false"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Vicicitus globosus",
+        "AphiaID": 707927,
+        "remove": "true",
+        "comment": "no good match 83%"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
