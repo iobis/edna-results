@@ -29,9 +29,8 @@ class OccurrenceBuilder():
         self.list_generator = list_generator
 
     def download_results(self) -> None:
-        logging.warning(f"Downloading pipeline results to {self.output_folder}\nRemove folder pacman-pipeline-results to force an update")
-        if not os.path.exists("pacman-pipeline-results"):
-            os.system("git clone --depth 1 https://github.com/iobis/pacman-pipeline-results.git")
+        logging.warning("Syncing pipeline results to pipeline_data")
+        os.system(f"aws s3 sync s3://obis-backups/edna_expeditions/pipeline_results/20240705/ ./pipeline_data/")
 
     def fetch_metadata(self) -> dict:
         metadata_url = "https://raw.githubusercontent.com/iobis/edna-tracker-data/data/generated.json"
@@ -59,7 +58,7 @@ class OccurrenceBuilder():
     def list_datasets(self) -> list:
         datasets = []
         for project_name in self.project_names:
-            root_folder = os.path.join("pacman-pipeline-results", project_name, "runs")
+            root_folder = os.path.join("pipeline_data", project_name, "runs")
             for dataset in os.listdir(root_folder):
                 if os.path.isdir(os.path.join(root_folder, dataset)):
                     datasets.append(os.path.join(root_folder, dataset))
