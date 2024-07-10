@@ -2,3 +2,4 @@ pandas
 boto3
 python-dotenv
 pyworms @ git+https://github.com/iobis/pyworms.git@e8864ec128404d6ff6f43e2d117f244b4ce9dc06
+retry_requests

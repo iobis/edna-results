@@ -7,12 +7,29 @@ import simplejson as json
 import logging
 import csv
 from pandas.api.types import is_numeric_dtype
+import shutil
 
 
 class ListGenerator:
 
     def __init__(self):
-        pass
+        self.output_folder = "output_lists"
+
+    def prepare_output_folder(self):
+        logging.warn(f"Clearing output directory {self.output_folder}")
+        shutil.rmtree(self.output_folder, ignore_errors=True)
+        if not os.path.exists(self.output_folder):
+            os.makedirs(self.output_folder)
+
+        subfolders = [
+            os.path.join(self.output_folder, "lists_full", "csv"),
+            os.path.join(self.output_folder, "lists", "csv"),
+            os.path.join(self.output_folder, "lists_full", "json"),
+            os.path.join(self.output_folder, "lists", "json")
+        ]
+
+        for subfolder in subfolders:
+            os.makedirs(subfolder)
 
     def fetch_database_species(self, site_name):
         url = f"https://raw.githubusercontent.com/iobis/mwhs-obis-species/master/lists/{site_name}.json"
@@ -171,10 +188,10 @@ class ListGenerator:
 
         # output
 
-        csv_full_path = os.path.join(f"output_lists", "lists_full", "csv", f"{site_name}.csv")
-        csv_dna_path = os.path.join(f"output_lists", "lists", "csv", f"{site_name}.csv")
-        json_full_path = os.path.join(f"output_lists", "lists_full", "json", f"{site_name}.json")
-        json_dna_path = os.path.join(f"output_lists", "lists", "json", f"{site_name}.json")
+        csv_full_path = os.path.join(self.output_folder, "lists_full", "csv", f"{site_name}.csv")
+        csv_dna_path = os.path.join(self.output_folder, "lists", "csv", f"{site_name}.csv")
+        json_full_path = os.path.join(self.output_folder, "lists_full", "json", f"{site_name}.json")
+        json_dna_path = os.path.join(self.output_folder, "lists", "json", f"{site_name}.json")
 
         logging.info(f"Writing {csv_full_path}")
         aggregated.to_csv(csv_full_path, index=False, quoting=csv.QUOTE_NONNUMERIC)

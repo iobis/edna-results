@@ -1,9 +1,13 @@
 import pandas as pd
-import requests
+from retry_requests import retry
+from requests import Session
+
+
+retry_session = retry(Session(), retries=5, backoff_factor=2)
 
 
 def split_max_n(lst: list, n: int) -> list[list]:
-    return [lst[i * n:(i + 1) * n] for i in range((len(lst) + n - 1) // n )]  
+    return [lst[i * n:(i + 1) * n] for i in range((len(lst) + n - 1) // n)]
 
 
 def add_accepted_aphiaid(df: pd.DataFrame) -> pd.DataFrame:
@@ -14,7 +18,7 @@ def add_accepted_aphiaid(df: pd.DataFrame) -> pd.DataFrame:
 
     for batch in batches:
         url = "https://www.marinespecies.org/rest/AphiaRecordsByAphiaIDs?" + "&".join([f"aphiaids%5B%5D={aphiaid}" for aphiaid in batch])
-        res = requests.get(url)
+        res = retry_session.get(url)
         res.raise_for_status()
         aphia_records = res.json()
         ids = [str(record["valid_AphiaID"]) if record["valid_AphiaID"] is not None else None for record in aphia_records]
@@ -36,7 +40,7 @@ def add_taxonomy(df: pd.DataFrame) -> pd.DataFrame:
 
     for batch in batches:
         url = "https://www.marinespecies.org/rest/AphiaRecordsByAphiaIDs?" + "&".join([f"aphiaids%5B%5D={aphiaid}" for aphiaid in batch])
-        res = requests.get(url)
+        res = retry_session.get(url)
         res.raise_for_status()
         aphia_records = res.json()
         records = [{

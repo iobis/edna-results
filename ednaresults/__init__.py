@@ -179,11 +179,14 @@ class OccurrenceBuilder():
         # prepare output folder
 
         logging.warn(f"Clearing output directory {self.output_folder}")
-        shutil.rmtree(self.output_folder)
+        shutil.rmtree(self.output_folder, ignore_errors=True)
         if not os.path.exists(self.output_folder):
             os.makedirs(self.output_folder)
         if not os.path.exists(os.path.join(self.output_folder, "blank")):
             os.makedirs(os.path.join(self.output_folder, "blank"))
+
+        if self.list_generator is not None:
+            self.list_generator.prepare_output_folder()
 
         # process by site
 
