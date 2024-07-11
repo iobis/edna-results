@@ -57,6 +57,66 @@
         "phylum": "Proteobacteria"
     },
     {
+        "phylum": "Planctomycetes"
+    },
+    {
+        "phylum": "Planctomycetota"
+    },
+    {
+        "phylum": "Actinobacteria"
+    },
+    {
+        "phylum": "Bacteroidetes"
+    },
+    {
+        "phylum": "Firmicutes"
+    },
+    {
+        "phylum": "Euryarchaeota"
+    },
+    {
+        "phylum": "Elusimicrobia"
+    },
+    {
+        "phylum": "Lentisphaerae"
+    },
+    {
+        "phylum": "Deferribacteres"
+    },
+    {
+        "phylum": "Acidobacteria"
+    },
+    {
+        "phylum": "Cyanobacteria"
+    },
+    {
+        "phylum": "Spirochaetes"
+    },
+    {
+        "phylum": "Verrucomicrobia"
+    },
+    {
+        "phylum": "Nitrospirae"
+    },
+    {
+        "phylum": "Chlamydiae"
+    },
+    {
+        "phylum": "Chloroflexi"
+    },
+    {
+        "phylum": "Gemmatimonadetes"
+    },
+    {
+        "phylum": "Fusobacteria"
+    },
+    {
+        "phylum": "Fibrobacteres"
+    },
+    {
+        "phylum": "Bacteria incertae sedis"
+    },
+    {
         "kingdom": "undef_Bacteria_bacteria"
     },
     {
