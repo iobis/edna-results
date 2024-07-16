@@ -50,7 +50,7 @@ class ListGenerator:
 
         # get dna species (non blank)
 
-        occurrence_species = occurrence[(occurrence["taxonRank"] == "species") & (occurrence["blank"].notna())][["materialSampleID", "occurrenceID", "scientificName", "scientificNameID", "organismQuantity"]]
+        occurrence_species = occurrence[(occurrence["taxonRank"].str.lower() == "species") & (occurrence["blank"].notna())][["materialSampleID", "occurrenceID", "scientificName", "scientificNameID", "organismQuantity"]]
         dna = dna[["occurrenceID", "target_gene"]]
         df = pd.merge(occurrence_species, dna, on="occurrenceID", how="inner")
         df["AphiaID"] = df.scientificNameID.str.extract("(\d+)")
@@ -121,7 +121,7 @@ class ListGenerator:
 
         # TODO: fix for subspecies/forma/variety
 
-        aggregated = aggregated[aggregated["rank"] == "Species"]
+        aggregated = aggregated[aggregated["rank"] == "species"]
 
         # fixes
 

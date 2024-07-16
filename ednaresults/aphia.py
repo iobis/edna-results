@@ -93,7 +93,7 @@ def add_taxonomy(df: pd.DataFrame) -> pd.DataFrame:
             "genus": record["genus"],
             "species": record["scientificname"],
             "marine": record["isMarine"] != 0 or record["isBrackish"] != 0,
-            "rank": record["rank"]
+            "rank": record["rank"].lower()
         } for record in aphia_records]
         assert len(records) == len(batch)
         taxa.extend(records)
@@ -127,7 +127,7 @@ def add_taxonomy_dwc(df: pd.DataFrame) -> pd.DataFrame:
             "family": record["family"],
             "genus": record["genus"],
             "scientificName": record["scientificname"],
-            "taxonRank": record["rank"]
+            "taxonRank": record["rank"].lower()
         } for record in aphia_records]
         assert len(records) == len(batch)
         taxa.extend(records)
