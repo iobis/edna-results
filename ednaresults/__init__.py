@@ -18,6 +18,7 @@ class OccurrenceBuilder():
         project_names=["eDNAexpeditions_batch1_samples", "eDNAexpeditions_batch2_samples"],
         occurrence_file="Occurrence_table.tsv",
         dna_file="DNA_extension_table.tsv",
+        pipeline_data_path="./pipeline_data/",
         output_folder="output",
         remove_contaminants=True,
         list_generator=None,
@@ -26,6 +27,7 @@ class OccurrenceBuilder():
         self.project_names = project_names
         self.occurrence_file = occurrence_file
         self.dna_file = dna_file
+        self.pipeline_data_path = pipeline_data_path
         self.output_folder = output_folder
         self.remove_contaminants = remove_contaminants
         self.list_generator = list_generator
@@ -188,7 +190,7 @@ class OccurrenceBuilder():
     def list_datasets(self) -> list:
         datasets = []
         for project_name in self.project_names:
-            root_folder = os.path.join("pipeline_data", project_name, "runs")
+            root_folder = os.path.join(self.pipeline_data_path, project_name, "runs")
             for dataset in os.listdir(root_folder):
                 if os.path.isdir(os.path.join(root_folder, dataset)):
                     datasets.append(os.path.join(root_folder, dataset))
@@ -222,6 +224,8 @@ class OccurrenceBuilder():
             logging.info(f"Applying {len(annotations)} annotations for {site_name}")
             for annotation in annotations:
 
+                # get affected occurrenceIDs based on name
+
                 if "species" in annotation:
                     field = "scientificName"
                     name = annotation["species"].strip()
@@ -241,11 +245,21 @@ class OccurrenceBuilder():
                     field = "phylum"
                     name = annotation["phylum"].strip()
 
+                occurrence_ids = list(df_occurrence.loc[df_occurrence[field] == name]["occurrenceID"])
+
+                # get affected occurrenceIDs based on AphiaID
+
+                if "AphiaID" in annotation:
+                    affected_taxon = pyworms.aphiaRecordByAphiaID(str(annotation["AphiaID"]).strip())
+                    occurrence_ids_aphiaid = list(df_occurrence.loc[df_occurrence["valid_AphiaID"] == str(affected_taxon["valid_AphiaID"])]["occurrenceID"])
+                    occurrence_ids = list(set(occurrence_ids + occurrence_ids_aphiaid))
+
+                # apply
+
                 if annotation["remove"] == True or annotation["remove"] == "true":
 
                     logging.debug(f"Removing {field} {name} from {site_name}")
                     # TODO: use higher taxon (phylum?) for scientificName and scientificNameID
-                    occurrence_ids = list(df_occurrence.loc[df_occurrence[field] == name]["occurrenceID"])
                     if len(occurrence_ids) > 0:
                         df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["class", "order", "family", "genus", "taxonRank"]] = None
                         df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["scientificName"]] = "incertae sedis"
@@ -255,7 +269,6 @@ class OccurrenceBuilder():
                 if (annotation["remove"] == False or annotation["remove"] == "false") and "new_AphiaID" in annotation:
 
                     logging.debug(f"Updating {field} {name} for {site_name}")
-                    occurrence_ids = list(df_occurrence.loc[df_occurrence[field] == name]["occurrenceID"])
                     if len(occurrence_ids) > 0:
                         new_taxon = pyworms.aphiaRecordByAphiaID(str(annotation["new_AphiaID"]).strip())
                         df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["kingdom"]] = new_taxon["kingdom"]

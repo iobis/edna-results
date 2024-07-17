@@ -11,9 +11,9 @@ logging.basicConfig(format="%(asctime)s %(message)s", level=logging.INFO)
 
 list_generator = ListGenerator()
 occurrence_builder = OccurrenceBuilder(
-    project_names=["eDNAexpeditions_batch1_samples"],
+    pipeline_data_path="./pipeline_data_scandola",
     list_generator=list_generator,
     sync_results=False
 )
 occurrence_builder.build()
-# builder.upload()
+# occurrence_builder.upload()

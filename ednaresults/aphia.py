@@ -106,7 +106,7 @@ def add_taxonomy(df: pd.DataFrame) -> pd.DataFrame:
 def add_taxonomy_dwc(df: pd.DataFrame) -> pd.DataFrame:
     """Remove existing taxonomy columns and add taxonomy based on valid_AphiaID."""
 
-    df = df.drop(["phylum", "class", "order", "family", "genus", "scientificName", "taxonRank"], axis=1)
+    df = df.drop([col for col in ["kingdom", "phylum", "class", "order", "family", "genus", "scientificName", "taxonRank", "AphiaID"] if col in df.columns], axis=1)
 
     aphiaids = list(df["valid_AphiaID"])
     batches = split_max_n(aphiaids, 50)
