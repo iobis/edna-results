@@ -7,7 +7,9 @@ pacman-pipeline-results
 .Rhistory
 .env
 output.zip
-dev.R
+dev*.R
 __pycache__
 .vscode
 output_lists.zip
+pipeline_data
+
