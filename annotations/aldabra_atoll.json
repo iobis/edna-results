@@ -515,6 +515,22 @@
     },
     {
         "site": "Aldabra Atoll",
+        "species": "Carcharhinus tjutjot",
+        "AphiaID": 217348,
+        "new_AphiaID":105795,
+        "remove": "false",
+        "comment":"blast of 12S teleo, new record shows better match Carcharinus melanopterus"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Ginglymostoma cirratum",
+        "AphiaID": 105846,
+        "new_AphiaID":220030,
+        "remove": "false",
+        "comment":"blast of 12S , new record shows better match 100% match to Nebrius ferrugineus"
+    },
+    {
+        "site": "Aldabra Atoll",
         "species": "Sebastapistes coniorta",
         "AphiaID": 274759,
         "remove": "true"
