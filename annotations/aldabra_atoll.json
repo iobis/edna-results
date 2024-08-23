@@ -507,6 +507,14 @@
     },
     {
         "site": "Aldabra Atoll",
+        "species": "Rhincodon typus",
+        "AphiaID": 105847,
+        "new_AphiaID":220030,
+        "remove": "false",
+        "comment":""
+    },
+    {
+        "site": "Aldabra Atoll",
         "species": "Sebastapistes coniorta",
         "AphiaID": 274759,
         "remove": "true"
