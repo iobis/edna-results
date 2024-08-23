@@ -417,6 +417,14 @@
     },
     {
         "site": "Banc d'Arguin National Park",
+        "species": "Hypanus berthalutzae",
+        "AphiaID": 1493649,
+        "new_AphiaID": 1042855,
+        "remove": "false",
+        "comment": "change to genus not enough resolution"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
         "species": "Hypleurochilus geminatus",
         "AphiaID": 159602,
         "remove": "true"
@@ -590,6 +598,13 @@
     },
     {
         "site": "Banc d'Arguin National Park",
+        "species": "Nannoperca variegata",
+        "AphiaID": 991285,
+        "remove": "true",
+        "comment": "No good match in database"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
         "species": "Navicula minima",
         "AphiaID": 172829,
         "remove": "false"
@@ -682,6 +697,13 @@
         "AphiaID": 273480,
         "remove": "true",
         "comment": "close match, local species not in ref?"
+    },
+    {
+        "site": "Banc d'Arguin National Park",
+        "species": "Partulina splendida",
+        "AphiaID": 1452695,
+        "remove": "true",
+        "comment": "No good match in database"
     },
     {
         "site": "Banc d'Arguin National Park",
