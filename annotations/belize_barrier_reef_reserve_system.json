@@ -269,6 +269,14 @@
         "comment": "change to genus"
     },
     {
+      "site": "Belize Barrier Reef Reserve System",
+      "species": "Epinephelus itajara",
+      "AphiaID": 159353,
+      "new_AphiaID": 367197,
+      "remove": "false",
+      "comment": "blast of 12S teleo, closer match to Harengula humeralis"
+  },
+    {
         "site": "Belize Barrier Reef Reserve System",
         "species": "Ethmalosa fimbriata",
         "AphiaID": 280725,
@@ -1129,6 +1137,13 @@
         "AphiaID": 1432871,
         "remove": "true"
     },
+    {
+      "site": "Belize Barrier Reef Reserve System",
+      "species": "Tachypleus tridentatus",
+      "AphiaID": 238270,
+      "remove": "true",
+      "comment": "no good match in database"
+  },
     {
         "site": "Belize Barrier Reef Reserve System",
         "species": "Timarete ceciliae",
