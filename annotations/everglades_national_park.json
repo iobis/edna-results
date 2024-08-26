@@ -152,6 +152,14 @@
     },
     {
         "site": "Everglades National Park",
+        "species": "Cynoscion regalis",
+        "AphiaID": 159313,
+        "new_AphiaID": 159312,
+        "remove": "false",
+        "comment": "matches to Cynoscion nebulus"
+    },
+    {
+        "site": "Everglades National Park",
         "species": "Digenea mexicana",
         "AphiaID": 1380455,
         "remove": "false",
@@ -243,11 +251,26 @@
     },
     {
         "site": "Everglades National Park",
+        "species": "Hippocampus kuda",
+        "AphiaID": 212237,
+        "remove": "true",
+        "comment": "not a good match"
+    },
+    {
+        "site": "Everglades National Park",
         "species": "Haslea crucigera",
         "AphiaID": 172588,
         "new_AphiaID": 149210,
         "remove": "false",
         "comment": "change to genus"
+    },
+    {
+        "site": "Everglades National Park",
+        "species": "Hypanus berthalutzae",
+        "AphiaID": 1493649,
+        "new_AphiaID": 1042855,
+        "remove": "false",
+        "comment": "not enough resolution 100% both berthalutzae and americanus, change to genus"
     },
     {
         "site": "Everglades National Park",
@@ -292,6 +315,13 @@
         "species": "Macrosteles quadrilineatus",
         "AphiaID": 1489180,
         "remove": "true"
+    },
+    {
+        "site": "Everglades National Park",
+        "species": "Maccullochella macquariensis",
+        "AphiaID": 991272,
+        "remove": "true",
+        "comment": "not a good match to anything, remove"
     },
     {
         "site": "Everglades National Park",
@@ -358,6 +388,13 @@
     },
     {
         "site": "Everglades National Park",
+        "species": "Paretroplus maculatus",
+        "AphiaID": 1013424,
+        "remove": "true",
+        "comment": "not a good match to anything, remove"
+    },
+    {
+        "site": "Everglades National Park",
         "species": "Parvularcula bermudensis",
         "AphiaID": 565594,
         "remove": "true",
@@ -420,6 +457,13 @@
         "AphiaID": 218911,
         "remove": "true",
         "comment": "cross-contamination"
+    },
+    {
+        "site": "Everglades National Park",
+        "species": "Raja undulata",
+        "AphiaID": 105891,
+        "remove": "true",
+        "comment": "93% match with teleo"
     },
     {
         "site": "Everglades National Park",
@@ -496,6 +540,13 @@
         "species": "Thecamonas trahens",
         "AphiaID": 103433,
         "remove": "false"
+    },
+    {
+        "site": "Everglades National Park",
+        "species": "Theodoxus transversalis",
+        "AphiaID": 825567,
+        "remove": "true",
+        "comment": "95% match on teleo, remove"
     },
     {
         "site": "Everglades National Park",
