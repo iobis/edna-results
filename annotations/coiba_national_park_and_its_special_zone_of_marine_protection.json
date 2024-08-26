@@ -319,6 +319,13 @@
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
+        "species": "Gobulus birdsongi",
+        "AphiaID": 280907,
+        "remove": "true",
+        "comment": "93% match, not good enough? remove annotation"
+    },
+    {
+        "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Gymnothorax kolpos",
         "AphiaID": 271844,
         "new_AphiaID": 125636,
@@ -373,6 +380,14 @@
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
+        "species": "Hypathus berthalutzae",
+        "AphiaID": 1493649,
+        "new_AphiaID": 105708,
+        "remove": "false",
+        "comment": "change to family, 96% match"
+    },
+    {
+        "site": "Coiba National Park and its Special Zone of Marine Protection",
         "species": "Hypoatherina celebesensis",
         "AphiaID": 834912,
         "new_AphiaID": 204813,
@@ -411,6 +426,21 @@
         "species": "Labidocera acuta",
         "AphiaID": 104726,
         "remove": "false"
+    },
+    {
+        "site": "Coiba National Park and its Special Zone of Marine Protection",
+        "species": "Latimeria chalumnae",
+        "AphiaID": 217438,
+        "remove": "true",
+        "comment": "not good enough coverage (88% on teleo)"
+    },
+    {
+        "site": "Coiba National Park and its Special Zone of Marine Protection",
+        "species": "Lutjanus campechanus",
+        "AphiaID": 159795,
+        "new_AphiaID" : 159791,
+        "remove": "false",
+        "comment": "98% match to different species, change to genus"
     },
     {
         "site": "Coiba National Park and its Special Zone of Marine Protection",
