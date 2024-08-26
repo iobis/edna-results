@@ -1013,6 +1013,14 @@
     },
     {
         "site": "French Austral Lands and Seas",
+        "species": "Leucocarbo chalconotus",
+        "AphiaID": 1610891,
+        "new_AphiaID": 1486688,
+        "remove": "false",
+        "comment": "no hit for this, but most likely local species Leucocarbo atriceps, which is missing a mitochondrial reference in the database, so change to genus (though 99.6% match to chalconotus). With COI the local species is detected"
+    },
+    {
+        "site": "French Austral Lands and Seas",
         "species": "Limacina retroversa",
         "AphiaID": 140227,
         "new_AphiaID": 140223,
