@@ -2498,6 +2498,14 @@
     },
     {
         "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+        "species": "Rhincodon typus",
+        "AphiaID": 105847,
+        "new_AphiaID": 220030,
+        "remove": "false",
+        "comment": "100% match to new entrance: Nebrius ferrugineus"
+    },
+    {
+        "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
         "species": "Rhizophysa filiformis",
         "AphiaID": 135482,
         "new_AphiaID": 135384,

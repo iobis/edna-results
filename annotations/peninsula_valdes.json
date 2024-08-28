@@ -150,6 +150,14 @@
     },
     {
         "site": "Peninsula Valdès",
+        "species": "Balaenoptera physalus",
+        "AphiaID": 137091,
+        "new_AphiaID": 137013,
+        "remove": "false",
+        "comment": "only matches to this species, but 96% teleo, change to genus"
+    },
+    {
+        "site": "Peninsula Valdès",
         "species": "Bathycoccus prasinos",
         "AphiaID": 345459,
         "remove": "true"
@@ -299,10 +307,24 @@
     },
     {
         "site": "Peninsula Valdès",
+        "species": "Carcharodon carcharias",
+        "AphiaID": 105838,
+        "remove": "true",
+        "comment": "95% match of 12S teleo, remove"
+    },
+    {
+        "site": "Peninsula Valdès",
         "species": "Chelon dumerili",
         "AphiaID": 1042829,
         "remove": "true",
         "comment": "cross-contamination"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Chimaera monstrosa",
+        "AphiaID": 105824,
+        "remove": "true",
+        "comment": "95% match over 92% coverage 12S teleo, remove"
     },
     {
         "site": "Peninsula Valdès",
@@ -567,6 +589,14 @@
         "AphiaID": 280725,
         "remove": "true",
         "comment": "cross-contamination"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Eubalaena japonica",
+        "AphiaID": 254974,
+        "new_AphiaID": 220222,
+        "remove": "false",
+        "comment": "change to genus 98% match"
     },
     {
         "site": "Peninsula Valdès",
@@ -1024,6 +1054,13 @@
     },
     {
         "site": "Peninsula Valdès",
+        "species": "Margarya monodi",
+        "AphiaID": 758792,
+        "remove": "true",
+        "comment": "no good match, remove"
+    },
+    {
+        "site": "Peninsula Valdès",
         "species": "Maurolicus japonicus",
         "AphiaID": 274972,
         "new_AphiaID": 126197,
@@ -1374,6 +1411,14 @@
     },
     {
         "site": "Peninsula Valdès",
+        "species": "Leucocarbo chalconotus",
+        "AphiaID": 1610891,
+        "new_AphiaID": 137054,
+        "remove": "false",
+        "comment": "over 99% match, but this species is only in NZ. Likely local species P. atriceps, but not found in ref db. change to genus"
+    },
+    {
+        "site": "Peninsula Valdès",
         "species": "Pelagomonas calceolata",
         "AphiaID": 345504,
         "remove": "true"
@@ -1405,6 +1450,13 @@
         "new_AphiaID": 273998,
         "remove": "false",
         "comment": "change to Stromateus brasiliensis"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Pericallis malvifolia",
+        "AphiaID": 1110841,
+        "remove": "true",
+        "comment": "no matches, remove"
     },
     {
         "site": "Peninsula Valdès",
@@ -1777,6 +1829,14 @@
         "species": "Spermothamnion cymosum",
         "AphiaID": 371529,
         "remove": "true"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Spheniscus humboldti",
+        "AphiaID": 293019,
+        "new_AphiaID": 225782,
+        "remove": "false",
+        "comment": "100% to 3 species, of which the local species is S. magellanicus"
     },
     {
         "site": "Peninsula Valdès",

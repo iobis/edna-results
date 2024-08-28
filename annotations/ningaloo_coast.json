@@ -293,6 +293,14 @@
     },
     {
         "site": "Ningaloo Coast",
+        "species": "Carcharhinus tjutjot",
+        "AphiaID": 217348,
+        "new_AphiaID": 105689,
+        "remove": "false",
+        "comment": "96% match, change to family"
+    },
+    {
+        "site": "Ningaloo Coast",
         "species": "Chelonaplysilla erecta",
         "AphiaID": 132300,
         "remove": "false"
@@ -680,6 +688,14 @@
     },
     {
         "site": "Ningaloo Coast",
+        "species": "Glaucostegus cemiculus",
+        "AphiaID": 1016062,
+        "new_AphiaID": 1042841,
+        "remove": "false",
+        "comment": "95% match change to family"
+    },
+    {
+        "site": "Ningaloo Coast",
         "species": "Gobiodon atrangulatus",
         "AphiaID": 276923,
         "new_AphiaID": 204038,
@@ -800,6 +816,14 @@
     },
     {
         "site": "Ningaloo Coast",
+        "species": "Hemigaleus microstoma",
+        "AphiaID": 281024,
+        "new_AphiaID": 105690,
+        "remove": "false",
+        "comment": "95% match change to family"
+    },
+    {
+        "site": "Ningaloo Coast",
         "species": "Hemigellius pilosus",
         "AphiaID": 175046,
         "new_AphiaID": 131637,
@@ -824,6 +848,14 @@
         "species": "Herposiphonia pectinata",
         "AphiaID": 239292,
         "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Himantura undulata",
+        "AphiaID": 217413,
+        "new_AphiaID": 105708,
+        "remove": "false",
+        "comment": "96% match, change to family"
     },
     {
         "site": "Ningaloo Coast",
@@ -2146,6 +2178,14 @@
         "species": "Epinephelus quoyans",
         "AphiaID": 401350,
         "remove": "false"
+    },
+    {
+        "site": "Ningaloo Coast",
+        "species": "Epinephelus akaara",
+        "AphiaID": 273833,
+        "new_AphiaID": 218216, 
+        "remove": "false",
+        "comment": "100% match to 3 species of which E. rivulatus occurs in the area, change to that"
     },
     {
         "site": "Ningaloo Coast",

@@ -7,6 +7,14 @@
     },
     {
         "site": "Wadden Sea",
+        "species": "Anguilla rostrata",
+        "AphiaID": 158562,
+        "new_AphiaID": 125620,
+        "remove": "false",
+        "comment": "Note enough resolution 100% match to multiple species, change to genus"
+    },
+    {
+        "site": "Wadden Sea",
         "species": "Bubalus bubalis",
         "AphiaID": 1479040,
         "remove": "true",
@@ -553,6 +561,22 @@
     },
     {
         "site": "Wadden Sea",
+        "species": "Numenius madagascariensis",
+        "AphiaID": 225934,
+        "new_AphiaID":159037,
+        "remove": "false",
+        "comment": "100% match to Numenius arquata"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Numenius tenuirostris",
+        "AphiaID": 366864,
+        "new_AphiaID":159037,
+        "remove": "false",
+        "comment": "100% match to Numenius arquata"
+    },
+    {
+        "site": "Wadden Sea",
         "species": "Oncorhynchus masou",
         "AphiaID": 293637,
         "new_AphiaID": "126140 ",
@@ -670,6 +694,13 @@
         "species": "Squamamoeba japonica",
         "AphiaID": 761218,
         "remove": "false"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Sternula nereis",
+        "AphiaID": 567837,
+        "remove": "true",
+        "comment": "95% match on teleo, remove"
     },
     {
         "site": "Wadden Sea",

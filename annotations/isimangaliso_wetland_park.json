@@ -9,6 +9,13 @@
     },
     {
         "site": "iSimangaliso Wetland Park",
+        "species": "Acroteriobatus variegatus",
+        "AphiaID": 1012968,
+        "remove": "true",
+        "comment": "no good match, remove"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
         "species": "Aetobatus flagellum",
         "AphiaID": 278241,
         "new_AphiaID": 217426,
@@ -85,6 +92,14 @@
         "species": "Avocettina infans",
         "AphiaID": 126304,
         "remove": "false"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Sicyopterus sarasini",
+        "AphiaID": 1017136,
+        "new_AphiaID": 219386,
+        "remove": "false",
+        "comment": "change to Awaous aeneofuscus 100% match to new record in ncbi"
     },
     {
         "site": "iSimangaliso Wetland Park",
@@ -2263,6 +2278,13 @@
     },
     {
         "site": "iSimangaliso Wetland Park",
+        "species": "Margarya monodi",
+        "AphiaID": 758792,
+        "remove": "true",
+        "comment": "Not a good match, remove"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
         "species": "Mesocyclops pehpeiensis",
         "AphiaID": 356608,
         "remove": "false",
@@ -2621,6 +2643,14 @@
         "new_AphiaID": 127089,
         "remove": "false",
         "comment": "change to Trichiurus lepturus"
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
+        "species": "Torpedo suessii",
+        "AphiaID": 271689,
+        "new_AphiaID": 826639,
+        "remove": "false",
+        "comment": "about 96% match, change to genus"
     },
     {
         "site": "iSimangaliso Wetland Park",

@@ -160,6 +160,13 @@
     },
     {
         "site": "Shark Bay, Western Australia",
+        "species": "Carcharhinus tjutjot",
+        "AphiaID": 137013,
+        "remove": "true",
+        "comment": "96% on teleo, remove"
+    },
+    {
+        "site": "Shark Bay, Western Australia",
         "species": "Cassiopea andromeda",
         "AphiaID": 135295,
         "new_AphiaID": 135253,

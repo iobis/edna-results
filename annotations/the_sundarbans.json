@@ -243,6 +243,14 @@
     },
     {
         "site": "The Sundarbans",
+        "species": "Larimichthys crocea",
+        "AphiaID": 281271,
+        "new_AphiaID":281950,
+        "remove": "false",
+        "comment": "100% match to Otolithoides pama"
+    },
+    {
+        "site": "The Sundarbans",
         "species": "Lagenorhynchus obliquidens",
         "AphiaID": 254981,
         "new_AphiaID": 137107,
@@ -323,6 +331,14 @@
         "species": "Neophocaena phocaenoides",
         "AphiaID": 254985,
         "remove": "false"
+    },
+    {
+        "site": "The Sundarbans",
+        "species": "Numenius tenuirostris",
+        "AphiaID": 366864,
+        "new_AphiaID": 159037,
+        "remove": "false",
+        "comment":"100% match to Numenius arquata"
     },
     {
         "site": "The Sundarbans",
