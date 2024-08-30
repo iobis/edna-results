@@ -30,7 +30,9 @@
         "site": "Socotra Archipelago",
         "species": "Ambassis gymnocephalus",
         "AphiaID": 220044,
-        "remove": "false"
+        "new_AphiaID": 204831,
+        "remove": "false",
+        "comment": "change to genus as 98% match, and not a clear taxonomy based on Uwe Zajonz: Missing recent taxonomic revision and long‐standing taxonomic and nomenclatural issues complicate the  genus. A. gymnocephalus recorded before by Steindachner (1902), Zajonz et al. (2002), Lavergne et al. (2016); referred to A. dussumieri by Zajonz et al. (2019) based on Bogorodsky pers. data. If A. gymnocephalus is a valid species it may occur on Socotra at its north-western range limits; as such recently recorded by Esmaeli et al. (2022) and Esmaeli & Hamidan (2023) from Arabian peninsula freshwater. Recently synonymized with A. ambassis though by Ghazali et al. (2023/24). eDNA ID obviously highly dependant on correct and up-to-date ID of reference DNA.  Critical question though, first of all, is not the name, but whether there are two, or just one Ambassis spp. on Socotra. Sampling needed!"
     },
     {
         "site": "Socotra Archipelago",
@@ -102,6 +104,14 @@
     },
     {
         "site": "Socotra Archipelago",
+        "species": "Bathygobius cyclopterus",
+        "AphiaID": 209210,
+        "new_AphiaID": 125537,
+        "remove": "false",
+        "comment": "only 95% match, change to family. Also comment from Uwe Zajonz: Given the known distribution range a highly probable new record. But! requires comparison with unpublished specimen-based DNA of a putative new Bathygobius species, and with a yet unpublished new record of B. coalitus (all  Bogorodsky, Zajonz unpubl. data)"
+    },
+    {
+        "site": "Socotra Archipelago",
         "species": "Batzella aurantiaca",
         "AphiaID": 168733,
         "new_AphiaID": 131599,
@@ -168,6 +178,14 @@
     },
     {
         "site": "Socotra Archipelago",
+        "species": "Canthigaster solandri",
+        "AphiaID": 219945,
+        "new_AphiaID": 126238,
+        "remove": "false",
+        "comment": "100% match, but change to genus, due to comment from Uze Zajonz: Likely based on a misidentified (outdated taxonomy) specimen of the reference DNA. As C. solandri (Richardson) in Zajonz et al. (2000), but solandri known only in western Pacific Ocean (Allen & Erdmann 2012); it likely represents C. petersii (on record), or C. amboinensis or janthinoptera (both on rec., unpubl.),  or C. margaritata may also occur (Red Sea and Gulf of Aden). Other congeners on record are bennetti, cyanospilota, janthinoptera, and valentini."
+    },
+    {
+        "site": "Socotra Archipelago",
         "species": "Centroceras gasparrinii",
         "AphiaID": 503086,
         "new_AphiaID": 143833,
@@ -178,13 +196,15 @@
         "site": "Socotra Archipelago",
         "species": "Chaetodon austriacus",
         "AphiaID": 218732,
-        "remove": "false"
+        "remove": "false",
+        "comment": "Due to 100% match,keep now. But 93% coverage. Comment from Uwe Zajonz:More likely based on a misidentified specimen of the reference DNA (of C. trifasciatus). C. austriacus not seen in  >700 dives of Zajonz & Bogorodsky and Kemp, also no hybrids (also DiBattista et al. 2015). C. austriacus may very occasionally stray to Socotra, but is already very rarely seen in eastern Arabia (i.e. southern Oman). The occurrence is not entirely improbable though, thus requires careful verification of the reference DNA, and ideally re-sampling!"
     },
     {
         "site": "Socotra Archipelago",
         "species": "Chaetodon decussatus",
         "AphiaID": 273333,
-        "remove": "false"
+        "remove": "false",
+        "comment": "Over 99% match to several vouchers, so keep. However comment from Uwe Zajonz:More likely based on a misidentified specimen of the reference DNA (of C. pictus, on record), or, less likely, of C. vagabundus (not on record). C. decussatus not seen in  >700 dives of Zajonz & Bogorodsky and Kemp, also no hybrids (also DiBattista et al. 2015). C. decussatus may very rarely stray to Socotra, but records from eastern Arabia (Oman, Yemen by Allen & Erdmann 2012) are highly questionable; and nearest known sites are Laccadives of India. Requires careful verification of the reference DNA, and ideally re-sampling!"
     },
     {
         "site": "Socotra Archipelago",
@@ -284,7 +304,9 @@
         "site": "Socotra Archipelago",
         "species": "Chlorurus microrhinos",
         "AphiaID": 277507,
-        "remove": "false"
+        "new_AphiaID": 219088,
+        "remove": "false",
+        "comment": "change to Chlorurus gibbus 100% match. Also based on a comment for Uwe Sajonz: Likely based on a misidentified specimen of the reference DNA of Chlorurus strongylocephalus, which was shown as forming a species complex with mainly non-overlapping distributions, including the western Pacific C. microrhinos (Bleeker, 1854) and the putative Red Sea endemic C. gibbus (Choat et al. 2012; compare Zajonz et al. 2023)."
     },
     {
         "site": "Socotra Archipelago",
@@ -455,7 +477,10 @@
         "site": "Socotra Archipelago",
         "species": "Ecsenius gravieri",
         "AphiaID": 219273,
-        "remove": "false"
+        "new_AphiaID": 204781,
+        "remove": "false" ,
+        "comment": "98.72% match, change to genus, based on comment from Uwe Zajonz:Highly doubtful, unless a true E. gravieri specimen or nuclear markers underpins the record; not seen in  >700 dives of Zajonz & Bogorodsky and Kemp. Most likely, the DNA match is based on mtDNA of a putative new species of the E. pulcher complex (currently under description; earlier records of E. pulcher also refers to it), which carries introgressed mtDNA, i.e. CO1, of gravieri (based on unpubl. data of Bogorodsky, Zajonz et al.)"
+
     },
     {
         "site": "Socotra Archipelago",
@@ -476,7 +501,10 @@
         "site": "Socotra Archipelago",
         "species": "Enneapterygius philippinus",
         "AphiaID": 277331,
-        "remove": "false"
+        "new_AphiaID": 204407,
+        "remove": "false",
+        "comment": "not a good coverage of the gene, change to genus. Also based on comment from Uze Zajonz: Given the known distribution range a moderately possible range extension and new species record. However, triplefins of Socotra are presently under review by Holleman et al., who have no indication of this species despite numerous samples, both specimens and DNA, and who consider the finding "surprising". Specimen sampling desired!"
+
     },
     {
         "site": "Socotra Archipelago",
@@ -582,7 +610,9 @@
         "site": "Socotra Archipelago",
         "species": "Gymnothorax fimbriatus",
         "AphiaID": 217499,
-        "remove": "false"
+        "new_AphiaID": 125636,
+        "remove": "false",
+        "comment": "98.85% match, change to genus, and based on a comment from Uze Zajonz: More likely a new species presently under description. Given the known distribution range, with recs from the Mascarenes and Seychelles in the WIO, this would represent a substantial NW range extension. But!:  Likely corresponds to unpubl. specimen- and barcode-based putative new species found by Zajonz & Bogorodsky that forms a separate BIN to fimbriatus in BOLD"
     },
     {
         "site": "Socotra Archipelago",
@@ -596,7 +626,9 @@
         "site": "Socotra Archipelago",
         "species": "Gymnothorax thyrsoideus",
         "AphiaID": 271889,
-        "remove": "false"
+        "new_AphiaID": 125636,
+        "remove": "false",
+        "comment": "not a good coverage, change to genus. also based on comment from Uwe Zajonz: Given the known distribution range, with Maldives as only WIO site, the record is doubtful, yet not completely improbable. The record is more likely referable to a misidentified specimen of G. pictus underlying the reference DNA. Re-sampling and barcoding desired!"
     },
     {
         "site": "Socotra Archipelago",
@@ -702,7 +734,8 @@
         "site": "Socotra Archipelago",
         "species": "Istiblennius spilotus",
         "AphiaID": 219300,
-        "remove": "false"
+        "remove": "false",
+        "comment": "Comment from Uze Zajonz: 'Given the known distribution range, with Laccadives and Maldives as westernmost WIO sites, the record is relatively doubtful, yet not completely improbable. Potentially referable to a misidentified specimen underlying the reference DNA. Re-sampling and barcoding desired!' However 100% match to record also in BOLD in Yemen: https://boldsystems.org/index.php/Public_RecordView?processid=LIDMA3551-22, possibly a misidentification but due to match, keep now"
     },
     {
         "site": "Socotra Archipelago",
@@ -928,14 +961,17 @@
         "site": "Socotra Archipelago",
         "species": "Parupeneus multifasciatus",
         "AphiaID": 277820,
+        "new_AphiaID": 204915,
         "remove": "false",
-        "comment": "99% match, can it be a different local species?"
+        "comment": "99% match, can it be a different local species? Change to genus based on comment from Uwe Zajonz:Given the known distribution range (only Indian Ocean site is Christmas Islands) considered highly doubtful; likely based on misidentified specimen underlying the reference DNA. Also, Zajonz, Bogorodsky et al. (2024) recently reviewed the family and had no evidence for this species. Specimen-sampling and re-barcoding required to confirm!"
     },
     {
         "site": "Socotra Archipelago",
         "species": "Parupeneus porphyreus",
         "AphiaID": 218662,
-        "remove": "false"
+        "new_AphiaID": 204915,
+        "remove": "false",
+        "comment": "two 100% matches, but to species that are not local, change to genus. based on Uwe Zajonz comment: Given the known distribution range (endemic to Hawaii) considered highly improbable; likely based on misidentified specimen underlying the reference DNA. Also, Zajonz, Bogorodsky et al. (2024) recently reviewed the family and had no evidence for this species. Specimen-sampling and re-barcoding required to confirm!"
     },
     {
         "site": "Socotra Archipelago",
@@ -1104,7 +1140,9 @@
         "site": "Socotra Archipelago",
         "species": "Pomacentrus baenschi",
         "AphiaID": 212973,
-        "remove": "false"
+        "new_AphiaID":204256,
+        "remove": "false",
+        "comment": "change to genus, 98.16% and compicated question. Comment from Uze Zajonz: Kenya and Tanzania represent the northernmost WIO sample-based range limit; insofar, the record is not improbable, perhaps possible, yet should be treated with caution unless the  specimen ID underlying the reference DNA is fully reliable. Specimen sampling desired!"
     },
     {
         "site": "Socotra Archipelago",
@@ -1267,6 +1305,14 @@
     },
     {
         "site": "Socotra Archipelago",
+        "species": "Siganus canaliculatus",
+        "AphiaID": 219687,
+        "new_AphiaID": 127045,
+        "remove": "false",
+        "comment": "100% match to canaliculatus and rivulatus, but most likely rivulatus. Also comment from Uwe Zajonz on S. Canaliculatus: Given the known distribution range the record is possible, yet marks the southernmost limit of the range. If the species ID of the specimen underlying the reference DANN is reliable, the record would confirm an earlier tentative visual record (Zajonz et al. 2019, Annex 1, ODUs)"
+    },
+    {
+        "site": "Socotra Archipelago",
         "species": "Sillago indica",
         "AphiaID": 273941,
         "new_AphiaID": 126072,
@@ -1346,7 +1392,9 @@
         "site": "Socotra Archipelago",
         "species": "Taeniamia macroptera",
         "AphiaID": 1022618,
-        "remove": "false"
+        "new_AphiaID": 826853,
+        "remove": "false",
+        "comment": "change to genus 97% match, likely local species is not in reference database. Comment from Uze Zajonz: Given the known distribution range (Indian Ocean sites are eastern India and Sri Lanka, the IWP) considered highly doubtful; likely based on misidentified specimen underlying the reference DNA. Requires re-sampling and barcoding for comparison with  T. fucata and pallida (on record)"
     },
     {
         "site": "Socotra Archipelago",
