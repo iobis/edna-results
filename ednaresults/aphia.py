@@ -1,6 +1,7 @@
 import pandas as pd
 from retry_requests import retry
 from requests import Session
+import logging
 
 
 retry_session = retry(Session(), retries=5, backoff_factor=2)
@@ -28,7 +29,12 @@ def add_aphiaid(df: pd.DataFrame) -> pd.DataFrame:
     batches = split_max_n(distinct_names, 50)
     names_map = {}
 
-    for batch in batches:
+    logging.debug(f"Matching names at all levels ({len(batches)} batches)")
+
+    for i, batch in enumerate(batches):
+
+        logging.debug(f"Batch {i + 1} of {len(batches)}")
+
         url = "https://www.marinespecies.org/rest/AphiaRecordsByMatchNames?marine_only=false&" + "&".join([f"scientificnames%5B%5D={name}" for name in batch])
         res = retry_session.get(url)
         res.raise_for_status()
@@ -51,88 +57,120 @@ def add_aphiaid(df: pd.DataFrame) -> pd.DataFrame:
 def add_accepted_aphiaid(df: pd.DataFrame) -> pd.DataFrame:
     """Add a valid_AphiaID column to a dataframe with AphiaIDs."""
 
-    aphiaids = list(df["AphiaID"])
+    aphiaids = list(set(df["AphiaID"]))
     batches = split_max_n(aphiaids, 50)
 
     accepted_aphiaids = []
 
-    for batch in batches:
+    logging.debug(f"Fetching accepted AphiaIDs for all AphiaIDs ({len(batches)} batches)")
+
+    for i, batch in enumerate(batches):
+
+        logging.debug(f"Batch {i + 1} of {len(batches)}")
+
         url = "https://www.marinespecies.org/rest/AphiaRecordsByAphiaIDs?" + "&".join([f"aphiaids%5B%5D={aphiaid}" for aphiaid in batch])
         res = retry_session.get(url)
         res.raise_for_status()
         aphia_records = res.json()
-        ids = [str(record["valid_AphiaID"]) if record["valid_AphiaID"] is not None else None for record in aphia_records]
+        ids = [int(record["valid_AphiaID"]) if record["valid_AphiaID"] is not None else None for record in aphia_records]
         accepted_aphiaids.extend(ids)
 
     assert len(accepted_aphiaids) == len(aphiaids)
-    df["valid_AphiaID"] = accepted_aphiaids
+
+    id_mapping = dict(zip(aphiaids, accepted_aphiaids))
+    df["valid_AphiaID"] = pd.Series([id_mapping.get(aphiaid) for aphiaid in df["AphiaID"]], dtype="Int64")
     df["valid_AphiaID"] = df["valid_AphiaID"].fillna(df["AphiaID"])
 
     return df
 
 
-def add_taxonomy(df: pd.DataFrame) -> pd.DataFrame:
+# def add_taxonomy(df: pd.DataFrame) -> pd.DataFrame:
 
-    aphiaids = list(df["valid_AphiaID"])
-    batches = split_max_n(aphiaids, 50)
+#     aphiaids = list(df["valid_AphiaID"])
+#     batches = split_max_n(aphiaids, 50)
 
-    taxa = []
+#     taxa = []
 
-    for batch in batches:
-        url = "https://www.marinespecies.org/rest/AphiaRecordsByAphiaIDs?" + "&".join([f"aphiaids%5B%5D={aphiaid}" for aphiaid in batch])
-        res = retry_session.get(url)
-        res.raise_for_status()
-        aphia_records = res.json()
-        records = [{
-            "AphiaID": record["AphiaID"],
-            "kingdom": record["kingdom"],
-            "phylum": record["phylum"],
-            "class": record["class"],
-            "order": record["order"],
-            "family": record["family"],
-            "genus": record["genus"],
-            "species": record["scientificname"],
-            "marine": record["isMarine"] != 0 or record["isBrackish"] != 0,
-            "rank": record["rank"].lower()
-        } for record in aphia_records]
-        assert len(records) == len(batch)
-        taxa.extend(records)
-    taxa_df = pd.DataFrame(taxa)
-    df = pd.concat([df, taxa_df], axis=1)
+#     for batch in batches:
+#         url = "https://www.marinespecies.org/rest/AphiaRecordsByAphiaIDs?" + "&".join([f"aphiaids%5B%5D={aphiaid}" for aphiaid in batch])
+#         res = retry_session.get(url)
+#         res.raise_for_status()
+#         aphia_records = res.json()
+#         records = [{
+#             "AphiaID": record["AphiaID"],
+#             "kingdom": record["kingdom"],
+#             "phylum": record["phylum"],
+#             "class": record["class"],
+#             "order": record["order"],
+#             "family": record["family"],
+#             "genus": record["genus"],
+#             "species": record["scientificname"],
+#             "marine": record["isMarine"] != 0 or record["isBrackish"] != 0,
+#             "rank": record["rank"].lower()
+#         } for record in aphia_records]
+#         assert len(records) == len(batch)
+#         taxa.extend(records)
+#     taxa_df = pd.DataFrame(taxa)
+#     df = pd.concat([df, taxa_df], axis=1)
 
-    return df
+#     return df
 
 
-def add_taxonomy_dwc(df: pd.DataFrame) -> pd.DataFrame:
+def add_taxonomy(df: pd.DataFrame, as_dwc: bool = True) -> pd.DataFrame:
     """Remove existing taxonomy columns and add taxonomy based on valid_AphiaID."""
 
     df = df.drop([col for col in ["kingdom", "phylum", "class", "order", "family", "genus", "scientificName", "taxonRank", "AphiaID"] if col in df.columns], axis=1)
 
-    aphiaids = list(df["valid_AphiaID"])
+    aphiaids = list(set(df["valid_AphiaID"]))
     batches = split_max_n(aphiaids, 50)
 
     taxa = []
 
-    for batch in batches:
+    logging.debug(f"Fetching taxonomy for all AphiaIDs ({len(batches)} batches)")
+
+    for i, batch in enumerate(batches):
+
+        logging.debug(f"Batch {i + 1} of {len(batches)}")
+
         url = "https://www.marinespecies.org/rest/AphiaRecordsByAphiaIDs?" + "&".join([f"aphiaids%5B%5D={aphiaid}" for aphiaid in batch])
         res = retry_session.get(url)
         res.raise_for_status()
         aphia_records = res.json()
-        records = [{
-            "AphiaID": record["AphiaID"],
-            "kingdom": record["kingdom"],
-            "phylum": record["phylum"],
-            "class": record["class"],
-            "order": record["order"],
-            "family": record["family"],
-            "genus": record["genus"],
-            "scientificName": record["scientificname"],
-            "taxonRank": record["rank"].lower()
-        } for record in aphia_records]
+
+        if as_dwc:
+            records = [{
+                "AphiaID": record["AphiaID"],
+                "kingdom": record["kingdom"],
+                "phylum": record["phylum"],
+                "class": record["class"],
+                "order": record["order"],
+                "family": record["family"],
+                "genus": record["genus"],
+                "scientificName": record["scientificname"],
+                "taxonRank": record["rank"].lower() if record.get("rank") else None
+            } for record in aphia_records]
+        else:
+            records = [{
+                "AphiaID": record["AphiaID"],
+                "kingdom": record["kingdom"],
+                "phylum": record["phylum"],
+                "class": record["class"],
+                "order": record["order"],
+                "family": record["family"],
+                "genus": record["genus"],
+                "species": record["scientificname"],
+                "marine": record["isMarine"] != 0 or record["isBrackish"] != 0,
+                "rank": record["rank"].lower() if record.get("rank") else None
+            } for record in aphia_records]
+
         assert len(records) == len(batch)
         taxa.extend(records)
 
-    taxa_df = pd.DataFrame(taxa)
+    assert len(taxa) == len(aphiaids)
+
+    taxon_mapping = dict(zip(aphiaids, taxa))
+
+    taxa_df = pd.DataFrame([taxon_mapping[aphiaid] for aphiaid in df["valid_AphiaID"]])
     df = pd.concat([df, taxa_df], axis=1)
 
     return df

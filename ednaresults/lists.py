@@ -90,7 +90,7 @@ class ListGenerator:
 
         # add taxonomy
 
-        aggregated = add_taxonomy(aggregated)
+        aggregated = add_taxonomy(aggregated, as_dwc=False)
         # todo: remove using annotation utilities
         aggregated = aggregated[aggregated["species"] != "Homo sapiens"]
         aggregated = aggregated.drop("valid_AphiaID", axis=1)
