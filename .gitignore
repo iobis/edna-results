@@ -11,5 +11,5 @@ dev*.R
 __pycache__
 .vscode
 output_lists.zip
-pipeline_data
+pipeline_data*
 
