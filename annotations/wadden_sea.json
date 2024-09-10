@@ -774,5 +774,53 @@
         "species": "Conodon nobilis",
         "remove": "true",
         "comment": "https://www.fishbase.se/summary/SpeciesSummary.php?id=401"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Chelidonichthys spinosus",
+        "AphiaID": 274878,
+        "remove": "false",
+        "new_AphiaID": 126178,
+        "comment": "changed to genus"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Myoxocephalus quadricornis",
+        "AphiaID": 254529,
+        "remove": "false",
+        "new_AphiaID": 127203,
+        "comment": "changed to local Myoxocephalus scorpius"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Mugil cephalus",
+        "AphiaID": 126983,
+        "remove": "false",
+        "new_AphiaID": 126032,
+        "comment": "changed to genus"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Oncorhynchus clarkii",
+        "AphiaID": 274347,
+        "remove": "false",
+        "new_AphiaID": 127187,
+        "comment": "changed to Salmo trutta"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Phoxinus phoxinus",
+        "AphiaID": 154326,
+        "remove": "false",
+        "new_AphiaID": 154285,
+        "comment": "Alburnus alburnus better match"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Salvelinus alpinus",
+        "AphiaID": 127188,
+        "remove": "false",
+        "new_AphiaID": 126142,
+        "comment": "changed to genus"
     }
 ]
