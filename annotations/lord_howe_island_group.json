@@ -2606,6 +2606,12 @@
         "AphiaID": 570761,
         "remove": "true",
         "comment": "bacteria"
+    },
+    {
+        "site": "Lord Howe Island Group",
+        "species": "Ursus arctos",
+        "AphiaID": 305140,
+        "remove": "true"
     }
 ]
 
