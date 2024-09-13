@@ -8,7 +8,8 @@ import logging
 import shutil
 import boto3
 from botocore.exceptions import NoCredentialsError
-from ednaresults.aphia import add_aphiaid, add_accepted_aphiaid, add_taxonomy_dwc
+from ednaresults.aphia import add_aphiaid, add_accepted_aphiaid, add_taxonomy
+from termcolor import colored
 
 
 class OccurrenceBuilder():
@@ -54,7 +55,7 @@ class OccurrenceBuilder():
 
         for site_name in folders_by_site:
 
-            logging.info(f"Processing {site_name} data")
+            logging.info(colored(f"Processing {site_name} data", "green"))
 
             occurrence_tables = []
             dna_tables = []
@@ -136,6 +137,25 @@ class OccurrenceBuilder():
             dna_combined_blank = dna_combined[dna_combined["occurrenceID"].isin(occurrence_ids_blank)]
             dna_combined_notblank = dna_combined[dna_combined["occurrenceID"].isin(occurrence_ids_notblank)]
 
+            # remove singletons from non blank data
+
+            read_counts = pd.merge(
+                occurrence_combined_notblank[["occurrenceID", "organismQuantity"]],
+                dna_combined_notblank[["occurrenceID", "DNA_sequence"]],
+                on="occurrenceID"
+            ).groupby("DNA_sequence", as_index=False).agg({"organismQuantity": "sum"})
+            singletons = read_counts[read_counts["organismQuantity"] == 1]
+            singleton_ids = dna_combined_notblank[dna_combined_notblank["DNA_sequence"].isin(singletons["DNA_sequence"])]["occurrenceID"]
+
+            occurrence_combined_notblank = occurrence_combined_notblank[~occurrence_combined_notblank["occurrenceID"].isin(singleton_ids)]
+            dna_combined_notblank = dna_combined_notblank[~dna_combined_notblank["occurrenceID"].isin(singleton_ids)]
+
+            # remove all A or all C
+
+            all_ac_ids = dna_combined_notblank[dna_combined_notblank["DNA_sequence"].str.fullmatch(r"[AC]+")]["occurrenceID"].tolist()
+            occurrence_combined_notblank = occurrence_combined_notblank[~occurrence_combined_notblank["occurrenceID"].isin(all_ac_ids)]
+            dna_combined_notblank = dna_combined_notblank[~dna_combined_notblank["occurrenceID"].isin(all_ac_ids)]
+
             # output
 
             occurrence_combined_blank.to_csv(os.path.join(self.output_folder, "blank", f"{site_name}_Occurrence.tsv"), sep="\t", index=False)
@@ -214,7 +234,7 @@ class OccurrenceBuilder():
         df = add_aphiaid(df)
         df = add_accepted_aphiaid(df)
         df["verbatimIdentification"] = df["scientificName"]
-        df = add_taxonomy_dwc(df)
+        df = add_taxonomy(df)
         return df
 
     def apply_annotations(self, df_occurrence: pd.DataFrame, site_name: str) -> pd.DataFrame:
@@ -295,25 +315,3 @@ class OccurrenceBuilder():
                         df_occurrence = df_occurrence[~df_occurrence["occurrenceID"].isin(occurrence_ids)]
 
         return df_occurrence
-
-    def upload(self, bucket_name: str = "obis-edna-results") -> None:
-
-        # compress all files in output folder
-
-        zip_file = "output.zip"
-        os.system(f"zip -r output.zip {self.output_folder}")
-
-        # upload zip file to S3
-
-        access_key = os.environ["AWS_ACCESS_KEY_ID"]
-        secret_key = os.environ["AWS_SECRET_ACCESS_KEY"]
-
-        s3 = boto3.client("s3", aws_access_key_id=access_key, aws_secret_access_key=secret_key)
-
-        try:
-            s3.upload_file(zip_file, bucket_name, zip_file)
-            logging.info("Upload Successful")
-        except FileNotFoundError:
-            logging.error("File not found")
-        except NoCredentialsError:
-            logging.error("Credentials not available")
