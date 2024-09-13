@@ -22,6 +22,14 @@
     },
     {
         "site": "Wadden Sea",
+        "species": "Chelidonichthys spinosus",
+        "AphiaID": 274878,
+        "new_AphiaID": 126178,
+        "remove": "false",
+        "comment": "close matches to many species, change to genus"
+    },
+    {
+        "site": "Wadden Sea",
         "species": "Diplodus kotschyi",
         "AphiaID": 998229,
         "remove": "true",
@@ -273,7 +281,7 @@
         "AphiaID": 272028,
         "new_AphiaID": "272027",
         "remove": "false",
-        "comment": "change to Atherina boyeri"
+        "comment": "change to Atherina boyeri or Atherina presbyter"
     },
     {
         "site": "Wadden Sea",
@@ -464,6 +472,13 @@
     },
     {
         "site": "Wadden Sea",
+        "species": "Meleagris gallopavo",
+        "AphiaID": 1525634,
+        "remove": "true",
+        "comment": "contamination from domestic animals?"
+    },
+    {
+        "site": "Wadden Sea",
         "species": "Mirounga leonina",
         "AphiaID": 231413,
         "remove": "true",
@@ -506,6 +521,14 @@
     },
     {
         "site": "Wadden Sea",
+        "species": "Mugil cephalus",
+        "AphiaID": 126983,
+        "new_AphiaID": 126032,
+        "remove": "false",
+        "comment": "98% match, change to genus"
+    },
+    {
+        "site": "Wadden Sea",
         "species": "Mugil curema",
         "AphiaID": 159416,
         "remove": "true",
@@ -523,6 +546,14 @@
         "species": "Myocastor coypus",
         "AphiaID": 594792,
         "remove": "false"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Myoxocephalus quadricornis",
+        "AphiaID": 254529,
+        "new_AphiaID": 127203, 
+        "remove": "false",
+        "comment":"Same match to local species Myoxocephalus scorpius, change"
     },
     {
         "site": "Wadden Sea",
@@ -579,9 +610,17 @@
         "site": "Wadden Sea",
         "species": "Oncorhynchus masou",
         "AphiaID": 293637,
-        "new_AphiaID": "126140 ",
+        "new_AphiaID": 126140,
         "remove": "false",
         "comment": "change to genus"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Oncorhynchus clarkii",
+        "AphiaID": 274347,
+        "new_AphiaID": 127187,
+        "remove": "false",
+        "comment": "change to salmo trutta, better match"
     },
     {
         "site": "Wadden Sea",
@@ -629,7 +668,7 @@
         "site": "Wadden Sea",
         "species": "Phoca largha",
         "AphiaID": 255021,
-        "new_AphiaID": "137084",
+        "new_AphiaID": 137084,
         "remove": "false",
         "comment": "change to Phoca vitulina"
     },
@@ -637,9 +676,17 @@
         "site": "Wadden Sea",
         "species": "Pholis laeta",
         "AphiaID": 273689,
-        "new_AphiaID": "126996",
+        "new_AphiaID": 126996,
         "remove": "false",
         "comment": "change to Pholis gunnellus"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Phoxinus phoxinus",
+        "AphiaID": 154326,
+        "new_AphiaID": 154285,
+        "remove": "false",
+        "comment": "Same or better match to Alburnus alburnus"
     },
     {
         "site": "Wadden Sea",
@@ -681,6 +728,14 @@
         "new_AphiaID": "154241",
         "remove": "false",
         "comment": "change to Salvelinus fontinalis"
+    },
+    {
+        "site": "Wadden Sea",
+        "species": "Salvelinus alpinus",
+        "AphiaID": 127188,
+        "new_AphiaID": 126142,
+        "remove": "false",
+        "comment": "100% match to multiple species, change to genus"
     },
     {
         "site": "Wadden Sea",

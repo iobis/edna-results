@@ -2595,6 +2595,13 @@
     },
     {
         "site": "Lord Howe Island Group",
+        "species": "Ursus arctos",
+        "AphiaID": 1506697,
+        "remove": "true",
+        "comment": "Polar bear, remove. Possibly order level: carnivora (a seal?)"
+    },
+    {
+        "site": "Lord Howe Island Group",
         "species": "Vibrio diabolicus",
         "AphiaID": 570757,
         "remove": "true",
