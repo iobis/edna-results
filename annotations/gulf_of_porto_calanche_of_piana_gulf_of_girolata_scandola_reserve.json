@@ -362,6 +362,14 @@
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Facelina rubrovittata",
+        "AphiaID": 139914,
+        "new_AphiaID": 137997,
+        "remove": "false",
+        "comment": "change to genus, reviewed based on comment from site"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Gaidropsarus guttatus",
         "AphiaID": 126455,
         "new_AphiaID": 126457,
@@ -895,6 +903,22 @@
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Protoceratium reticulatum",
+        "AphiaID": 110321,
+        "new_AphiaID": 109567,
+        "remove": "false",
+        "comment": "change to genus, based on comment from site"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Protosuberites mereui",
+        "AphiaID": 890847,
+        "new_AphiaID": 170779,
+        "remove": "false",
+        "comment": "change to genus, based on comment from site"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Pseudochattonella farcimen",
         "AphiaID": 531467,
         "remove": "true",
@@ -1002,9 +1026,9 @@
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Terpios gelatinosus",
         "AphiaID": 1041930,
-        "new_AphiaID": 890847,
+        "new_AphiaID": 132073,
         "remove": "false",
-        "comment": "change to Protosuberites mereui 100% match"
+        "comment": "Protosuberites mereui 100% match, however not confirmed, change to genus based on comments from site "
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
