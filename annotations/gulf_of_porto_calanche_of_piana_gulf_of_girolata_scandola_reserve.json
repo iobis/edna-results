@@ -742,6 +742,13 @@
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Paracalanus quasimodo",
+        "AphiaID": 354162,
+        "remove": "true",
+        "comment": "Remove based on comment from site"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Paramoeba pemaquidensis",
         "AphiaID": 120624,
         "remove": "true",
@@ -810,9 +817,15 @@
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Phaeocystis pouchetii",
         "AphiaID": 115106,
-        "new_AphiaID": 160538,
-        "remove": "false",
-        "comment": "change to Phaeocystis globosa"
+        "remove": "true",
+        "comment": "change to Phaeocystis globosa, remove based on comment from site"
+    },
+    {
+        "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+        "species": "Phaeocystis globosa",
+        "AphiaID": 160538,
+        "remove": "true",
+        "comment": "Remove based on comment from site"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
@@ -848,7 +861,8 @@
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Platynereis jourdei",
         "AphiaID": 1610819,
-        "remove": "false"
+        "remove": "true",
+        "comment": "Removed based on comment from site"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
@@ -883,7 +897,8 @@
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
         "species": "Pseudochattonella farcimen",
         "AphiaID": 531467,
-        "remove": "false"
+        "remove": "true",
+        "comment":"Remove based on comment from site"
     },
     {
         "site": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
