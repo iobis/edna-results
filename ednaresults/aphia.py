@@ -62,7 +62,7 @@ def add_accepted_aphiaid(df: pd.DataFrame) -> pd.DataFrame:
 
     accepted_aphiaids = []
 
-    logging.debug(f"Fetching accepted AphiaIDs for all AphiaIDs ({len(batches)} batches)")
+    logging.info(f"Fetching accepted AphiaIDs for all AphiaIDs ({len(batches)} batches)")
 
     for i, batch in enumerate(batches):
 
