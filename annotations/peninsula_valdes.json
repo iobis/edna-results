@@ -2146,6 +2146,30 @@
     },
     {
         "site": "Peninsula Valdès",
+        "species": "Balaena mysticetus",
+        "AphiaID": 137086,
+        "new_AphiaID": 220222,
+        "remove": "false",
+        "comment": "change to Eubalaena australis"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Sagmatias obliquidens",
+        "AphiaID": 1571909,
+        "new_AphiaID": 231434,
+        "remove": "false",
+        "comment": "change to Lagenorhyncus obscurus"
+    },
+    {
+        "site": "Peninsula Valdès",
+        "species": "Hyperoodon ampullatus",
+        "AphiaID": 343899,
+        "new_AphiaID": 137033,
+        "remove": "false",
+        "comment": "95% change to genus"
+    },
+    {
+        "site": "Peninsula Valdès",
         "species": "Grania pectinata",
         "AphiaID": 1310072,
         "remove": "true"
