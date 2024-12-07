@@ -1538,6 +1538,14 @@
     },
     {
         "site": "Ningaloo Coast",
+        "species": "Rhizoprionodon terraenovae",
+        "AphiaID": 158510,
+        "new_AphiaID": 105723,
+        "remove": "false",
+        "comment": "97.5% match, change to genus"
+    },
+    {
+        "site": "Ningaloo Coast",
         "species": "Rhodachlya hawaiiana",
         "AphiaID": 708100,
         "remove": "false"

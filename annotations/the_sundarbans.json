@@ -1287,6 +1287,13 @@
     },
     {
         "site": "The Sundarbans",
+        "species": "Sagmatias obliquidens",
+        "AphiaID": 254981,
+        "remove": "true",
+        "comment": "not a good match"
+    },
+    {
+        "site": "The Sundarbans",
         "species": "Leucocryptos marina",
         "remove": "true",
         "comment": "https://github.com/iobis/edna-species-lists/issues/31"

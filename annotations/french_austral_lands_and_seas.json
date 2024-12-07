@@ -71,6 +71,14 @@
     },
     {
         "site": "French Austral Lands and Seas",
+        "species": "Carcharodon carcharias",
+        "AphiaID": 105838,
+        "new_AphiaID": 105702,
+        "remove": "false",
+        "comment": "change family 95%"
+    },
+    {
+        "site": "French Austral Lands and Seas",
         "species": "Cirratulus balaenophilus",
         "AphiaID": 606245,
         "remove": "false"

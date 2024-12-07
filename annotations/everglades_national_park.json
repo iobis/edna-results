@@ -23,6 +23,13 @@
     },
     {
         "site": "Everglades National Park",
+        "species": "Apodemus agrarius",
+        "AphiaID": 1506688,
+        "remove": "true",
+        "comment": "terrestrial"
+    },
+    {
+        "site": "Everglades National Park",
         "species": "Anas poecilorhyncha",
         "AphiaID": 1034710,
         "remove": "true",

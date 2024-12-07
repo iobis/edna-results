@@ -983,6 +983,14 @@
     },
     {
         "site": "iSimangaliso Wetland Park",
+        "species": "Malacoraja kreffti",
+        "AphiaID": 105877,
+        "new_AphiaID": 105764,
+        "remove": "false",
+        "comment": "97% match, change to genus."
+    },
+    {
+        "site": "iSimangaliso Wetland Park",
         "species": "Megabalanus occator",
         "AphiaID": 535226,
         "new_AphiaID": 106123,

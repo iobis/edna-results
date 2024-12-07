@@ -31,6 +31,13 @@
     },
     {
         "site": "Cocos Island National Park",
+        "species": "Arvicanthis niloticus",
+        "AphiaID": 1516502,
+        "remove": "true",
+        "comment": "not a good match and terrestrial"
+    },
+    {
+        "site": "Cocos Island National Park",
         "species": "Aspergillus versicolor",
         "AphiaID": 100498,
         "remove": "true",
@@ -157,6 +164,14 @@
         "species": "Chloropicon laureae",
         "AphiaID": 1361155,
         "remove": "false"
+    },
+    {
+        "site": "Cocos Island National Park",
+        "species": "Chiloscyllium plagiosum",
+        "AphiaID": 277832,
+        "new_AphiaID": 148831,
+        "remove": "false",
+        "comment": "95% change to family"
     },
     {
         "site": "Cocos Island National Park",

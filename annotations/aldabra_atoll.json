@@ -465,6 +465,14 @@
     },
     {
         "site": "Aldabra Atoll",
+        "species": "Pateobatis hortlei",
+        "AphiaID": 1043417,
+        "new_AphiaID": 1042821,
+        "remove": "false",
+        "comment": "96.9% similarity change to genus"
+    },
+    {
+        "site": "Aldabra Atoll",
         "species": "Pempheris schwenkii",
         "AphiaID": 218699,
         "remove": "false"
@@ -1269,6 +1277,14 @@
         "species": "Yongeichthys criniger",
         "AphiaID": 278114,
         "remove": "false"
+    },
+    {
+        "site": "Aldabra Atoll",
+        "species": "Mesoplodon europaeus",
+        "AphiaID": 137123,
+        "new_AphiaID": 137034,
+        "remove": "false",
+        "comment": "change to genus"
     },
     {
         "site": "Aldabra Atoll",
