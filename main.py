@@ -11,7 +11,6 @@ logging.basicConfig(format="%(asctime)s %(levelname)s %(message)s", level=loggin
 
 list_generator = ListGenerator()
 occurrence_builder = OccurrenceBuilder(
-    # pipeline_data_path="./pipeline_data_scandola",
     list_generator=list_generator,
     sync_results=False
 )

@@ -203,7 +203,8 @@ class OccurrenceBuilder():
             "sampleSize": sample["size"],
             "higherGeography": sample["parent_area_name"],
             "blank": sample["blank"],
-            "locationID": sample["station"]
+            "locationID": sample["station"],
+            "eventDate": sample["event_begin"],
         } for sample in metadata["samples"]])
 
         return metadata_df
@@ -240,9 +241,11 @@ class OccurrenceBuilder():
 
     def apply_annotations(self, df_occurrence: pd.DataFrame, site_name: str) -> pd.DataFrame:
 
+        names_before = df_occurrence["scientificName"].nunique()
+
         with open(f"annotations/{site_name}.json") as f:
             annotations = json.load(f)
-            logging.info(f"Applying {len(annotations)} annotations for {site_name}")
+            logging.info(f"Applying {len(annotations)} annotations for {site_name} ({names_before} names before)")
             for annotation in annotations:
 
                 # get affected occurrenceIDs based on name
@@ -272,7 +275,8 @@ class OccurrenceBuilder():
 
                 if "AphiaID" in annotation:
                     affected_taxon = pyworms.aphiaRecordByAphiaID(str(annotation["AphiaID"]).strip())
-                    occurrence_ids_aphiaid = list(df_occurrence.loc[df_occurrence["valid_AphiaID"] == str(affected_taxon["valid_AphiaID"])]["occurrenceID"])
+                    affected_id = affected_taxon["valid_AphiaID"] if affected_taxon["valid_AphiaID"] is not None else affected_taxon["AphiaID"]
+                    occurrence_ids_aphiaid = list(df_occurrence.loc[df_occurrence["valid_AphiaID"].astype(int) == int(affected_id)]["occurrenceID"])
                     occurrence_ids = list(set(occurrence_ids + occurrence_ids_aphiaid))
 
                 # apply
@@ -303,6 +307,9 @@ class OccurrenceBuilder():
                         df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["taxonRank"]] = new_taxon["rank"].lower()
                         df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["identificationRemarks"]] = "scientificName changed due to a manual annotation; " + df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["identificationRemarks"]]
 
+            names_after = df_occurrence["scientificName"].nunique()
+            logging.info(f"{names_after} names after")
+
         if self.remove_contaminants:
 
             with open(f"annotations/contaminants.json") as f:
@@ -314,5 +321,8 @@ class OccurrenceBuilder():
                         logging.debug(f"Removing {rank} {name} from {site_name}")
                         occurrence_ids = list(df_occurrence.loc[df_occurrence[rank.strip()] == name.strip()]["occurrenceID"])
                         df_occurrence = df_occurrence[~df_occurrence["occurrenceID"].isin(occurrence_ids)]
+
+                names_after = df_occurrence["scientificName"].nunique()
+                logging.info(f"{names_after} names after")
 
         return df_occurrence
