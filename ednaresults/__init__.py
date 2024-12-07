@@ -192,6 +192,7 @@ class OccurrenceBuilder():
             return data
 
     def fetch_metadata_df(self):
+        logging.info("Fetching metadata from PlutoF")
         metadata = self.fetch_metadata()
 
         metadata_df = pd.DataFrame.from_dict([{

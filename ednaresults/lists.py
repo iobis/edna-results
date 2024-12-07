@@ -1,5 +1,4 @@
 import pandas as pd
-import requests
 from ednaresults.aphia import add_accepted_aphiaid, add_taxonomy
 import os
 import datetime
@@ -14,6 +13,9 @@ class ListGenerator:
 
     def __init__(self):
         self.output_folder = "output_lists"
+
+        self.database_species = self.fetch_database_species()
+        self.database_species = add_accepted_aphiaid(self.database_species)
 
     def prepare_output_folder(self):
         logging.warn(f"Clearing output directory {self.output_folder}")
@@ -31,14 +33,12 @@ class ListGenerator:
         for subfolder in subfolders:
             os.makedirs(subfolder)
 
-    def fetch_database_species(self, site_name):
-        url = f"https://raw.githubusercontent.com/iobis/mwhs-obis-species/master/lists/{site_name}.json"
-        res = requests.get(url)
-        species = pd.DataFrame(res.json()["species"])[["species", "AphiaID", "records", "obis", "gbif", "max_year"]]
+    def fetch_database_species(self):
+        logging.info("Fetching database species list from AWS")
+        url = "https://obis-products.s3.amazonaws.com/mwhs/lists.csv"
+        species = pd.read_csv(url)[["site", "species", "AphiaID", "records", "source_obis", "source_gbif", "max_year"]]
         species = species.rename(columns={
-            "species": "scientificName",
-            "obis": "source_obis",
-            "gbif": "source_gbif"
+            "species": "scientificName"
         })
         species["records"] = species["records"].astype("Int64")
         return species
@@ -64,14 +64,10 @@ class ListGenerator:
         edna_species_accepted = add_accepted_aphiaid(edna_species)
         edna_species_accepted["source_dna"] = True
 
-        # get obis species
-
-        database_species = self.fetch_database_species(site_name)
-        database_species_accepted = add_accepted_aphiaid(database_species)
-
         # combine
 
-        combined = pd.concat([edna_species_accepted, database_species_accepted], axis=0)
+        site_database_species = self.database_species[self.database_species["site"] == site_name]
+        combined = pd.concat([edna_species_accepted, site_database_species], axis=0)
         aggregated = combined.groupby(["valid_AphiaID"]).agg({
             "source_dna": "max",
             "source_obis": "max",
