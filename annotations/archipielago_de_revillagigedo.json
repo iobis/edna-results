@@ -13,6 +13,24 @@
     },
     {
         "site": "Archipiélago de Revillagigedo",
+        "species": "Acanthemblemaria aspera",
+        "AphiaID": 279443,
+        "remove": "true"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "species": "Acanthemblemaria spinosa",
+        "AphiaID": 254883,
+        "remove": "true"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "species": "Acentrogobius virgatulus",
+        "AphiaID": 1495508,
+        "remove": "true"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
         "species": "Acartia negligens",
         "AphiaID": 104259,
         "remove": "false"
@@ -112,7 +130,9 @@
         "site": "Archipiélago de Revillagigedo",
         "species": "Axoclinus storeyae",
         "AphiaID": 293661,
-        "remove": "false"
+        "new_AphiaID": 268469,
+        "remove": "false",
+        "comment": "change to genus, low similarity"
     },
     {
         "site": "Archipiélago de Revillagigedo",
@@ -224,7 +244,9 @@
         "site": "Archipiélago de Revillagigedo",
         "species": "Canthigaster janthinoptera",
         "AphiaID": 219940,
-        "remove": "false"
+        "new_AphiaID": 126238,
+        "remove": "false",
+        "comment": "100% match, but not enough resolution, change to genus"
     },
     {
         "site": "Archipiélago de Revillagigedo",
@@ -283,6 +305,13 @@
         "AphiaID": 100511,
         "remove": "true",
         "comment": "fungi"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "species": "Clarias gariepinus",
+        "AphiaID": 888192,
+        "remove": "true",
+        "comment": "freshwater"
     },
     {
         "site": "Archipiélago de Revillagigedo",
@@ -376,6 +405,12 @@
     },
     {
         "site": "Archipiélago de Revillagigedo",
+        "species": "Crenimugil buchanani",
+        "AphiaID": 1042834,
+        "remove": "true"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
         "species": "Creseis conica",
         "AphiaID": 390545,
         "remove": "true"
@@ -391,6 +426,14 @@
         "species": "Cubiceps squamiceps",
         "AphiaID": 367292,
         "remove": "false"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "species": "Cubiceps whiteleggii",
+        "AphiaID": 273680,
+        "new_AphiaID": 126037,
+        "remove": "false",
+        "comment": "not local, 100% match, but not enough resolution, change to genus"
     },
     {
         "site": "Archipiélago de Revillagigedo",
@@ -446,7 +489,9 @@
         "site": "Archipiélago de Revillagigedo",
         "species": "Diodon liturosus",
         "AphiaID": 219970,
-        "remove": "false"
+        "new_AphiaID": 127402,
+        "remove": "false",
+        "comment": "change to local species holocanthus"
     },
     {
         "site": "Archipiélago de Revillagigedo",
@@ -639,6 +684,13 @@
     },
     {
         "site": "Archipiélago de Revillagigedo",
+        "species": "Gymnothorax saxicola",
+        "AphiaID": ,
+        "new_AphiaID": ,
+        "remove": "true"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
         "species": "Haeckelia rubra",
         "AphiaID": 106370,
         "remove": "true"
@@ -743,6 +795,13 @@
     },
     {
         "site": "Archipiélago de Revillagigedo",
+        "species": "Johnius grypotus",
+        "AphiaID": 276111,
+        "remove": "true",
+        "comment": "bad match"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
         "species": "Karenia brevis",
         "AphiaID": 233015,
         "remove": "false"
@@ -764,6 +823,14 @@
         "species": "Kyphosus cinerascens",
         "AphiaID": 218708,
         "remove": "true"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "species": "Kyphosus bigibbus",
+        "AphiaID": 218707,
+        "new_AphiaID": 126015,
+        "remove": "false",
+        "comment": "equal match to multiple species, change to genus"
     },
     {
         "site": "Archipiélago de Revillagigedo",
@@ -825,6 +892,14 @@
         "species": "Lythrypnus dalli",
         "AphiaID": 281457,
         "remove": "false"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "species": "Lythrypnus rhizophora",
+        "AphiaID": 281469,
+        "new_AphiaID": 269761,
+        "remove": "false",
+        "comment": "bad match, not in local list, change to genus"
     },
     {
         "site": "Archipiélago de Revillagigedo",
@@ -895,6 +970,22 @@
         "species": "Myripristis pralinia",
         "AphiaID": 217919,
         "remove": "true"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "species": "Myripristis jacobus",
+        "AphiaID": 159385,
+        "new_AphiaID": 276199,
+        "remove": "false",
+        "comment": "change to local species leiognathus"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "species": "Myripristis kuntee",
+        "AphiaID": 217915,
+        "new_AphiaID": 217927,
+        "remove": "false",
+        "comment": "equal match to local species berndti, change"
     },
     {
         "site": "Archipiélago de Revillagigedo",
@@ -975,6 +1066,14 @@
         "species": "Ophidion asiro",
         "AphiaID": 272816,
         "remove": "true"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "species": "Ophioblennius atlanticus",
+        "AphiaID": 212371,
+        "new_AphiaID": 125919,
+        "remove": "false",
+        "comment": "97.74% match, change to genus as its not in local list also"
     },
     {
         "site": "Archipiélago de Revillagigedo",
@@ -1094,6 +1193,14 @@
     },
     {
         "site": "Archipiélago de Revillagigedo",
+        "species": "Physiculus japonicus",
+        "AphiaID": 272496,
+        "new_AphiaID": 125474,
+        "remove": "false",
+        "comment": "change to family"    
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
         "species": "Pione vastifica",
         "AphiaID": 157411,
         "remove": "false"
@@ -1118,6 +1225,13 @@
         "new_AphiaID": "206953",
         "remove": "false",
         "comment": "change to Pocillopora damicornis "
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "species": "Pomatoschistus microps",
+        "AphiaID": 126927,
+        "remove": "true",
+        "comment": "European, possible cross-contamination?"
     },
     {
         "site": "Archipiélago de Revillagigedo",
@@ -1240,7 +1354,9 @@
         "site": "Archipiélago de Revillagigedo",
         "species": "Rypticus saponaceus",
         "AphiaID": 275963,
-        "remove": "false"
+        "new_AphiaID": 275957,
+        "remove": "false",
+        "comment": "Not on local list, but over 99% match to (new voucher) Rypticus bicolor"
     },
     {
         "site": "Archipiélago de Revillagigedo",
@@ -1258,7 +1374,17 @@
         "site": "Archipiélago de Revillagigedo",
         "species": "Scorpaenodes evides",
         "AphiaID": 712541,
-        "remove": "false"
+        "new_AphiaID": 274756,
+        "remove": "false",
+        "comment": "Change to local species xyris"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "species": "Schindleria praematura",
+        "AphiaID": 282679,
+        "new_AphiaID": 270820,
+        "remove": "false",
+        "comment": "Good match, but not local, change to genus"
     },
     {
         "site": "Archipiélago de Revillagigedo",
@@ -1296,6 +1422,14 @@
         "AphiaID": 165714,
         "remove": "true",
         "comment": "caribbean species"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "species": "Syacium maculiferum",
+        "AphiaID": 275842,
+        "new_AphiaID":154168, 
+        "remove": "false",
+        "comment": "not a good match, change to family"
     },
     {
         "site": "Archipiélago de Revillagigedo",
@@ -1368,6 +1502,14 @@
     },
     {
         "site": "Archipiélago de Revillagigedo",
+        "species": "Trachinotus rhodopus",
+        "AphiaID": 273297,
+        "new_AphiaID": 125945, 
+        "remove": "false",
+        "comment": "not a good match, change to genus"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
         "species": "Tripneustes gratilla",
         "AphiaID": 212453,
         "remove": "false"
@@ -1408,14 +1550,17 @@
         "site": "Archipiélago de Revillagigedo",
         "species": "Woodsia nonsuchae",
         "AphiaID": 283166,
-        "remove": "false"
+        "new_AphiaID": 274961,
+        "remove": "false",
+        "comment": "100% match to Vinciguerria lucetia"
     },
     {
         "site": "Archipiélago de Revillagigedo",
         "species": "Xanthichthys ringens",
         "AphiaID": 159486,
+        "new_AphiaID": 276247,
         "remove": "false",
-        "comment": "caribbean species"
+        "comment": "change to local species mento"
     },
     {
         "site": "Archipiélago de Revillagigedo",
@@ -1427,9 +1572,9 @@
         "site": "Archipiélago de Revillagigedo",
         "species": "Abudefduf vaigiensis",
         "AphiaID": 212879,
-        "new_AphiaID": "254879",
+        "new_AphiaID": 273702,
         "remove": "false",
-        "comment": "change to Abudefduf abdominalis"
+        "comment": "change to local species Abudefduf troschelii"
     },
     {
         "site": "Archipiélago de Revillagigedo",
@@ -1450,13 +1595,16 @@
         "site": "Archipiélago de Revillagigedo",
         "species": "Anisotremus scapularis",
         "AphiaID": 279622,
-        "remove": "false"
+        "new_AphiaID": 268319,
+        "remove": "false",
+        "comment": "98% but also surinamensis, likely a local species that is not in the database, change to genus"
     },
     {
         "site": "Archipiélago de Revillagigedo",
         "species": "Anisotremus surinamensis",
         "AphiaID": 279623,
-        "remove": "false"
+        "remove": "false",
+        "comment":"not in local list, and caribbean species, but 100% match to only this species"
     },
     {
         "site": "Archipiélago de Revillagigedo",
@@ -1468,9 +1616,9 @@
         "site": "Archipiélago de Revillagigedo",
         "species": "Apogon imberbis",
         "AphiaID": 273021,
-        "new_AphiaID": "272982",
+        "new_AphiaID": 125913,
         "remove": "false",
-        "comment": "change to Apogon binotatus"
+        "comment": "likely local species is missing from database, change to genus"
     },
     {
         "site": "Archipiélago de Revillagigedo",
@@ -1504,7 +1652,7 @@
         "site": "Archipiélago de Revillagigedo",
         "species": "Callithamnion baileyi",
         "AphiaID": 502202,
-        "new_AphiaID": "143832",
+        "new_AphiaID": 143832,
         "remove": "false",
         "comment": "change to genus"
     },
@@ -1512,7 +1660,7 @@
         "site": "Archipiélago de Revillagigedo",
         "species": "Caprella verrucosa",
         "AphiaID": 430930,
-        "new_AphiaID": "101430",
+        "new_AphiaID": 101430,
         "remove": "false",
         "comment": "change to genus"
     },
@@ -1520,7 +1668,7 @@
         "site": "Archipiélago de Revillagigedo",
         "species": "Carcharhinus brevipinna",
         "AphiaID": 105788,
-        "new_AphiaID": "105719",
+        "new_AphiaID": 105719,
         "remove": "false",
         "comment": "change to genus"
     },
@@ -1528,7 +1676,31 @@
         "site": "Archipiélago de Revillagigedo",
         "species": "Cephalopholis microprion",
         "AphiaID": 279150,
-        "new_AphiaID": "206732",
+        "new_AphiaID": 206732,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "species": "Cephalopholis sexmaculata",
+        "AphiaID": 218189,
+        "new_AphiaID": 206732,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "species": "Cephalopholis cruentata",
+        "AphiaID": 279146,
+        "new_AphiaID": 206732,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "species": "Cephalopholis sonnerati",
+        "AphiaID": 218183,
+        "new_AphiaID": 206732,
         "remove": "false",
         "comment": "change to genus"
     },
@@ -1660,7 +1832,7 @@
         "site": "Archipiélago de Revillagigedo",
         "species": "Eucinostomus melanopterus",
         "AphiaID": 276423,
-        "remove": "false",
+        "remove": "true",
         "comment": "chance of cross-contamination"
     },
     {
@@ -1760,6 +1932,14 @@
     },
     {
         "site": "Archipiélago de Revillagigedo",
+        "species": "Halichoeres nebulosus",
+        "AphiaID": 218986,
+        "new_AphiaID": 125541,
+        "remove": "false",
+        "comment": "change to family"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
         "species": "Hymeniacidon sinapium",
         "AphiaID": 165916,
         "new_AphiaID": "131807",
@@ -1834,8 +2014,8 @@
         "site": "Archipiélago de Revillagigedo",
         "species": "Lutjanus argentimaculatus",
         "AphiaID": 218498,
-        "remove": "false",
-        "comment": "to review"
+        "remove": "true",
+        "comment": "possible cross-contamination"
     },
     {
         "site": "Archipiélago de Revillagigedo",
@@ -1876,6 +2056,14 @@
     },
     {
         "site": "Archipiélago de Revillagigedo",
+        "species": "Myripristis botche",
+        "AphiaID": 217922,
+        "new_AphiaID": 159383,
+        "remove": "false",
+        "comment": "change to genus"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
         "species": "Navanax aenigmaticus",
         "AphiaID": 224593,
         "remove": "false"
@@ -1892,13 +2080,21 @@
         "site": "Archipiélago de Revillagigedo",
         "species": "Oncorhynchus kisutch",
         "AphiaID": 127184,
-        "remove": "false"
+        "new_AphiaID": 126140,
+        "remove": "false",
+        "comment": "98% match, but northern, missing local species? change to genus"
     },
     {
         "site": "Archipiélago de Revillagigedo",
         "species": "Oryzaephilus surinamensis",
         "AphiaID": 1489545,
         "remove": "false"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "species": "Ostorhinchus taeniophorus",
+        "AphiaID": 712689,
+        "remove": "true"
     },
     {
         "site": "Archipiélago de Revillagigedo",
@@ -1994,6 +2190,13 @@
     },
     {
         "site": "Archipiélago de Revillagigedo",
+        "species": "Prochilodus rubrotaeniatus",
+        "AphiaID": 1017588,
+        "remove": "true",
+        "comment": "freshwater"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
         "species": "Pseudevadne tergestina",
         "AphiaID": 106278,
         "remove": "false"
@@ -2074,6 +2277,14 @@
         "new_AphiaID": "170695",
         "remove": "false",
         "comment": "change to genus"
+    },
+    {
+        "site": "Archipiélago de Revillagigedo",
+        "species": "Solegnathus spinosissimus",
+        "AphiaID": 278078,
+        "new_AphiaID": 205355,
+        "remove": "false",
+        "comment": "only 7 reads, wrong area 97% match, change to genus"
     },
     {
         "site": "Archipiélago de Revillagigedo",
