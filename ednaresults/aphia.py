@@ -57,10 +57,9 @@ def add_aphiaid(df: pd.DataFrame) -> pd.DataFrame:
 def add_accepted_aphiaid(df: pd.DataFrame) -> pd.DataFrame:
     """Add a valid_AphiaID column to a dataframe with AphiaIDs."""
 
-    aphiaids = list(set(df["AphiaID"]))
+    aphiaids = [int(aphiaid) for aphiaid in set(df["AphiaID"])]
     batches = split_max_n(aphiaids, 50)
-
-    accepted_aphiaids = []
+    accepted_aphiaids = dict()
 
     logging.info(f"Fetching accepted AphiaIDs for all AphiaIDs ({len(batches)} batches)")
 
@@ -72,14 +71,23 @@ def add_accepted_aphiaid(df: pd.DataFrame) -> pd.DataFrame:
         res = retry_session.get(url)
         res.raise_for_status()
         aphia_records = res.json()
-        ids = [int(record["valid_AphiaID"]) if record["valid_AphiaID"] is not None else None for record in aphia_records]
-        accepted_aphiaids.extend(ids)
 
-    assert len(accepted_aphiaids) == len(aphiaids)
+        aphia_map = {record["AphiaID"]: record["valid_AphiaID"] for record in aphia_records if record["valid_AphiaID"] is not None}
 
-    id_mapping = dict(zip(aphiaids, accepted_aphiaids))
-    df["valid_AphiaID"] = pd.Series([id_mapping.get(aphiaid) for aphiaid in df["AphiaID"]], dtype="Int64")
-    df["valid_AphiaID"] = df["valid_AphiaID"].fillna(df["AphiaID"])
+        accepted_aphiaids.update(aphia_map)
+
+        if "124454" in batch:  # and 124454 not in aphia_map:
+            print(aphia_map)
+
+    # report on missing AphiaIDs
+    missing_aphiaids = set(aphiaids) - set(accepted_aphiaids.keys())
+    if missing_aphiaids:
+        logging.warning(f"Could not retrieve valid AphiaIDs for {len(missing_aphiaids)} AphiaIDs")
+        for aphiaid in missing_aphiaids:
+            logging.warning(f"Missing valid AphiaID for: {aphiaid}")
+
+    df["valid_AphiaID"] = pd.Series([accepted_aphiaids.get(aphiaid, None) for aphiaid in df["AphiaID"]], dtype="Int64")
+    df["valid_AphiaID"] = df["valid_AphiaID"].fillna(df["AphiaID"])  # use original AphiaID if no accepted AphiaID is found
 
     return df
 
@@ -165,6 +173,8 @@ def add_taxonomy(df: pd.DataFrame, as_dwc: bool = True) -> pd.DataFrame:
 
         assert len(records) == len(batch)
         taxa.extend(records)
+
+        # TODO! fix for missing taxa, result set not same size as query
 
     assert len(taxa) == len(aphiaids)
 
