@@ -24,6 +24,10 @@ wget https://obis-edna-results.s3.amazonaws.com/output.zip
 unzip output.zip
 ```
 
+### Older versions
+
+- https://obis-edna-results.s3.amazonaws.com/output_20241207.zip
+
 ### Read the dataset using R
 
 See https://github.com/iobis/edna-results/blob/master/docs/read.md.
