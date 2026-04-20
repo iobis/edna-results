@@ -281,7 +281,7 @@ class OccurrenceBuilder():
 
                 # apply
 
-                if annotation["remove"] == True or annotation["remove"] == "true":
+                if "remove" in annotation and (annotation["remove"] == True or annotation["remove"] == "true"):
 
                     logging.debug(f"Removing {field} {name} from {site_name}")
                     # TODO: use higher taxon (phylum?) for scientificName and scientificNameID
@@ -291,7 +291,7 @@ class OccurrenceBuilder():
                         df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["scientificNameID"]] = "urn:lsid:marinespecies.org:taxname:12"
                         df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["identificationRemarks"]] = "scientificName changed due to a manual annotation; " + df_occurrence.loc[df_occurrence["occurrenceID"].isin(occurrence_ids), ["identificationRemarks"]]
 
-                if (annotation["remove"] == False or annotation["remove"] == "false") and "new_AphiaID" in annotation:
+                if "remove" in annotation and (annotation["remove"] == False or annotation["remove"] == "false") and "new_AphiaID" in annotation:
 
                     logging.debug(f"Updating {field} {name} for {site_name}")
                     if len(occurrence_ids) > 0:
